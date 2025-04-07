@@ -52,9 +52,10 @@ def download_from_drive(file_id, credentials):
 
 # 인증 정보 가져오기 함수
 def get_credentials():
-    """구글 API 인증 정보 가져오기"""
+    """Streamlit secrets에서 구글 API 인증 정보 가져오기"""
     scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
-    return ServiceAccountCredentials.from_json_keyfile_name('./cami-453311-39c21c55b5b4.json', scope)
+    creds_dict = st.secrets["connections"]["gcs"]
+    return ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
 
 # 세션 상태 초기화
 if 'is_logged_in' not in st.session_state:

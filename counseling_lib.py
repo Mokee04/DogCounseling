@@ -18,16 +18,11 @@ class LoadPrequestions:
     """구글 스프레드시트에서 반려견 사전 설문 정보 불러오고 가공하는 클래스"""
     
     def __init__(self, login_info):
-        """
-        로그인 하고 구글 시트에서 설문 데이터 불러오는 함수
-        
-        login_info에는 {'id': 이메일, 'password': 비번} 형태로 넣으면 됨
-        사용자 정보 찾아서 설문 응답 데이터 가져옴
-        없는 계정이면 에러 띄움
-        """
+        """로그인 하고 구글 시트에서 설문 데이터 불러오는 함수"""
         # 구글 API 연결 - 스프레드시트 접근 권한 얻기
         scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
-        creds = ServiceAccountCredentials.from_json_keyfile_name('./cami-453311-39c21c55b5b4.json', scope)
+        creds_dict = st.secrets["connections"]["gcs"]
+        creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
         client = gspread.authorize(creds)
         sheet = client.open_by_url(f'https://docs.google.com/spreadsheets/d/{st.secrets["prequestions_id"]}')
         worksheet = sheet.worksheet('응답')
@@ -46,7 +41,7 @@ class LoadPrequestions:
         id, password = login_info['id'], login_info['password']
         user_data = raw[(raw['email'] == id) & (raw['password'] == password)]
         
-        # 없는 계정이면 에러 띄우기
+        # 없는 계정이면 에러 띄움
         if len(user_data) == 0:
             raise ValueError("존재하지 않는 아이디 또는 비밀번호입니다.")
         
@@ -402,10 +397,9 @@ A. {response}"""
                 # 인증 정보가 없으면 기본 인증 정보 사용
                 if credentials is None:
                     # 구글 API 연결 설정
-                    scope = ['https://spreadsheets.google.com/feeds', 
-                            'https://www.googleapis.com/auth/drive']
-                    credentials = ServiceAccountCredentials.from_json_keyfile_name(
-                        './cami-453311-39c21c55b5b4.json', scope)
+                    scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
+                    creds_dict = st.secrets["connections"]["gcs"]
+                    credentials = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
                 
                 # Drive에 업로드 - 기존 파일 ID가 있으면 먼저 직접 업데이트 시도
                 if file_id:
@@ -489,49 +483,3 @@ A. {response}"""
         except Exception as e:
             print(f"Google Drive에서 모델 로드 중 오류 발생: {e}")
             return None
-
-# # 스크립트를 직접 실행할 때만 작동하는 코드
-# if __name__ == "__main__":
-#     # 환경 설정하기
-#     model_name = "models/gemini-2.0-flash"  # 사용할 모델
-    
-#     # 개발 환경에 따라 경로 다르게 설정
-#     base_path = "C:/Users/mokj0/Desktop/DogCounseling" if os.path.exists("C:/Users/mokj0/Desktop") else "/Users/hwamokj/Desktop/Research/LLMs/DogCounseling"
-    
-#     # 환경변수 불러오기 (.env 파일에서)
-#     google_ai_studio_key = st.secrets['GOOGLE_AI_STUDIO_KEY']
-    
-#     # 테스트용 로그인 정보
-#     login_info = {'id': 'mokj0412@naver.com', 'password': 'XB29AE12'}
-
-#     # 사전 설문지 정보 로드하기
-#     process = LoadPrequestions(login_info=login_info)
-#     user_context = process.generate_user_context()
-#     print(user_context)  # 확인용 출력
-
-#     # 상담 모델 초기화하고 테스트
-#     chat_process = CounselingWithGemini(
-#         user_context=user_context, 
-#         google_ai_studio_key=google_ai_studio_key
-#     )
-#     chat_process.define_model(model_name=model_name)
-    
-#     # 첫 번째 질문 (프로필 요약 요청)
-#     response = chat_process.send_question(
-#         question="반려견 양육 상담 사전조사 내용을 토대로 반려견의 정보를 수집하고, 개인화된 양육 솔루션을 제공해 주세요."
-#     )
-    
-#     # 두 번째 질문 (기억력 테스트)
-#     response = chat_process.send_question(question="방금 전에 무슨 대화 했지요?")
-    
-#     # 모델 정보와 채팅 기록 출력
-#     print(f"모델 정보 : \n{chat_process.get_chat_info()}")
-#     json_history = chat_process.get_chat_history()
-#     print(f"채팅 기록 :", json_history)
-    
-#     # 채팅 기록 JSON 파일로 저장
-#     today = datetime.date.today()
-#     save_path = base_path + f'/output/chat_history_{today.strftime("%Y%m%d")}.json'
-#     with open(save_path, 'w', encoding='utf-8') as f:
-#         json.dump(json_history, f, indent=4)
-#     print(f"채팅 기록 저장... : {save_path}")
