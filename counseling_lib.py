@@ -178,7 +178,7 @@ class CounselingWithGemini:
         
         # 구글 드라이브에서 시스템 지시문 파일 다운로드
         self.instruction_data = download_instruction_file(credentials)
-        system_instruction = self.instruction_data.get('system_instruction', "반려견 양육 상담을 진행합니다.")
+        system_instruction = self.instruction_data.get('system_instruction', "오류. 반려견 양육 상담 진행 불가를 안내하고 운영진에 문의를 요청하세요.")
         
         # 시스템 지시문과 사용자 컨텍스트 결합
         self.sys_inst = f"{system_instruction}\n\n{user_context}"
@@ -205,10 +205,11 @@ class CounselingWithGemini:
         generation_config = types.GenerateContentConfig(
             system_instruction=self.sys_inst,  # 시스템 지시문 (상담사 역할 정의)
             response_mime_type="text/plain",   # 텍스트 응답
-            temperature=0.7,                   # 응답 다양성
-            top_p=0.95,                        # 토큰 선택 범위
-            max_output_tokens=2048,            # 최대 토큰 수
-            safety_settings=safety_settings     # 안전 설정
+            temperature=self.instruction_data.get('temperature', 0.7),  # 응답 다양성
+            top_p=self.instruction_data.get('top_p', 0.95),  # 토큰 선택 범위
+            top_k=self.instruction_data.get('top_k', 40),  # top_k 토큰 선택
+            max_output_tokens=self.instruction_data.get('max_output_tokens', 2048),  # 최대 토큰 수
+            safety_settings=safety_settings  # 안전 설정
         )
         
         # Gemini API 클라이언트 생성하고 채팅 모델 초기화
