@@ -500,7 +500,8 @@ else:
             
             # 메시지 표시
             with st.chat_message(message["role"]):
-                st.write(message["content"])
+                #st.write(message["content"])
+                st.markdown(message["content"], unsafe_allow_html=False)
                 
                 # 여백 조정 (버튼이 메시지에 너무 붙지 않도록)
                 st.markdown('<div style="text-align: right; margin-top: -15px;"></div>', 
@@ -519,8 +520,9 @@ else:
         else:
             # 사용자 메시지 (피드백 버튼 없음)
             with st.chat_message(message["role"]):
-                st.write(message["content"])
-
+                #st.write(message["content"])
+                st.markdown(message["content"], unsafe_allow_html=False)
+                
     # 모든 메시지를 하나의 명령으로 렌더링 - 화면 깜빡임 최소화
     with st.container():
         # 한번에 모든 채팅 메시지를 처리하여 UI 안정성 향상
@@ -534,7 +536,8 @@ else:
     if user_input:
         # 사용자 메시지 즉시 표시 - 반응성 향상
         with st.chat_message("user"):
-            st.write(user_input)
+            #st.write(user_input)
+            st.markdown(user_input, unsafe_allow_html=False)
         
         # 사용자 메시지 저장 - UUID로 고유 ID 할당하여 추적 가능
         user_message_id = str(uuid.uuid4())

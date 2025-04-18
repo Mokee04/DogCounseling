@@ -13,3 +13,4 @@ data/
 saved_models/
 .DS_Store
 counseling_notes.ipynb
+autotest*
