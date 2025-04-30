@@ -499,7 +499,7 @@ else:
             dislike_style = "primary" if current_feedback == 'dislike' else "secondary"
             
             # 메시지 표시
-            with st.chat_message(message["role"]):
+            with st.chat_message(message["role"], avatar="🐶"):
                 #st.write(message["content"])
                 st.markdown(message["content"], unsafe_allow_html=False)
                 
@@ -519,7 +519,7 @@ else:
                             type=like_style)
         else:
             # 사용자 메시지 (피드백 버튼 없음)
-            with st.chat_message(message["role"]):
+            with st.chat_message(message["role"], avatar="😀"):
                 #st.write(message["content"])
                 st.markdown(message["content"], unsafe_allow_html=False)
                 
@@ -535,7 +535,7 @@ else:
     # 사용자 입력 처리
     if user_input:
         # 사용자 메시지 즉시 표시 - 반응성 향상
-        with st.chat_message("user"):
+        with st.chat_message("user", avatar="😀"):
             #st.write(user_input)
             st.markdown(user_input, unsafe_allow_html=False)
         
