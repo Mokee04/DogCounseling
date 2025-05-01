@@ -357,6 +357,48 @@ def handle_dislike(message_id):
     if st.session_state['user_id']:
         save_chat_data(st.session_state['user_id'])
 
+# 피드백 및 새로고침 처리 함수 추가
+def handle_refresh(message_id):
+    """새로고침 버튼 클릭 처리"""
+    try:
+        # 수정할 메시지 인덱스 찾기
+        target_index = -1
+        for i, msg in enumerate(st.session_state['chat_history']):
+            if msg.get("id") == message_id and msg.get("role") == "assistant":
+                target_index = i
+                break
+
+        if target_index == -1 or target_index == 0:
+            st.warning("이전 사용자 질문을 찾을 수 없어 답변을 다시 생성할 수 없습니다.")
+            return
+
+        # 이전 사용자 질문 찾기
+        user_message = st.session_state['chat_history'][target_index - 1]
+        if user_message.get("role") != "user":
+            st.warning("이전 메시지가 사용자 질문이 아니므로 답변을 다시 생성할 수 없습니다.")
+            return
+
+        user_query = user_message["content"]
+
+        # 봇 응답 재생성
+        with st.spinner("답변 다시 생성 중..."):
+            new_response = st.session_state['counselor'].send_question(user_query)
+
+            # 해당 메시지 내용 업데이트
+            st.session_state['chat_history'][target_index]["content"] = new_response
+            # 기존 피드백 제거
+            st.session_state['feedback'].pop(message_id, None)
+
+            # 변경사항 저장
+            if st.session_state['user_id']:
+                save_chat_data(st.session_state['user_id'])
+
+        # UI 갱신
+        st.rerun()
+
+    except Exception as e:
+        st.error(f"답변 재생성 중 오류 발생: {e}")
+
 # 로그아웃 함수 재구현
 def logout():
     # 로그아웃 시 현재 모델과 채팅 데이터 저장
@@ -477,53 +519,67 @@ else:
     # 메시지 렌더링 함수 정의
     def render_message(message):
         """
-        채팅 메시지와 피드백 버튼을 함께 렌더링하는 함수
-        
-        - 메시지 표시 후 우측 하단에 작은 피드백 버튼 배치
-        - 버튼은 화면 크기 변화에도 안정적으로 표시되도록 설계
-        - 좋아요/싫어요 버튼은 항상 함께 표시되며 서로 겹치지 않음
-        - 피드백 상태에 따라 버튼 색상 변경 (선택된 버튼은 강조 표시)
-        
-        message: 표시할 메시지 딕셔너리 (role, content, id 포함)
+        채팅 메시지와 피드백 버튼, 새로고침 버튼을 함께 렌더링하는 함수
+        마지막 어시스턴트 메시지에만 새로고침 버튼 표시
         """
         if message["role"] == "assistant":
-            # ID 확인/생성 - 모든 메시지에 고유 ID 필요
+            # ID 확인/생성
             if "id" not in message or message.get("id") is None:
                 message["id"] = str(uuid.uuid4())
-            
+
             message_id = message["id"]
             current_feedback = st.session_state['feedback'].get(message_id, None)
-            
-            # 버튼 스타일 설정 - 선택된 버튼 강조
+
+            # 버튼 스타일 설정
             like_style = "primary" if current_feedback == 'like' else "secondary"
             dislike_style = "primary" if current_feedback == 'dislike' else "secondary"
-            
+
             # 메시지 표시
             with st.chat_message(message["role"], avatar="🐶"):
-                #st.write(message["content"])
                 st.markdown(message["content"], unsafe_allow_html=False)
-                
-                # 여백 조정 (버튼이 메시지에 너무 붙지 않도록)
-                st.markdown('<div style="text-align: right; margin-top: -15px;"></div>', 
+
+                # 여백 조정
+                st.markdown('<div style="text-align: right; margin-top: -15px;"></div>',
                           unsafe_allow_html=True)
-                
-                # 버튼 배치 - 우측 정렬, 좁은 간격
-                col1, col2, col3 = st.columns([0.9, 0.05, 0.05])
-                with col3:
-                    st.button("👎", key=f"dislike_{message_id}", 
-                            on_click=handle_dislike, args=(message_id,), 
-                            type=dislike_style)
-                with col2:
-                    st.button("👍", key=f"like_{message_id}", 
-                            on_click=handle_like, args=(message_id,), 
-                            type=like_style)
+
+                # 마지막 메시지인지 확인
+                is_last_assistant_message = (
+                    st.session_state['chat_history'] and
+                    message == st.session_state['chat_history'][-1]
+                )
+
+                # 버튼 배치 - 마지막 메시지일 경우 새로고침 포함
+                if is_last_assistant_message:
+                    col1, col2, col3, col4 = st.columns([0.85, 0.05, 0.05, 0.05]) # 비율 조정
+                    with col4: # 맨 오른쪽
+                        st.button("🔄", key=f"refresh_{message_id}",
+                                on_click=handle_refresh, args=(message_id,),
+                                help="답변 다시 생성하기") # 툴팁 추가
+                    with col3:
+                        st.button("👎", key=f"dislike_{message_id}",
+                                on_click=handle_dislike, args=(message_id,),
+                                type=dislike_style)
+                    with col2:
+                        st.button("👍", key=f"like_{message_id}",
+                                on_click=handle_like, args=(message_id,),
+                                type=like_style)
+                else:
+                    # 이전 메시지에는 좋아요/싫어요 버튼만 표시
+                    col1, col2, col3 = st.columns([0.9, 0.05, 0.05]) # 비율 조정
+                    with col3:
+                        st.button("👎", key=f"dislike_{message_id}",
+                                on_click=handle_dislike, args=(message_id,),
+                                type=dislike_style)
+                    with col2:
+                        st.button("👍", key=f"like_{message_id}",
+                                on_click=handle_like, args=(message_id,),
+                                type=like_style)
         else:
-            # 사용자 메시지 (피드백 버튼 없음)
+            # 사용자 메시지
             with st.chat_message(message["role"], avatar="😀"):
-                #st.write(message["content"])
                 st.markdown(message["content"], unsafe_allow_html=False)
-                
-    # 모든 메시지를 하나의 명령으로 렌더링 - 화면 깜빡임 최소화
+
+    # 모든 메시지를 하나의 명령으로 렌더링
     with st.container():
         # 한번에 모든 채팅 메시지를 처리하여 UI 안정성 향상
         for message in st.session_state['chat_history']:
