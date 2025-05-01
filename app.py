@@ -519,8 +519,9 @@ else:
     # 메시지 렌더링 함수 정의
     def render_message(message):
         """
-        채팅 메시지와 피드백 버튼, 새로고침 버튼을 함께 렌더링하는 함수
-        마지막 어시스턴트 메시지에만 새로고침 버튼 표시
+        채팅 메시지와 피드백/새로고침 버튼을 함께 렌더링하는 함수
+        버튼은 메시지 내용 하단 왼쪽에 표시. 마지막 어시스턴트 메시지에만 새로고침 버튼 표시.
+        버튼 순서: 좋아요 - 싫어요 - 새로고침
         """
         if message["role"] == "assistant":
             # ID 확인/생성
@@ -534,46 +535,50 @@ else:
             like_style = "primary" if current_feedback == 'like' else "secondary"
             dislike_style = "primary" if current_feedback == 'dislike' else "secondary"
 
-            # 메시지 표시
+            # 마지막 메시지인지 확인
+            is_last_assistant_message = (
+                st.session_state['chat_history'] and
+                message == st.session_state['chat_history'][-1]
+            )
+
+            # 메시지 표시 컨테이너
             with st.chat_message(message["role"], avatar="🐶"):
+                # 1. 메시지 내용 먼저 표시
                 st.markdown(message["content"], unsafe_allow_html=False)
 
-                # 여백 조정
-                st.markdown('<div style="text-align: right; margin-top: -15px;"></div>',
-                          unsafe_allow_html=True)
+                # 2. 버튼 영역 (내용 아래) - st.columns를 사용하여 왼쪽 정렬
+                # 내용과의 간격 조절을 위해 작은 공백 추가
+                st.markdown("<div style='margin-top: 5px;'></div>", unsafe_allow_html=True)
 
-                # 마지막 메시지인지 확인
-                is_last_assistant_message = (
-                    st.session_state['chat_history'] and
-                    message == st.session_state['chat_history'][-1]
-                )
-
-                # 버튼 배치 - 마지막 메시지일 경우 새로고침 포함
                 if is_last_assistant_message:
-                    col1, col2, col3, col4 = st.columns([0.85, 0.05, 0.05, 0.05]) # 비율 조정
-                    with col4: # 맨 오른쪽
-                        st.button("🔄", key=f"refresh_{message_id}",
+                    # 마지막 메시지: 좋아요 - 싫어요 - 새로고침 순서
+                    # 버튼 컬럼 뒤에 넓은 빈 컬럼을 두어 왼쪽 정렬 효과
+                    col1, col2, col3, _ = st.columns([0.05, 0.05, 0.05, 0.85])
+                    with col1: # 좋아요
+                        st.button("👍", key=f"like_{message_id}",
+                                on_click=handle_like, args=(message_id,),
+                                type=like_style)
+                    with col2: # 싫어요
+                        st.button("👎", key=f"dislike_{message_id}",
+                                on_click=handle_dislike, args=(message_id,),
+                                type=dislike_style)
+                    with col3: # 새로고침
+                         st.button("🔄", key=f"refresh_{message_id}",
                                 on_click=handle_refresh, args=(message_id,),
-                                help="답변 다시 생성하기") # 툴팁 추가
-                    with col3:
-                        st.button("👎", key=f"dislike_{message_id}",
-                                on_click=handle_dislike, args=(message_id,),
-                                type=dislike_style)
-                    with col2:
-                        st.button("👍", key=f"like_{message_id}",
-                                on_click=handle_like, args=(message_id,),
-                                type=like_style)
+                                help="답변 다시 생성하기")
                 else:
-                    # 이전 메시지에는 좋아요/싫어요 버튼만 표시
-                    col1, col2, col3 = st.columns([0.9, 0.05, 0.05]) # 비율 조정
-                    with col3:
+                    # 이전 메시지: 좋아요 - 싫어요 순서
+                    # 버튼 컬럼 뒤에 넓은 빈 컬럼을 두어 왼쪽 정렬 효과
+                    col1, col2, _ = st.columns([0.05, 0.05, 0.9])
+                    with col1: # 좋아요
+                         st.button("👍", key=f"like_{message_id}",
+                                on_click=handle_like, args=(message_id,),
+                                type=like_style)
+                    with col2: # 싫어요
                         st.button("👎", key=f"dislike_{message_id}",
                                 on_click=handle_dislike, args=(message_id,),
                                 type=dislike_style)
-                    with col2:
-                        st.button("👍", key=f"like_{message_id}",
-                                on_click=handle_like, args=(message_id,),
-                                type=like_style)
+
         else:
             # 사용자 메시지
             with st.chat_message(message["role"], avatar="😀"):
