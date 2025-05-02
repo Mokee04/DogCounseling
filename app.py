@@ -313,13 +313,34 @@ def login():
                 "오류로 상담 진행이 불가함을 안내해 주세요."
             )
             
-            # 초기 메시지를 모델에 보내고 응답 받기
-            bot_response = st.session_state['counselor'].send_question(initial_message)
+            # 초기 메시지를 모델에 보내고 응답 받기 (JSON 응답 처리)
+            try:
+                json_response_str = st.session_state['counselor'].send_question(initial_message)
+                response_data = json.loads(json_response_str) # JSON 파싱
+                bot_response_content = response_data.get("front_message", "오류: 응답 내용을 가져올 수 없습니다.") # front_message 추출
+
+                # 백엔드 데이터 추출 (필요시)
+                backend_data = {
+                    key: response_data.get(key)
+                    for key in ["back_restraint", "back_user_emotion", "back_user_needs"]
+                    if key in response_data
+                }
+
+            except json.JSONDecodeError:
+                st.error("모델 응답을 처리하는 중 오류가 발생했습니다. (JSON 형식 오류)")
+                bot_response_content = "죄송합니다. 답변을 처리하는 데 문제가 발생했습니다."
+                backend_data = {} # 오류 시 빈 데이터
+            except Exception as e:
+                st.error(f"모델 응답 처리 중 예상치 못한 오류 발생: {e}")
+                bot_response_content = "죄송합니다. 답변을 처리하는 데 문제가 발생했습니다."
+                backend_data = {} # 오류 시 빈 데이터
+
             message_id = str(uuid.uuid4())
             st.session_state['chat_history'] = [{
                 "id": message_id,
-                "role": "assistant", 
-                "content": bot_response
+                "role": "assistant",
+                "content": bot_response_content, # front_message만 content로 저장
+                "backend_data": backend_data # 백엔드 데이터 추가 저장
             }]
             st.session_state['feedback'] = {}
             st.session_state['loaded_existing_model'] = False
@@ -382,16 +403,32 @@ def handle_refresh(message_id):
 
         # 봇 응답 재생성
         with st.spinner("답변 다시 생성 중..."):
-            new_response = st.session_state['counselor'].send_question(user_query)
+            try:
+                json_response_str = st.session_state['counselor'].send_question(user_query)
+                response_data = json.loads(json_response_str) # JSON 파싱
+                new_response_content = response_data.get("front_message", "오류: 응답 내용을 가져올 수 없습니다.") # front_message 추출
 
-            # 해당 메시지 내용 업데이트
-            st.session_state['chat_history'][target_index]["content"] = new_response
-            # 기존 피드백 제거
-            st.session_state['feedback'].pop(message_id, None)
+                # 백엔드 데이터 추출 (필요시)
+                new_backend_data = {
+                    key: response_data.get(key)
+                    for key in ["back_restraint", "back_user_emotion", "back_user_needs"]
+                    if key in response_data
+                }
 
-            # 변경사항 저장
-            if st.session_state['user_id']:
-                save_chat_data(st.session_state['user_id'])
+                # 해당 메시지 내용 및 백엔드 데이터 업데이트
+                st.session_state['chat_history'][target_index]["content"] = new_response_content
+                st.session_state['chat_history'][target_index]["backend_data"] = new_backend_data # 백엔드 데이터도 업데이트
+                # 기존 피드백 제거
+                st.session_state['feedback'].pop(message_id, None)
+
+                # 변경사항 저장
+                if st.session_state['user_id']:
+                    save_chat_data(st.session_state['user_id'])
+
+            except json.JSONDecodeError:
+                st.error("모델 응답을 처리하는 중 오류가 발생했습니다. (JSON 형식 오류)")
+            except Exception as e:
+                st.error(f"답변 재생성 중 오류 발생: {e}")
 
         # UI 갱신
         st.rerun()
@@ -606,25 +643,61 @@ else:
             "id": user_message_id,
             "role": "user",
             "content": user_input
+            # 사용자는 백엔드 데이터 없음
         })
-        
+
         # 봇 응답 생성 및 즉시 저장
         with st.spinner("생각 중..."):
-            # API 호출하여 응답 생성
-            bot_response = st.session_state['counselor'].send_question(user_input)
-            bot_message_id = str(uuid.uuid4())
-            
-            # 응답을 세션에 먼저 저장 - 중요: 페이지 재로딩 전에 저장해야 함
-            # 이렇게 하면 rerun 후에도 상태가 유지됨
-            st.session_state['chat_history'].append({
-                "id": bot_message_id,
-                "role": "assistant",
-                "content": bot_response
-            })
-            
-            # Google Drive에 즉시 저장 - 세션 오류/새로고침에도 데이터 보존
-            if st.session_state['user_id']:
-                save_chat_data(st.session_state['user_id'])
-        
+            try:
+                # API 호출하여 응답 생성 (JSON 응답 처리)
+                json_response_str = st.session_state['counselor'].send_question(user_input)
+                response_data = json.loads(json_response_str) # JSON 파싱
+                bot_response_content = response_data.get("front_message", "오류: 응답 내용을 가져올 수 없습니다.") # front_message 추출
+
+                # 백엔드 데이터 추출 (필요시)
+                backend_data = {
+                    key: response_data.get(key)
+                    for key in ["back_restraint", "back_user_emotion", "back_user_needs"]
+                    if key in response_data
+                }
+
+                bot_message_id = str(uuid.uuid4())
+
+                # 응답을 세션에 먼저 저장
+                st.session_state['chat_history'].append({
+                    "id": bot_message_id,
+                    "role": "assistant",
+                    "content": bot_response_content, # front_message만 content로 저장
+                    "backend_data": backend_data # 백엔드 데이터 추가 저장
+                })
+
+                # Google Drive에 즉시 저장
+                if st.session_state['user_id']:
+                    save_chat_data(st.session_state['user_id'])
+
+            except json.JSONDecodeError:
+                st.error("모델 응답을 처리하는 중 오류가 발생했습니다. (JSON 형식 오류)")
+                # 오류 발생 시에도 사용자에게 피드백을 줄 수 있도록 처리
+                error_message_id = str(uuid.uuid4())
+                st.session_state['chat_history'].append({
+                    "id": error_message_id,
+                    "role": "assistant",
+                    "content": "죄송합니다. 답변을 처리하는 데 문제가 발생했습니다.",
+                    "backend_data": {"error": "JSONDecodeError"}
+                })
+                if st.session_state['user_id']:
+                    save_chat_data(st.session_state['user_id']) # 오류 상태도 저장
+            except Exception as e:
+                st.error(f"모델 응답 처리 중 예상치 못한 오류 발생: {e}")
+                error_message_id = str(uuid.uuid4())
+                st.session_state['chat_history'].append({
+                    "id": error_message_id,
+                    "role": "assistant",
+                    "content": "죄송합니다. 답변을 처리하는 데 문제가 발생했습니다.",
+                    "backend_data": {"error": str(e)}
+                })
+                if st.session_state['user_id']:
+                    save_chat_data(st.session_state['user_id']) # 오류 상태도 저장
+
         # 페이지 강제 재로딩
         st.rerun()

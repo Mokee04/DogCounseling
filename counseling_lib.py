@@ -201,16 +201,25 @@ class CounselingWithGemini:
             ),
         ]
 
+        default_schema = {
+            "type": "object",
+            "properties": {
+                "front_message": {"type": "string", "description": "대화 상대방에게 전달할 메시지만 출력하세요."}
+            },
+            "required": ["front_message"]
+        }
+
         # 모델 응답 설정
         generation_config = types.GenerateContentConfig(
             system_instruction=self.sys_inst,  # 시스템 지시문 (상담사 역할 정의)
-            response_mime_type="text/plain",   # 텍스트 응답
+            response_mime_type="application/json",   # JSON 응답 
             temperature=self.instruction_data.get('temperature', 0.7),  # 응답 다양성
             top_p=self.instruction_data.get('top_p', 0.95),  # 토큰 선택 범위
             top_k=self.instruction_data.get('top_k', 40),  # top_k 토큰 선택
             max_output_tokens=self.instruction_data.get('max_output_tokens', 2048),  # 최대 토큰 수
             safety_settings=safety_settings,  # 안전 설정
-            thinking_config=types.ThinkingConfig(includeThoughts=self.instruction_data.get('includeThoughts', False))
+            thinking_config=types.ThinkingConfig(includeThoughts=self.instruction_data.get('includeThoughts', False)),
+            response_schema=self.instruction_data.get('response_schema', default_schema)
         )
         
         # Gemini API 클라이언트 생성하고 채팅 모델 초기화
