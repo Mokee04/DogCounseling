@@ -421,11 +421,50 @@ def handle_refresh(message_id):
                 # 기존 피드백 제거
                 st.session_state['feedback'].pop(message_id, None)
 
-                # 변경사항 저장
+                # 변경사항 저장 (채팅 데이터 및 모델)
                 if st.session_state['user_id']:
-                    save_chat_data(st.session_state['user_id'])
+                    chat_data_saved = save_chat_data(st.session_state['user_id'])
+
+                    # 모델 저장 로직 추가 (CounselingWithGemini.save_chatmodel 사용)
+                    credentials = get_credentials()
+                    model_saved = False
+                    if st.session_state.get('model_file_id'):
+                        # 기존 파일 업데이트 시도
+                        file_id_or_success = st.session_state['counselor'].save_chatmodel(
+                            folder_id=output_drive_id,
+                            user_id=st.session_state['user_id'],
+                            file_id=st.session_state['model_file_id'],
+                            credentials=credentials
+                        )
+                        # save_chatmodel은 성공 시 file_id를 반환하므로 True/False로 변환
+                        model_saved = bool(file_id_or_success)
+                    else:
+                        # 새 파일 생성 시도
+                        file_id = st.session_state['counselor'].save_chatmodel(
+                            folder_id=output_drive_id,
+                            user_id=st.session_state['user_id'],
+                            credentials=credentials
+                        )
+                        if file_id: # 새 파일 ID가 반환되면 성공
+                             st.session_state['model_file_id'] = file_id
+                             model_saved = True
+                        else: # None이 반환되면 실패
+                             model_saved = False
+
+                    # 저장 결과 피드백
+                    if chat_data_saved and model_saved:
+                        # 새로고침 시에는 별도 토스트 메시지 생략 가능 (UI가 바로 업데이트되므로)
+                        pass
+                    elif model_saved:
+                        st.warning("상담 내용은 저장되었으나 채팅 데이터 저장에 실패했습니다.")
+                    elif chat_data_saved:
+                         st.warning("채팅 데이터는 저장되었으나 상담 내용 저장에 실패했습니다.")
+                    else:
+                         st.error("데이터 저장 중 오류가 발생했습니다.")
 
             except json.JSONDecodeError:
+                # 실패한 원본 문자열 로깅 추가
+                print(f"JSON 파싱 실패. 원본 응답: {json_response_str}")
                 st.error("모델 응답을 처리하는 중 오류가 발생했습니다. (JSON 형식 오류)")
             except Exception as e:
                 st.error(f"답변 재생성 중 오류 발생: {e}")
@@ -434,7 +473,7 @@ def handle_refresh(message_id):
         st.rerun()
 
     except Exception as e:
-        st.error(f"답변 재생성 중 오류 발생: {e}")
+        st.error(f"답변 재생성 처리 중 오류 발생: {e}") # 함수 전체 감싸는 에러 핸들링
 
 # 로그아웃 함수 재구현
 def logout():
@@ -503,55 +542,20 @@ if not st.session_state['is_logged_in']:
         
 else:
     # 로그인 성공 시 상담 인터페이스 표시
-    
+
     # 사이드바에 사용자 정보 및 로그아웃 버튼
     with st.sidebar:
         st.write(f"반려견: {st.session_state['user_info']}")
-        
+
         # 이전 대화 모델을 불러왔을 경우 표시
         if st.session_state.get('loaded_existing_model', False):
             st.success("이전 상담 내용을 불러왔습니다.")
-        
-        # 모델 저장 버튼
-        if st.button("상담 내용 저장"):
-            # user_id가 있는지 확인
-            if st.session_state['user_id']:
-                # Google Drive에 저장
-                credentials = get_credentials()
-                model_saved = False  # 변수 초기화
-                
-                if st.session_state.get('model_file_id'):
-                    # 기존 파일 업데이트
-                    model_saved = st.session_state['counselor'].save_chatmodel(
-                        folder_id=output_drive_id,
-                        user_id=st.session_state['user_id'],
-                        file_id=st.session_state['model_file_id'],
-                        credentials=credentials
-                    )
-                else:
-                    # 새 파일 생성
-                    file_id = st.session_state['counselor'].save_chatmodel(
-                        folder_id=output_drive_id,
-                        user_id=st.session_state['user_id'],
-                        credentials=credentials
-                    )
-                    st.session_state['model_file_id'] = file_id  # 새 ID 저장
-                    model_saved = bool(file_id)  # 저장 성공 여부
-                
-                chat_data_saved = save_chat_data(st.session_state['user_id'])
-                
-                if model_saved and chat_data_saved:
-                    st.success("상담 내용이 저장되었습니다.")
-                elif model_saved:
-                    st.warning("상담 내용은 저장되었으나 채팅 데이터 저장에 실패했습니다.")
-                else:
-                    st.error("저장 중 오류가 발생했습니다.")
-            else:
-                st.error("사용자 정보가 없습니다.")
-        
+
+        # 모델 저장 버튼 제거됨
+
         # 로그아웃 버튼
         st.button("로그아웃", on_click=logout)
-    
+
     # 채팅 메시지 표시
     # 메시지 렌더링 함수 정의
     def render_message(message):
@@ -581,7 +585,9 @@ else:
             # 메시지 표시 컨테이너
             with st.chat_message(message["role"], avatar="🐶"):
                 # 1. 메시지 내용 먼저 표시
-                st.markdown(message["content"], unsafe_allow_html=False)
+                # \n을 Markdown 줄바꿈(공백 2개 + \n)으로 변경
+                content_with_breaks = message["content"].replace("\\n", "  \n")
+                st.markdown(content_with_breaks, unsafe_allow_html=False)
 
                 # 2. 버튼 영역 (내용 아래) - st.columns를 사용하여 왼쪽 정렬
                 # 내용과의 간격 조절을 위해 작은 공백 추가
@@ -619,7 +625,9 @@ else:
         else:
             # 사용자 메시지
             with st.chat_message(message["role"], avatar="😀"):
-                st.markdown(message["content"], unsafe_allow_html=False)
+                # 사용자 메시지도 동일하게 처리 (만약을 위해)
+                content_with_breaks = message["content"].replace("\\n", "  \n")
+                st.markdown(content_with_breaks, unsafe_allow_html=False)
 
     # 모든 메시지를 하나의 명령으로 렌더링
     with st.container():
@@ -634,7 +642,6 @@ else:
     if user_input:
         # 사용자 메시지 즉시 표시 - 반응성 향상
         with st.chat_message("user", avatar="😀"):
-            #st.write(user_input)
             st.markdown(user_input, unsafe_allow_html=False)
         
         # 사용자 메시지 저장 - UUID로 고유 ID 할당하여 추적 가능
@@ -643,7 +650,6 @@ else:
             "id": user_message_id,
             "role": "user",
             "content": user_input
-            # 사용자는 백엔드 데이터 없음
         })
 
         # 봇 응답 생성 및 즉시 저장
@@ -671,11 +677,46 @@ else:
                     "backend_data": backend_data # 백엔드 데이터 추가 저장
                 })
 
-                # Google Drive에 즉시 저장
+                # Google Drive에 즉시 저장 (채팅 데이터 및 모델)
                 if st.session_state['user_id']:
-                    save_chat_data(st.session_state['user_id'])
+                    chat_data_saved = save_chat_data(st.session_state['user_id'])
+
+                    # 모델 저장 로직 추가 (CounselingWithGemini.save_chatmodel 사용)
+                    credentials = get_credentials()
+                    model_saved = False
+                    if st.session_state.get('model_file_id'):
+                        # 기존 파일 업데이트 시도
+                        file_id_or_success = st.session_state['counselor'].save_chatmodel(
+                            folder_id=output_drive_id,
+                            user_id=st.session_state['user_id'],
+                            file_id=st.session_state['model_file_id'],
+                            credentials=credentials
+                        )
+                        model_saved = bool(file_id_or_success)
+                    else:
+                        # 새 파일 생성 시도
+                        file_id = st.session_state['counselor'].save_chatmodel(
+                            folder_id=output_drive_id,
+                            user_id=st.session_state['user_id'],
+                            credentials=credentials
+                        )
+                        if file_id:
+                            st.session_state['model_file_id'] = file_id
+                            model_saved = True
+                        else:
+                            model_saved = False
+
+                    # 저장 결과 피드백 (문제가 있을 경우에만)
+                    if not chat_data_saved and not model_saved:
+                        st.warning("채팅 및 상담 내용 저장 중 문제가 발생했습니다.")
+                    elif not model_saved:
+                        st.warning("상담 내용 저장 중 문제가 발생했습니다.")
+                    elif not chat_data_saved:
+                        st.warning("채팅 내용 저장 중 문제가 발생했습니다.")
 
             except json.JSONDecodeError:
+                # 실패한 원본 문자열 로깅 추가
+                print(f"JSON 파싱 실패. 원본 응답: {json_response_str}")
                 st.error("모델 응답을 처리하는 중 오류가 발생했습니다. (JSON 형식 오류)")
                 # 오류 발생 시에도 사용자에게 피드백을 줄 수 있도록 처리
                 error_message_id = str(uuid.uuid4())
@@ -685,6 +726,7 @@ else:
                     "content": "죄송합니다. 답변을 처리하는 데 문제가 발생했습니다.",
                     "backend_data": {"error": "JSONDecodeError"}
                 })
+                # 오류 발생 시 채팅 데이터만 저장 시도
                 if st.session_state['user_id']:
                     save_chat_data(st.session_state['user_id']) # 오류 상태도 저장
             except Exception as e:
@@ -696,6 +738,7 @@ else:
                     "content": "죄송합니다. 답변을 처리하는 데 문제가 발생했습니다.",
                     "backend_data": {"error": str(e)}
                 })
+                # 오류 발생 시 채팅 데이터만 저장 시도
                 if st.session_state['user_id']:
                     save_chat_data(st.session_state['user_id']) # 오류 상태도 저장
 
