@@ -10,6 +10,7 @@ import streamlit as st
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload, MediaIoBaseUpload, MediaIoBaseDownload
 from io import BytesIO
+from zoneinfo import ZoneInfo
 
 # 거슬리는 경고 메시지 안 보이게 처리
 warnings.simplefilter('ignore')
@@ -237,6 +238,11 @@ class CounselingWithGemini:
         
         응답 텍스트를 반환하고 콘솔에도 출력 (디버깅용)
         """
+        
+        # 사용자 질문에 현재 시간 추가
+        current_time = datetime.datetime.now(ZoneInfo('Asia/Seoul')).strftime('%Y-%m-%d//%H:%M:%S')
+        question = f"{question}\n[전송 일시: {current_time}]"
+        
         # 질문 보내고 응답 받기
         response = self.chatmodel.send_message(question).text
         
