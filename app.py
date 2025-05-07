@@ -585,9 +585,8 @@ else:
             # 메시지 표시 컨테이너
             with st.chat_message(message["role"], avatar="🐶"):
                 # 1. 메시지 내용 먼저 표시
-                # \n을 Markdown 줄바꿈(공백 2개 + \n)으로 변경
-                content_with_breaks = message["content"].replace("\\n", "  \n")
-                st.markdown(content_with_breaks, unsafe_allow_html=False)
+                #content_with_breaks = message["content"].replace("\\n", "  \n")
+                st.markdown(message["content"], unsafe_allow_html=False)
 
                 # 2. 버튼 영역 (내용 아래) - st.columns를 사용하여 왼쪽 정렬
                 # 내용과의 간격 조절을 위해 작은 공백 추가
