@@ -584,6 +584,16 @@ else:
 
             # 메시지 표시 컨테이너
             with st.chat_message(message["role"], avatar="🐶"):
+                # back_process_rate 표시 (백엔드 데이터가 있는 경우)
+                if "backend_data" in message and "back_process_rate" in message["backend_data"]:
+                    process_rate = message["backend_data"]["back_process_rate"]
+                    st.markdown(
+                        f'<div style="font-size: 12px; color: #0c5460; padding: 10px; border-radius: 5px;">'
+                        f'정보를 수집하고 있어요... {process_rate}'
+                        f'</div>',
+                        unsafe_allow_html=True
+                    )
+
                 # 1. 메시지 내용 먼저 표시
                 content_with_breaks = message["content"].replace("\\n", "\n")
                 st.markdown(content_with_breaks, unsafe_allow_html=False)
