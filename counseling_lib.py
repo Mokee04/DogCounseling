@@ -381,7 +381,7 @@ A. {response}"""
                 model=state['model_name'],
                 config=state['config']
             )
-            
+
             # 채팅 기록 복원
             # for content in state['history']:
             #     if content.role == 'user':

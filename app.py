@@ -322,8 +322,8 @@ def login():
                 # 백엔드 데이터 추출 (필요시)
                 backend_data = {
                     key: response_data.get(key)
-                    for key in ["back_current_topic", "back_current_phase", "back_user_emotion", "back_restraint", "back_process_rate"] 
-                    if key in response_data
+                    for key in response_data.keys()
+                    if key.startswith('back_')
                 }
 
             except json.JSONDecodeError:
@@ -411,8 +411,8 @@ def handle_refresh(message_id):
                 # 백엔드 데이터 추출 (필요시)
                 new_backend_data = {
                     key: response_data.get(key)
-                    for key in ["back_current_topic", "back_current_phase", "back_user_emotion", "back_restraint", "back_process_rate"]
-                    if key in response_data
+                    for key in response_data.keys()
+                    if key.startswith('back_')
                 }
 
                 # 해당 메시지 내용 및 백엔드 데이터 업데이트
@@ -662,8 +662,8 @@ else:
                 # 백엔드 데이터 추출 (필요시)
                 backend_data = {
                     key: response_data.get(key)
-                    for key in ["back_current_topic", "back_current_phase", "back_user_emotion", "back_restraint", "back_process_rate"]
-                    if key in response_data
+                    for key in response_data.keys()
+                    if key.startswith('back_')
                 }
 
                 bot_message_id = str(uuid.uuid4())
