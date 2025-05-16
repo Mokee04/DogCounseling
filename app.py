@@ -322,7 +322,7 @@ def login():
                 # 백엔드 데이터 추출 (필요시)
                 backend_data = {
                     key: response_data.get(key)
-                    for key in ["back_restraint", "back_user_emotion", "back_user_needs"]
+                    for key in ["back_current_topic", "back_current_phase", "back_user_emotion", "back_restraint", "back_process_rate"] 
                     if key in response_data
                 }
 
@@ -404,14 +404,14 @@ def handle_refresh(message_id):
         # 봇 응답 재생성
         with st.spinner("답변 다시 생성 중..."):
             try:
-                json_response_str = st.session_state['counselor'].send_question(user_query)
+                json_response_str = st.session_state['counselor'].send_question("오류가 발생했어요. 다시 생성해주세요:  \n" + user_query)
                 response_data = json.loads(json_response_str) # JSON 파싱
                 new_response_content = response_data.get("front_message", "오류: 응답 내용을 가져올 수 없습니다.") # front_message 추출
 
                 # 백엔드 데이터 추출 (필요시)
                 new_backend_data = {
                     key: response_data.get(key)
-                    for key in ["back_restraint", "back_user_emotion", "back_user_needs"]
+                    for key in ["back_current_topic", "back_current_phase", "back_user_emotion", "back_restraint", "back_process_rate"]
                     if key in response_data
                 }
 
@@ -662,7 +662,7 @@ else:
                 # 백엔드 데이터 추출 (필요시)
                 backend_data = {
                     key: response_data.get(key)
-                    for key in ["back_restraint", "back_user_emotion", "back_user_needs"]
+                    for key in ["back_current_topic", "back_current_phase", "back_user_emotion", "back_restraint", "back_process_rate"]
                     if key in response_data
                 }
 
