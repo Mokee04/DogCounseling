@@ -171,6 +171,7 @@ class CounselingWithGemini:
         self.google_ai_studio_key = google_ai_studio_key
         self.client = None  # API 클라이언트
         self.chatmodel = None  # 채팅 모델
+        self.response_collection = []
         
         # 인증 정보 가져오기
         scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
@@ -244,15 +245,16 @@ class CounselingWithGemini:
         question = f"{question}\n[전송 일시: {current_time}]"
         
         # 질문 보내고 응답 받기
-        response = self.chatmodel.send_message(question).text
-        
+        response = self.chatmodel.send_message(question)
+        self.response_collection.append(response)
+
         # 콘솔에 질문-응답 로그 출력 (디버깅용)
         display_text = f"""
 Q. {question}
-A. {response}"""
+A. {response.text}"""
         print(display_text)
         
-        return response
+        return response.text
     
     def get_chat_info(self):
         """
@@ -286,7 +288,8 @@ A. {response}"""
                     'model_name': self.chatmodel._model,
                     'config': self.chatmodel._config,
                     'google_ai_studio_key': self.google_ai_studio_key,
-                    'sys_inst': self.sys_inst
+                    'sys_inst': self.sys_inst,
+                    'response_collection': self.response_collection
                 }
                 
                 # 파일명 생성 - 사용자 ID 기반으로 변경
@@ -382,6 +385,11 @@ A. {response}"""
                 config=state['config'],
                 history=state['history']
             )
+
+            if 'response_collection' in state:
+                instance.response_collection = state['response_collection']
+            else :
+                instance.response_collection = []
 
             print(f"Google Drive에서 채팅 모델 로드 완료")
             return instance
