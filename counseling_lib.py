@@ -368,7 +368,7 @@ A. {response}"""
             # 파일 내용 가져오기
             file_bytes.seek(0)
             state = pickle.load(file_bytes)
-            
+
             # 새 인스턴스 생성
             instance = cls("", state['google_ai_studio_key'] if google_ai_studio_key is None else google_ai_studio_key)
             instance.sys_inst = state['sys_inst']  # 시스템 지시문 복원
@@ -376,24 +376,12 @@ A. {response}"""
             # API 클라이언트 초기화
             instance.client = genai.Client(api_key=instance.google_ai_studio_key)
             
-            # 채팅 모델 초기화
+            # 채팅 모델 초기화 + 채팅 기록 복원
             instance.chatmodel = instance.client.chats.create(
                 model=state['model_name'],
-                config=state['config']
+                config=state['config'],
+                history=state['history']
             )
-
-            # 채팅 기록 복원
-            # for content in state['history']:
-            #     if content.role == 'user':
-            #         instance.chatmodel.send_message(content.parts[0].text)
-            history_record = state['history']
-            history_record = f"""
-### 과거 대화 복원
-- 이전 대화 기록입니다. 
-- 이를 바탕으로 자연스럽게 대화를 이어나가세요.
-{history_record}
-"""
-            instance.chatmodel.send_message(history_record)
 
             print(f"Google Drive에서 채팅 모델 로드 완료")
             return instance
