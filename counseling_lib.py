@@ -220,7 +220,8 @@ class CounselingWithGemini:
             top_k=self.instruction_data.get('top_k', 40),  # top_k 토큰 선택
             max_output_tokens=self.instruction_data.get('max_output_tokens', 2048),  # 최대 토큰 수
             safety_settings=safety_settings,  # 안전 설정
-            thinking_config=types.ThinkingConfig(includeThoughts=self.instruction_data.get('includeThoughts', False)),
+            thinking_config=types.ThinkingConfig(includeThoughts=self.instruction_data.get('include_thoughts', False),
+                                                 thinking_budget=self.instruction_data.get('thinking_budget', 0)),
             response_schema=self.instruction_data.get('response_schema', default_schema)
         )
         
