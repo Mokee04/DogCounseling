@@ -1,4 +1,4 @@
-import sys, os, warnings, gc, datetime, json, pickle
+import sys, os, warnings, gc, datetime, json, pickle, joblib
 import pandas as pd, numpy as np
 from pydantic import TypeAdapter
 from google import genai
@@ -11,6 +11,7 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaFileUpload, MediaIoBaseUpload, MediaIoBaseDownload
 from io import BytesIO
 from zoneinfo import ZoneInfo
+from sklearn.metrics.pairwise import cosine_similarity
 
 # 거슬리는 경고 메시지 안 보이게 처리
 warnings.simplefilter('ignore')
@@ -105,7 +106,8 @@ def upload_to_drive(file_data, filename, folder_id, mime_type, credentials):
         print(f"새 파일 생성")
         return file.get('id')
 
-def download_instruction_file(credentials):
+
+def download_google_drive_file(credentials, filename, folder_id):
     """
     구글 드라이브에서 system_instruction 관련 파일 다운로드
     
@@ -118,8 +120,7 @@ def download_instruction_file(credentials):
         drive_service = build('drive', 'v3', credentials=credentials)
         
         # 폴더 내 system_instruction.json 파일 검색 (output_drive_id 사용)
-        folder_id = st.secrets['drive_folder_id']
-        query = f"name='system_instruction.json' and '{folder_id}' in parents and trashed=false"
+        query = f"name='{filename}' and '{folder_id}' in parents and trashed=false"
         results = drive_service.files().list(
             q=query,
             spaces='drive',
@@ -147,13 +148,16 @@ def download_instruction_file(credentials):
             
         # 파일 내용 파싱
         file_bytes.seek(0)
-        instruction_data = json.loads(file_bytes.getvalue().decode('utf-8'))
+        if filename.endswith('.json') :
+            load_data = json.loads(file_bytes.getvalue().decode('utf-8'))
+        elif filename.endswith('.pkl') :
+            load_data = joblib.load(file_bytes)
         
-        print("system_instruction 로드 완료")
-        return instruction_data
+        print(f"{filename} 로드 완료")
+        return load_data
         
     except Exception as e:
-        print(f"시스템 지시문 파일 로드 실패: {e}")
+        print(f"{filename} 파일 로드 실패: {e}")
         # 기본값 제공
         return {
                 "system_instruction": "오류가 났어요 ㅜㅜ.",
@@ -179,12 +183,15 @@ class CounselingWithGemini:
         credentials = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
         
         # 구글 드라이브에서 시스템 지시문 파일 다운로드
-        self.instruction_data = download_instruction_file(credentials)
+        self.instruction_data = download_google_drive_file(credentials, filename="system_instruction.json", folder_id=st.secrets['drive_folder_id'])
         system_instruction = self.instruction_data.get('system_instruction', "오류. 반려견 양육 상담 진행 불가를 안내하고 운영진에 문의를 요청하세요.")
         
         # 시스템 지시문과 사용자 컨텍스트 결합
         self.sys_inst = f"{system_instruction}\n\n{user_context}"
         
+        # RAG 데이터베이스 로드
+        self.rag_db = download_google_drive_file(credentials, filename="database.pkl", folder_id=st.secrets['drive_rag_db_id'])
+
     def define_model(self, model_name=None):
         """
         Gemini 모델 설정하고 초기화하기
@@ -232,6 +239,40 @@ class CounselingWithGemini:
             config=generation_config
         )
     
+    def embedding_message(self, message):
+        client = genai.Client(api_key=self.google_ai_studio_key)
+        response = client.models.embed_content(
+            model="models/gemini-embedding-exp-03-07",
+            contents=[message],
+            config=types.EmbedContentConfig(task_type='RETRIEVAL_DOCUMENT')
+        )
+        return response.embeddings[0].values
+    
+    def simple_search(self, message, top_k=5):
+        user_embedding = np.array(self.embedding_message(message)).reshape(1, -1)
+        db_embeddings = np.vstack([np.array(emb) for emb in self.rag_db['embedding'].values])
+    
+        similarities = cosine_similarity(user_embedding, db_embeddings)[0]    
+        top_indices = np.argsort(similarities)[::-1][:top_k]
+        results = self.rag_db.iloc[top_indices].copy()
+        results['similarity'] = similarities[top_indices]
+        results = results[results['similarity'] > 0.75]
+        return results
+    
+    def make_context(self, search_result):
+        context="""
+---
+---
+### 참고 문서 : 아래는 RAG용 참고 문서입니다. 해당 내용 중 필요한 내용을 참고해서 답변하세요. (어떤 자료에서 인용한 건지는 밝히지 마세요.)
+        """
+        for ii, idx in enumerate(search_result.index):
+            context += f"""
+---
+#### <문서{ii+1}>
+{search_result.loc[idx, 'chunk']}
+"""
+        return context
+    
     def send_question(self, question):
         """
         질문을 모델에 보내고 응답 받기
@@ -240,6 +281,12 @@ class CounselingWithGemini:
         
         응답 텍스트를 반환하고 콘솔에도 출력 (디버깅용)
         """
+        search_result = self.simple_search(question)
+        if len(search_result) > 0 :
+            context = self.make_context(search_result)
+        else :
+            context = ""    
+        question = question + context
         
         # 사용자 질문에 현재 시간 추가
         current_time = datetime.datetime.now(ZoneInfo('Asia/Seoul')).strftime('%Y-%m-%d//%H:%M:%S')
