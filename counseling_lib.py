@@ -190,7 +190,7 @@ class CounselingWithGemini:
         self.sys_inst = f"{system_instruction}\n\n{user_context}"
         
         # RAG 데이터베이스 로드
-        self.rag_db = download_google_drive_file(credentials, filename="database.pkl", folder_id=st.secrets['drive_rag_db_id'])
+        self.rag_db = download_google_drive_file(credentials, filename="database.pkl", folder_id=st.secrets['drive_folder_id'])
 
     def define_model(self, model_name=None):
         """
