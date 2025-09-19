@@ -1,1 +1,0 @@
-/Users/hwamokj/MokCamiBaseSource/Makefile
