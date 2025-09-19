@@ -1,0 +1,564 @@
+
+# [1] User Information
+- **User ID** : 45947
+- **Session ID** : 45
+- **Email** : bony0119@nate.com
+- **Username** : 정보
+- **Nickname** : 도도
+- **Phone** : 01087264897
+- **Feedback T/F?** : False
+
+
+
+# [2] Pre-Questionnaire
+### Dog Care Counseling Pre-Survey Details
+#### 0. Guardian Information
+    - Age : 19
+    - Gender : 여
+
+#### 1. Dog Information
+    - Name : 도도
+    - Age : 7.3
+    - Weeks since adoption : 0 weeks old
+    - sex : 암컷 (neutered '아니오')
+    - breed : 믹스견
+    - Relationship with user : 주양육자(먹이 급여, 산책, 기타 생활 대부분을 책임짐)
+    - Adoption method : 동물보호센터로부터 입양
+    - Walking schedule : 4 times/week, 1 times/day, 10 minutes each
+#### 2. Living Environment
+    - Type of residence : 주거용 공간(아파트, 원룸, 단독주택 등)
+        • Number of rooms : 2
+        • Kept tethered outdoors? : 아니오
+    - Family composition :
+        • Number of human family members : 5
+        • Number of dogs : 1
+        • Number of non-dog pets : 0
+    - Financial situation :
+        • Average monthly pet care cost : 30 ten-thousand KRW
+#### 3. Lifestyle
+    - Daily time spent with human family members: 12 hours
+    - Weekday hours alone (without people): 8 hours
+    - Is there or will there be a child under age 3? : 아니오
+#### 4. Socialization Level
+    - Time spent with the mother dog: -1 weeks ('-1' = unknown, '-2' = still living with mother)
+    - Commands/signals the dog can perform: 앉아,기다려,콜백(부르면 오기),하우스(개집과 같은 지정된 공간으로 돌아가기)
+    - Commands/Cues the dog performs 'without treats': 앉아,기다려,콜백(부르면 오기),하우스(개집과 같은 지정된 공간으로 돌아가기)
+    - If the guardian refuses the dog’s request, does the dog escalate its behavior? : 그렇지 않다
+    - Does your dog play well with other dogs? : 다른 개와 가까이 접촉한 적이 없다
+    - Number of people the dog interacted with during its socialization period: 5명 미만
+    - When you are busy, how does the dog get your attention? : 쳐다보거나 다가와 근처에 있는다,낑낑거리거나 조용히 짖는다,앞발로 가볍게 툭툭 건드린다
+#### 5. Health & Medical History
+    - Received treatment or medication in the past six months? : 예방접종
+#### 6. Threatening/Aggressive Behavior
+    - Has the dog ever shown threatening or aggressive behavior? : 없다
+    - Intensity when biting people or other animals: 없음
+#### 7. Boundaries & Anxiety
+    - Physical contact:
+        • Body areas or types of touch the dog refuses: 없다
+    - Alertness:
+        • Situations that make the dog especially wary or uncomfortable: 아빠가 살짝 움직이기만 해도 거의 매번 짖고 으르렁댐
+        • Reaction when a stranger visits home: 짖으면서 상대방에게 달려 들지만 물지는 않는다
+        • Does the dog eagerly approach new environments or objects? : 그렇지 않다
+        • Behavior during veterinary exams (with vets or assistants): 해당 상황이 없었다,뻣뻣하게 서서 뚫어져라 본다
+    - Resource guarding:
+        • Situations in which the dog shows guarding behavior: 없다
+    - Separation anxiety:
+        • Reaction when you prepare to leave or leave the dog alone: 없다
+        • Does the dog follow you everywhere? : 그렇다
+        • Excessive licking to the point of skin damage: 전혀 그렇지 않다
+    - Impulsivity:
+        • Does the dog react immediately to stimulating or pleasurable stimuli? : 그렇지 않다
+    - Excitability:
+        • Does the dog show excessive physical responses when excited (drooling, panting, urinating, etc.)? : 전혀 그렇지 않다
+#### 8. Satisfaction with Dog Care
+    - Emotional benefit: High (75/100)
+    - Emotional burden: Very Low (18.8/100)
+    - Overall satisfaction (benefit - burden): High (78.1/100)
+---
+#### Counseling Needs
+    - Main concern/request:
+    > 문제행동에 밝혔듯이 아빠만 움직였다하면 짖고 으르렁대는데 원인이 궁금함
+
+    - Expectations from counseling:
+    > 행동개선까지는 아니더라도 원인분석
+
+    - Additional reference information:
+    > 성인 남성만 보면 경계함
+
+    - Hopes for the dog’s future:
+    > 제 명대로 살다가 죽는거
+
+    - Counseling language:
+    > 한국어
+
+
+
+# [3] Counseling Guide
+## Dog Counseling Guide
+
+#### 1. Guardian & Dog Profiling
+
+> (1) Dog
+- **Basic information**: Dodo, 7.3 years old, female (not neutered), Mix breed.
+- **Adoption method**: Adopted from an animal shelter.
+- **Time since adoption**: 7.3 years (Adopted as a very young puppy).
+- **Lifestyle**: Spends approximately 8 hours alone on weekdays. Lives with a family of 5.
+- **Walking routine**: 4 times per week, for 10 minutes each time. This frequency and duration are quite low, potentially leading to insufficient physical and mental stimulation.
+- **Socialization**: Experience is severely limited. The pre-survey indicates she has had no close contact with other dogs and interacted with fewer than 5 people during her critical socialization period. This is a significant factor in her current behavior.
+- **Health history**: No specific health issues reported other than routine vaccinations. She is not neutered.
+- **Level of threatening/aggressive behavior**: The guardian reported 'none', but the described behaviors (barking, growling, lunging at visitors) are clear threatening/defensive signals. This indicates a potential misunderstanding by the guardian of what constitutes aggression. The behavior is defensive and fear-based, not offensive.
+- **Triggers and levels of alertness/anxiety**:
+    - **Primary Trigger**: The guardian's father. Dodo barks and growls "almost every time" he moves.
+    - **Secondary Trigger**: Strangers visiting the home. She barks and lunges at them.
+    - **General Anxiety**: Shows wariness in new environments and towards new objects. Stiffens and stares during vet visits. Follows the primary guardian constantly, which can be a sign of insecurity.
+- **Temperament and disposition**: Dodo appears to be a sensitive and anxious dog with a strong attachment to her primary guardian. Her behavior stems from a lack of socialization and deep-seated fear, particularly towards men and unfamiliar situations. She is not described as generally impulsive or hyperactive, but her reactions to specific fear triggers are intense and immediate. Her world seems to be divided into 'safe' (the guardian) and 'unsafe' (father, strangers, new places).
+- **Special notes**: The most critical point is the guardian's perception gap regarding threatening behavior. The fear seems specifically directed at adult men, with her father being the most consistent trigger. The minimal walking routine is a key area for potential improvement to help manage her overall stress and anxiety.
+
+> (2) Guardian and Care Environment
+- **Guardian (applicant) information**: 19-year-old female, serves as the primary caregiver (responsible for feeding, walks, etc.).
+- **Family composition**: 5 family members, including the father who is the trigger for the dog's reactivity. One dog (Dodo) in the household.
+- **Living space**: Apartment/house with 2 rooms.
+- **Financial situation**: Spends approximately 300,000 KRW per month on pet care, which appears sufficient.
+- **Guardian characteristics**: The guardian is deeply bonded with Dodo and highly motivated to understand her, as evidenced by her focus on "cause analysis." She is not feeling burdened by the dog's behavior, which is a very positive foundation for counseling. However, as a young guardian, she may lack experience in interpreting dog behavior and may face challenges in implementing changes that require cooperation from other family members (especially her father).
+- **Special notes**: The core of the issue lies within the family dynamic. The constant presence of the trigger (the father) in the home creates a chronic state of stress for Dodo. The success of any intervention will likely depend on the father's willingness to participate.
+
+> (3) Pet Care Satisfaction
+- **Emotional benefit**: High (75.0)
+- **Emotional burden**: Very Low (18.8)
+- **Overall satisfaction**: High (78.1)
+- **Interpretation**: These scores indicate a very strong, positive bond between the guardian and Dodo. The guardian derives significant emotional fulfillment from the relationship and does not perceive the problem behaviors as a major burden. This high level of motivation and low level of frustration is an ideal starting point for counseling, as the guardian's primary goal is to help her dog, not just to stop an annoying behavior.
+
+#### 2. Counseling Topics : Guardian’s Concerns and Root Causes
+> Make the following content the central topic of the conversation.
+
+-  **Topic 1: Fear-based Reactivity Towards the Father**
+    - **Situation description**: Dodo exhibits significant fear and defensive behavior (barking, growling) almost every time the guardian's father moves. This is part of a broader wariness towards adult men.
+    - **Guardian's Needs**: The guardian's primary request is for **cause analysis**. She wants to understand *why* Dodo behaves this way, more so than receiving an immediate action plan for behavior change. This points to a need for knowledge, deeper understanding of her dog's emotional world, and empathy.
+    - **Possible causes**:
+        - **Cause 1: Insufficient Socialization**: This is the most probable root cause. The survey confirms Dodo had extremely limited exposure to different types of people, especially men, during her critical socialization period (3-16 weeks). Without early positive experiences, she learned to perceive unfamiliar human archetypes (like large men with deep voices) as potential threats.
+        - **Cause 2: Negative Past Experience**: It's possible Dodo had a frightening experience involving a man (or the father himself) when she was a puppy. This single event could have created a lasting fear association (one-trial learning).
+        - **Cause 3: Trigger-Specific Characteristics**: The father may have physical or behavioral traits that Dodo finds intimidating—a deep voice, large stature, sudden movements, or direct eye contact. Even without ill intent, these can be perceived as threatening by a fearful dog. The behavior is a distance-increasing signal, essentially Dodo screaming, "Please don't come any closer, you scare me!"
+
+#### 3. Counseling Strategy
+
+- (0) Language: 한국어
+
+- (1) Counseling Strategies
+
+    - **Topic 1: Fear-based Reactivity Towards the Father**
+        - **(1) Counseling Goals**
+            - To help the guardian reframe Dodo's barking and growling from "bad behavior" to "communication of fear," fostering empathy.
+            - To educate the guardian on the critical role of the socialization period and how its absence has shaped Dodo's current worldview.
+            - To provide the guardian with simple, safe management techniques to immediately lower Dodo's daily stress levels and prevent the father from triggering her.
+            - To empower the guardian to become a "behavior detective" to identify the specific micro-triggers associated with her father's actions.
+
+        - **(2) Contextual Strategies**
+            - **Phase 1: Validate and Educate.** Start by validating the guardian's love for Dodo and praising her for seeking to understand the 'why'. "It's wonderful that you're not just asking how to stop the barking, but why it's happening. That shows how deeply you care for Dodo's well-being." Then, gently introduce the concept of the socialization period. Use an analogy: "Imagine a child who only ever met one type of person. When they finally meet someone very different, it can be scary. For Dodo, who met very few people as a puppy, your father might seem like a complete unknown, and that's frightening for her."
+            - **Phase 2: Reframe using Psychodrama.** Use a monologue to voice Dodo's perspective. "If Dodo could talk, she might say, 'My person is my safe place. But that other big person in the house... his movements are unpredictable and his voice is loud. I don't know what he wants. I have to bark to keep him away and protect myself and my safe person. I'm not being bad, I'm just really scared.'" This shifts the focus from disobedience to emotion.
+            - **Phase 3: Introduce Management Solutions (not training).** Since the guardian wants analysis first, focus on immediate management to reduce stress. Suggest creating a "Dodo's Safe Haven" – a comfy bed or open crate in a corner of the room where the father agrees never to approach. This gives Dodo a place to retreat to. Also, suggest the father could try tossing a high-value treat in Dodo's direction *without looking at her or talking to her* whenever he enters a room or gets up. This begins to build a new, positive association (Classical Counter-Conditioning).
+            - **Phase 4: Empower the Guardian with CBT.** Encourage the guardian to challenge the automatic thought "Dodo hates my dad." Ask her to gather evidence. "For the next week, could you be a detective? Let's make a small log. Note exactly what your father was doing when Dodo barked. Was he standing up? Walking toward you? Reaching for something? This will give us the clues we need to truly understand Dodo's triggers."
+
+        - **(3) Cautions**
+            - **Do NOT blame the father or create family conflict.** Emphasize that this is about Dodo's perception, not anyone's fault. The solution requires teamwork, not blame.
+            - **Strongly advise against any form of punishment.** Clearly explain that punishing a growl or bark will suppress the warning signal, but not the underlying fear. This can make a dog more likely to bite without warning in the future. The growl is vital information.
+            - **Manage expectations.** A fear that has been ingrained for 7 years will not disappear quickly. The goal is management and gradual improvement of Dodo's emotional state, not a quick fix.
+            - **Address the "no aggression" misconception.** Gently explain that from a dog behavior perspective, growling, barking, and lunging are forms of aggressive communication used to create distance. Acknowledge that the guardian knows Dodo is not malicious, but that these signals must be taken seriously to ensure everyone's safety.
+            - **Recommend a veterinary check-up.** To be thorough, recommend a vet visit to rule out any underlying pain or medical conditions (e.g., arthritis, vision/hearing issues) that could be lowering Dodo's tolerance for stress.
+
+#### 4. Key Questions for Further Clarification
+
+- **Topic 1: Fear-based Reactivity Towards the Father**
+    - Can you describe your father's typical interactions with Dodo? Does he try to approach her, speak to her, or does he generally ignore her?
+    - When did this behavior start? Has Dodo been afraid of your father since she was a puppy, or is this a more recent development?
+    - What happens right after Dodo barks at your father? How do you react, and how does your father react? (e.g., Does he stop moving? Does someone scold the dog? Do you pick her up?)
+    - Are there any situations where your father is present and Dodo remains calm? What is different about those times?
+    - You mentioned Dodo is wary of adult men in general. Can you describe an incident outside the home where she encountered a man she didn't know?
+    - Tell me more about your 10-minute walks. What is Dodo's body language like outside? Is she tense and scanning her environment, or does she seem relaxed and able to sniff around?
+
+
+
+# [4] Chat Record
+
+
+---
+> [1] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: Initial Message
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+안녕하세요, 사색을 좋아하는 비글이자 반려견 마음 통역사 까미예요.  
+도도의 속마음을 더 깊이 읽어 보고, 우리 보호자님과 함께 잔잔한 파도를 넘어 보려고 해요.  
+
+### 상담 안내  
+사전 질문지를 통해 보호자님께서 도도와 깊은 유대감을 느끼며 반려생활 만족도가 아주 높다는 것을 알 수 있었어요.  
+이는 도도와의 관계에서 큰 기쁨을 얻고 계시다는 뜻이지요.  
+이제 우리는 도도라는 바다에 뛰어들어, 반려견을 천천히 이해해 나아갈 거예요.  
+
+### 대화를 시작해 볼게요.  
+
+1. 아빠에 대한 두려움 기반의 반응성  
+
+이것은 보호자님께서 전달해 주신 고민 내용이에요.  
+어떤 주제에 대해 먼저 이야기해 보고 싶으세요?
+
+
+---
+> [2] User
+
+
+전달한 내용
+
+
+---
+> [3] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Fear-based Reactivity Towards the Father
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+도도가 아빠에게 짖고 으르렁거리는 행동은 마치 작은 새가 큰 그림자를 보고 놀라 날개를 파닥이는 것과 비슷할 거예요.  
+
+도도의 눈에는 아빠의 어떤 행동이 가장 크게 다가왔을까요?  
+아빠가 도도에게 어떻게 다가가거나, 어떤 행동을 할 때 그런 반응이 주로 나타나는지 자세히 알려주시겠어요?
+
+
+---
+> [4] User
+
+
+그냥 일어나 움직이기만 해도 그런 반응을 보임
+
+
+---
+> [5] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Fear-based Reactivity Towards the Father
+
+[back_process_rate]: 10%
+
+[back_user_emotion]: 2
+
+아빠가 그저 움직이기만 해도 도도가 짖고 으르렁거린다는 말씀이시군요.  
+
+도도가 어렸을 때부터 아빠를 무서워했는지, 아니면 최근에 생긴 행동인지 궁금해요.  
+혹시 아빠를 무서워하기 시작한 특별한 계기가 있었을까요?
+
+
+---
+> [6] User
+
+
+특별한 계기는 모르겠는데 보호센터에서 데리고 올때부터 성인 남성만 보면 그런 반응을 보임
+
+
+---
+> [7] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Fear-based Reactivity Towards the Father
+
+[back_process_rate]: 20%
+
+[back_user_emotion]: 2
+
+보호소에서 데려올 때부터 성인 남성에게 그런 반응을 보였다니, 도도의 세상이 얼마나 좁았을지 짐작이 가네요.  
+
+도도에게는 아빠의 움직임 하나하나가 마치 낯선 그림자처럼 느껴질 수 있어요.  
+
+혹시 도도가 아빠에게 짖거나 으르렁거릴 때, 보호자님이나 아빠는 어떻게 반응하시나요?  
+그때마다 아빠의 행동이 멈추는지, 아니면 다른 가족들이 도도를 달래주는지 궁금해요.
+
+
+---
+> [8] User
+
+
+방에 들어가라고 소리지른다
+
+
+---
+> [9] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Fear-based Reactivity Towards the Father
+
+[back_process_rate]: 30%
+
+[back_user_emotion]: 2
+
+도도가 짖을 때 방에 들어가라고 소리치면, 도도는 아빠의 움직임뿐 아니라 큰 소리에도 더욱 긴장하게 될 거예요.  
+
+도도에게는 아빠가 다가오는 것도, 큰 소리로 혼내는 것도 모두 '위험 신호'로 느껴질 수 있답니다.  
+
+혹시 아빠가 계신 상황에서도 도도가 전혀 짖지 않고 편안하게 있었던 순간이 있었을까요?  
+그때는 어떤 점이 달랐는지 기억나는 것이 있으신가요?
+
+
+---
+> [10] User
+
+
+다른 가족들이 없을때는 아빠랑 편안하게 있었다고 알고 있음
+
+
+---
+> [11] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Fear-based Reactivity Towards the Father
+
+[back_process_rate]: 40%
+
+[back_user_emotion]: 2
+
+다른 가족들이 없을 때는 아빠와 편안하게 있었다는 것이 정말 중요한 단서가 될 수 있어요.  
+
+이것은 도도가 아빠 자체를 싫어하는 것이 아니라, 특정 상황에서 불안감을 느낀다는 의미일 수 있답니다.  
+
+혹시 도도가 집 밖에서 모르는 남성분들을 만났을 때도 비슷한 반응을 보인 적이 있었나요?  
+그때는 어떤 상황이었는지 자세히 알려주시겠어요?
+
+
+---
+> [12] User
+
+
+낮선 남성이 아는체를 하면 경계함
+
+
+---
+> [13] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Fear-based Reactivity Towards the Father
+
+[back_process_rate]: 50%
+
+[back_user_emotion]: 2
+
+낯선 남성이 아는 체를 하면 경계하는군요.  
+도도에게는 낯선 남성의 인사가 마치 갑작스러운 소리처럼 들릴 수 있어요.  
+
+도도가 10분 정도 산책을 한다고 하셨는데, 산책할 때 도도의 몸짓은 어떤가요?  
+주변을 살피며 긴장하는 편인가요, 아니면 편안하게 냄새를 맡으며 탐색하는 편인가요?
+
+
+---
+> [14] User
+
+
+신나서 냄새를 맡으며 다님
+
+
+---
+> [15] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Fear-based Reactivity Towards the Father
+
+[back_process_rate]: 60%
+
+[back_user_emotion]: 3
+
+산책할 때 신나서 냄새를 맡는다는 것은 도도가 새로운 환경에 대한 호기심도 가지고 있다는 뜻이에요.  
+
+도도가 아빠의 움직임에 짖고 으르렁거리는 것은 마치 "저는 지금 너무 무서워요!"라고 외치는 것과 같아요.  
+
+도도가 어릴 때 성인 남성을 충분히 만나지 못했기 때문에, 아빠를 포함한 낯선 남성들을 두려워하는 것은 어쩌면 당연한 일일 수 있답니다.  
+
+그렇다면 도도가 아빠에게 이런 두려움을 표현할 때, 혹시 다른 가족 구성원들은 어떻게 반응하는지 알려주시겠어요?
+
+
+---
+> [16] User
+
+
+아빠가 어떤 행동을 하든 무시함
+
+
+---
+> [17] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Fear-based Reactivity Towards the Father
+
+[back_process_rate]: 65%
+
+[back_user_emotion]: 2
+
+아빠가 도도의 짖음과 으르렁거림을 무시하는 것은 도도에게 "내 두려움을 아무도 알아주지 않아"라는 메시지를 줄 수 있어요.  
+
+도도의 입장에서는 자신의 두려움을 표현하는데도 상황이 변하지 않으니, 오히려 더 불안해질 수 있답니다.  
+
+혹시 도도가 아빠 외에 다른 가족 구성원, 예를 들어 보호자님에게는 어떤 식으로 애정을 표현하나요?
+
+
+---
+> [18] User
+
+
+따라다니면서 꼬리를 흔듬
+
+
+---
+> [19] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Fear-based Reactivity Towards the Father
+
+[back_process_rate]: 70%
+
+[back_user_emotion]: 3
+
+보호자님을 따라다니며 꼬리를 흔드는 모습은 도도가 보호자님을 얼마나 신뢰하고 의지하는지 보여주는 아름다운 표현이에요.  
+
+도도에게 보호자님은 세상의 모든 안정감을 주는 존재일 거예요.  
+
+혹시 도도가 아빠와 있을 때도 편안함을 느꼈던 순간이 있었다고 하셨는데, 그때 아빠는 어떤 행동을 하셨는지 구체적으로 기억나는 것이 있으신가요?
+
+
+---
+> [20] User
+
+
+그냥 평소랑 다름이 없음
+
+
+---
+> [21] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind", '[phase3] Caregiving Solutions']
+
+[back_current_topic]: Fear-based Reactivity Towards the Father
+
+[back_process_rate]: 75%
+
+[back_user_emotion]: 2
+
+다른 가족들이 없을 때 아빠와 편안하게 있었다는 것은 도도가 아빠 자체를 싫어하는 것이 아님을 보여주는 중요한 단서예요.  
+
+도도가 아빠의 움직임에 짖고 으르렁거리는 것은 마치 "저는 지금 너무 무서워요!"라고 외치는 것과 같아요.  
+
+도도가 어릴 때 성인 남성을 충분히 만나지 못했기 때문에, 아빠를 포함한 낯선 남성들을 두려워하는 것은 어쩌면 당연한 일일 수 있답니다.  
+
+이제 도도의 스트레스를 줄여줄 수 있는 방법을 함께 알아볼까요?  
+
+🐾 **Step 1: 도도만의 안전지대 만들기**  
+
+- **준비물**: 도도가 가장 좋아하는 방석이나 켄넬, 담요  
+- **방법**:  
+    1. 집안의 조용하고 아늑한 구석에 도도만의 공간을 만들어 주세요.  
+    2. 이 공간에서는 아빠를 포함한 누구도 도도를 방해하지 않도록 가족들과 약속하는 것이 중요해요.  
+    3. 도도가 이 공간에 있을 때 아빠가 움직이더라도 칭찬과 간식을 주어 긍정적인 경험을 만들어 주세요.  
+
+🎯 **목표**  
+- 도도가 집 안에서도 마음 편히 쉴 수 있는 '나만의 성'을 갖게 하는 거예요.  
+
+🔎 **주의 사항**  
+- 이 공간은 오직 도도만의 것이므로, 강제로 끌어내거나 혼내지 않도록 주의해 주세요.  
+- 도도가 이 공간에서 편안함을 느낄 때까지 꾸준히 연습하는 것이 중요해요.  
+
+이 방법이 보호자님의 일상에 적용하기 괜찮으실까요?
+
+
+---
+> [22] User
+
+
+만약 간식을 주기전에 문제행동이 발생한다면?
+
+
+---
+> [23] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Fear-based Reactivity Towards the Father
+
+[back_process_rate]: 80%
+
+[back_user_emotion]: 2
+
+간식을 주기 전에 문제 행동이 발생한다면, 도도가 아직 아빠의 움직임을 긍정적으로 받아들일 준비가 되지 않았다는 신호일 수 있어요.  
+
+이럴 때는 아빠가 도도에게서 충분히 멀리 떨어진 곳에서 움직임을 시작하고, 도도가 짖지 않고 아빠를 바라볼 때 바로 간식을 던져주는 방식으로 시도해 보세요.  
+
+아빠가 도도에게 간식을 던져줄 때, 도도에게 직접 시선을 주거나 말을 걸지 않고, 그저 간식만 던져주는 것이 중요해요.  
+
+이렇게 하면 도도는 아빠의 움직임이 자신에게 좋은 것(간식)을 가져다준다는 것을 점차 배우게 될 거예요.  
+
+이 방법은 어떠신가요?
+
+
+---
+> [24] User
+
+
+평균적인 개선 기간이 얼마나 걸리는가
+
+
+---
+> [25] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Fear-based Reactivity Towards the Father
+
+[back_process_rate]: 85%
+
+[back_user_emotion]: 2
+
+도도의 두려움은 7년이라는 시간 동안 쌓여온 감정이라, 마치 깊은 뿌리처럼 단단하게 자리 잡았을 거예요.  
+
+이러한 행동을 개선하는 데는 보통 몇 주에서 몇 달, 길게는 1년 이상이 걸릴 수도 있답니다.  
+
+하지만 꾸준히 노력하면 도도도 아빠에게 편안함을 느끼는 날이 올 거예요.  
+
+혹시 도도의 건강 상태나 다른 불편함은 없는지 확인하기 위해 동물병원에 방문하여 수의사 선생님과 상담해 보시는 것도 좋은 방법이에요.  
+
+이러한 변화는 도도의 마음이 열리는 속도에 맞춰 천천히 진행될 거랍니다.
+
+---
+#### **Token Usage**
+- 대화 비용: $0.0489114
+- 입력 토큰: 139738.0
+- 출력 토큰: 2796.0
+---
+
+
+
+
+
+# [5] Feedback Response
+None

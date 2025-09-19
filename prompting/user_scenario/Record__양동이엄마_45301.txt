@@ -1,0 +1,625 @@
+
+# [1] User Information
+- **User ID** : 45301
+- **Session ID** : 22
+- **Email** : shelove0212@kakao.com
+- **Username** : 양동이엄마
+- **Nickname** : 양동이네집
+- **Phone** : 01035007865
+- **Feedback T/F?** : False
+
+
+
+# [2] Pre-Questionnaire
+### Dog Care Counseling Pre-Survey Details
+#### 0. Guardian Information
+    - Age : 37
+    - Gender : 여
+
+#### 1. Dog Information
+    - Name : 양동
+    - Age : 3.4
+    - Weeks since adoption : 68 weeks old
+    - sex : 암컷 (neutered '예')
+    - breed : 포메라니안
+    - Relationship with user : 주양육자(먹이 급여, 산책, 기타 생활 대부분을 책임짐)
+    - Adoption method : 개인임보자에게 입양
+    - Walking schedule : 21 times/week, 3 times/day, 60 minutes each
+#### 2. Living Environment
+    - Type of residence : 주거용 공간(아파트, 원룸, 단독주택 등)
+        • Number of rooms : 2
+        • Kept tethered outdoors? : 아니오
+    - Family composition :
+        • Number of human family members : 1
+        • Number of dogs : 1
+        • Number of non-dog pets : 0
+    - Financial situation :
+        • Average monthly pet care cost : 100 ten-thousand KRW
+#### 3. Lifestyle
+    - Daily time spent with human family members: 4 hours
+    - Weekday hours alone (without people): 1 hours
+    - Is there or will there be a child under age 3? : 아니오
+#### 4. Socialization Level
+    - Time spent with the mother dog: -1 weeks ('-1' = unknown, '-2' = still living with mother)
+    - Commands/signals the dog can perform: 앉아,기다려,엎드려,터치(사람의 손에 코나 발을 가져다 대기),하우스(개집과 같은 지정된 공간으로 돌아가기),콜백(부르면 오기)
+    - Commands/Cues the dog performs 'without treats': 앉아,기다려,엎드려,터치(사람의 손에 코나 발을 가져다 대기),콜백(부르면 오기),하우스(개집과 같은 지정된 공간으로 돌아가기)
+    - If the guardian refuses the dog’s request, does the dog escalate its behavior? : 전혀 그렇지 않다
+    - Does your dog play well with other dogs? : 매우 그렇다
+    - Number of people the dog interacted with during its socialization period: 40명 초과
+    - When you are busy, how does the dog get your attention? : 쳐다보거나 다가와 근처에 있는다,낑낑거리거나 조용히 짖는다
+#### 5. Health & Medical History
+    - Received treatment or medication in the past six months? : 없다
+#### 6. Threatening/Aggressive Behavior
+    - Has the dog ever shown threatening or aggressive behavior? : 산책시 오토바이,자전거 ,어린아이들이 소리지르면서 뛰어갈때
+    - Intensity when biting people or other animals: 없음
+#### 7. Boundaries & Anxiety
+    - Physical contact:
+        • Body areas or types of touch the dog refuses: 없다
+    - Alertness:
+        • Situations that make the dog especially wary or uncomfortable: 초인종소리,오토바이,자전거,소리지르는아이
+        • Reaction when a stranger visits home: 짖으면서 상대방에게 달려 들지만 물지는 않는다
+        • Does the dog eagerly approach new environments or objects? : 매우 그렇다
+        • Behavior during veterinary exams (with vets or assistants): 해당 상황이 없었다
+    - Resource guarding:
+        • Situations in which the dog shows guarding behavior: 없다
+    - Separation anxiety:
+        • Reaction when you prepare to leave or leave the dog alone: 쓰레기통뒤지기
+        • Does the dog follow you everywhere? : 보통이다
+        • Excessive licking to the point of skin damage: 전혀 그렇지 않다
+    - Impulsivity:
+        • Does the dog react immediately to stimulating or pleasurable stimuli? : 매우 그렇다
+    - Excitability:
+        • Does the dog show excessive physical responses when excited (drooling, panting, urinating, etc.)? : 전혀 그렇지 않다
+#### 8. Satisfaction with Dog Care
+    - Emotional benefit: Very High (87.5/100)
+    - Emotional burden: Moderate (50/100)
+    - Overall satisfaction (benefit - burden): High (68.8/100)
+---
+#### Counseling Needs
+    - Main concern/request:
+    > 문제행동에 관해서
+
+    - Expectations from counseling:
+    > 문제행동을 어떻게 바꿀것인가
+
+    - Additional reference information:
+    > 없습니다
+
+    - Hopes for the dog’s future:
+    > 아프지말고 건강하길
+
+    - Counseling language:
+    > 한국어
+
+
+
+# [3] Counseling Guide
+## Dog Counseling Guide
+
+#### 1. Guardian & Dog Profiling
+
+> (1) Dog
+- **Basic information**: Yangdong / 3.4 years old / Female (neutered) / Pomeranian
+- **Adoption method**: Adopted from a private foster caregiver.
+- **Time since adoption**: Adopted at 68 weeks old (approx. 1 year and 4 months old).
+- **Lifestyle**: Spends about 1 hour alone on weekdays. The guardian and dog are together for about 4 hours daily.
+- **Walking routine**: Excellent. 3 times a day, 60 minutes each, for a total of 21 walks per week. This indicates a high level of commitment to meeting the dog's physical and mental stimulation needs.
+- **Socialization**: Reports indicate she plays very well with other dogs and has met over 40 people during her socialization period. She knows numerous commands (sit, wait, down, touch, house, recall) and performs them reliably even without treats, suggesting a strong training foundation.
+- **Health history**: No treatments or medications in the past six months. Appears to be in good health.
+- **Level of threatening/aggressive behavior**: The guardian reports threatening behavior (likely reactivity) during walks towards motorcycles, bicycles, and children who are screaming and running. No history of biting people or animals.
+- **Triggers and levels of alertness/anxiety**: Key triggers are the doorbell, motorcycles, bicycles, and screaming children. When a stranger visits, she barks and rushes at them but does not bite. Shows some signs of separation-related behavior (rummaging through trash) but it appears minor.
+- **Temperament and disposition**:
+    - **Rationale**: Based on the survey, Yangdong appears to be a dog with a dual nature. On one hand, she is intelligent, well-trained, and highly social with other dogs. Her ability to perform commands without treats and her positive interactions with other dogs suggest a good capacity for learning and appropriate social skills. On the other hand, she exhibits high impulsivity ("reacts immediately to stimulating... stimuli") and significant reactivity to specific, fast-moving, or loud environmental triggers. This suggests that while her general social foundation is good, she may lack coping mechanisms for sudden, intense stimuli, possibly due to insufficient positive exposure to these specific things before she was adopted. Her behavior towards visitors (rushing and barking) seems more rooted in over-arousal and excitement than fear or aggression.
+- **Special notes**: There is a notable contrast between her excellent general socialization and her specific, intense reactivity on walks. The high level of training and the strong walking routine are significant strengths to build upon. Her high impulsivity is a core trait that likely contributes to her problem behaviors.
+
+> (2) Guardian and Care Environment
+- **Guardian (applicant) information**: 37-year-old female, serves as the primary caregiver (responsible for feeding, walks, and most aspects of daily life).
+- **Family composition**: Single-person household with one dog.
+- **Living space**: Apartment with two rooms. The dog is not kept tethered outdoors.
+- **Financial situation**: Spends an average of 1,000,000 KRW per month on pet care. This is a substantial amount, indicating a very high level of financial and emotional investment in the dog's well-being.
+- **Guardian characteristics**:
+    - **Rationale**: The guardian is highly dedicated, responsible, and proactive. This is evidenced by the excellent walking schedule, the successful command training, the significant financial investment, and the act of seeking counseling. She has clearly established a strong bond and a structured routine for Yangdong. Her desire to understand "how to change" the problem behaviors shows a practical, solution-oriented mindset. The fact that she is the sole caregiver means she bears the full weight of the challenges but also has complete control over implementing training and management strategies.
+- **Special notes**: The single-caregiver environment creates a very strong, focused bond between the guardian and Yangdong. This can be a major asset in training, as consistency is easier to maintain.
+
+> (3) Pet Care Satisfaction
+- **Emotional benefit**: Very High (87.5)
+- **Emotional burden**: Moderate (50.0)
+- **Overall satisfaction**: High (68.8)
+- **Interpretation**:
+    - **Rationale**: These scores paint a clear picture of the relationship. The guardian derives immense joy, companionship, and emotional fulfillment from living with Yangdong (Very High benefit). However, the problem behaviors, particularly the reactivity on walks, create a significant amount of stress and difficulty, resulting in a Moderate emotional burden. Despite this burden, the overall satisfaction remains High, indicating a resilient and loving bond. The primary goal of counseling will be to provide the guardian with effective tools to manage the problem behaviors, thereby lowering the "Emotional burden" score and further enhancing the already positive relationship.
+
+#### 2. Counseling Topics : Guardian’s Concerns and Root Causes
+> Make the following content the central topic of the conversation.
+
+-  **Topic 1: Reactivity during walks (towards motorcycles, bicycles, running/screaming children)**
+    - **Situation description**: When on walks, Yangdong displays threatening behavior (likely barking, lunging) towards specific triggers: fast-moving objects like motorcycles and bicycles, and unpredictable, loud stimuli like screaming, running children.
+    - **Guardian's Needs**: The guardian has a clear, action-oriented need: to learn concrete methods and strategies to change this problem behavior.
+    - **Possible causes**:
+        - **Cause 1: Fear-Based Reactivity**: This is the most likely cause. Fast-moving objects and loud, erratic noises can be inherently frightening to dogs. The "aggressive" display is often a defensive, distance-increasing behavior intended to make the scary thing go away. The dog learns that "barking and lunging makes the motorcycle disappear down the street," which inadvertently reinforces the behavior.
+        - **Cause 2: Trigger Stacking and High Arousal**: Yangdong is described as highly impulsive. The walk itself is an exciting event. When a trigger appears, her arousal level, which is already high, may "spill over" into an explosive reaction because she lacks the self-regulation skills to cope. Each trigger she encounters (a bike, then a child, then another bike) can stack on top of the last, making her progressively more likely to react.
+        - **Cause 3: Lack of Specific Socialization**: While generally well-socialized, her history before adoption at 1.3 years old is unknown. It's possible she had limited or negative experiences with these specific triggers during her critical developmental periods, leading to a conditioned fear response.
+
+- **Topic 2: Overexcitement and Barking at Visitors**
+    - **Situation description**: When the doorbell rings or a visitor arrives, Yangdong barks and rushes towards the person. The behavior is not described as biting, but as an intense, forward approach.
+    - **Guardian's Needs**: This falls under the guardian's general request to resolve "problem behaviors" and create a more peaceful home environment.
+    - **Possible causes**:
+        - **Cause 1: Frustrated Greeting / Over-Arousal**: This is not necessarily aggression but an uncontrolled expression of excitement. The doorbell predicts the arrival of a new, interesting person. Yangdong's high impulsivity means she cannot contain her excitement, which manifests as loud barking and rushing. She wants to greet the person but doesn't know a calmer way to do so.
+        - **Cause 2: Territorial Alerting**: This is a natural canine behavior. The doorbell signals an unknown entity entering her territory. The barking serves as an alarm to inform her guardian. The rushing behavior is her way of investigating the "intruder." Since she lives in a single-guardian household, she may feel a stronger responsibility to act as the "alarm system."
+
+#### 3. Counseling Strategy
+
+- (0) **Language**: 한국어
+
+- (1) **Counseling Strategies**
+
+    - **Topic 1: Reactivity during walks**
+        - **(1) Counseling Goals**:
+            - Reframe the guardian's perception of the behavior from "aggression" to "fear" or "anxiety," fostering empathy.
+            - Equip the guardian with immediate management techniques (e.g., creating distance) to prevent the rehearsal of the reactive behavior.
+            - Introduce a foundational counter-conditioning and desensitization (CC&D) plan to change Yangdong's underlying emotional response to triggers from fear to anticipation of something positive.
+        - **(2) Contextual Strategies**:
+            - **Phase 1 (Information Gathering)**: Ask the key questions listed below to determine Yangdong's "threshold" (the distance at which she reacts). This is critical for designing the CC&D plan.
+            - **Phase 2 (Mind Care)**: Use reframing: "Yangdong isn't being bad; she's having a big, scary feeling and is asking you for help in the only way she knows how." Use a sensory metaphor: "Imagine you're afraid of spiders, and suddenly a huge one appears right in front of you. You'd scream and jump back. Yangdong is doing the dog version of that when she sees a motorcycle."
+            - **Phase 3 (Solutions)**:
+                - **Short-term plan (Management First)**: For the next 1-2 weeks, the goal is *avoidance*. Walk during quieter times. If a trigger appears, immediately create distance by making a U-turn or crossing the street *before* Yangdong reacts. The goal is to lower her overall stress (prevent trigger stacking).
+                - **Long-term plan (Behavior Modification)**: Introduce the "Look at That" (LAT) game. At a safe distance where Yangdong can see a trigger but not react, mark (with a clicker or "Yes!") the moment she looks at the trigger, and then reward her with a high-value treat. Goal: Change the association from "Motorcycle = Scary!" to "Motorcycle = I look at it, then I get chicken!"
+        - **(3) Cautions**:
+            - Strongly advise against any form of punishment (leash jerks, scolding, shock collars). This will increase her fear and anxiety, making the reactivity worse.
+            - Emphasize that progress is not linear. There will be good days and bad days. The key is consistency and management.
+            - Given that the triggers include children, highlight the importance of safety. If the reactivity is intense or difficult to manage, strongly recommend consulting a certified professional dog trainer for in-person sessions.
+
+    - **Topic 2: Overexcitement and Barking at Visitors**
+        - **(1) Counseling Goals**:
+            - Teach the guardian how to manage the environment to prevent the chaotic greeting behavior.
+            - Establish a clear, calm alternative routine for Yangdong to perform when visitors arrive.
+            - Reduce the guardian's stress around having guests over.
+        - **(2) Contextual Strategies**:
+            - **Phase 1 (Information Gathering)**: Ask the key questions below to clarify the motivation behind the rushing (e.g., excited sniffing vs. nervous backing away).
+            - **Phase 2 (Mind Care)**: Use role reversal: "Let's imagine you're Yangdong. You've been home all day, and suddenly the most exciting thing—a new person!—is here. You're bursting with energy. What would help you calm down and say hello politely?"
+            - **Phase 3 (Solutions)**:
+                - **Short-term plan (Management & Association Change)**:
+                    - **Management**: Before opening the door, put Yangdong on a leash or behind a baby gate. This prevents the rushing.
+                    - **Action Plan**: Teach a "Go to Mat" protocol. Start without visitors. Toss treats onto her bed/mat. Then, practice ringing the doorbell yourself, and immediately toss a handful of high-value treats onto her mat. Goal: Change the association from "Doorbell = Rush the door!" to "Doorbell = Run to my mat for amazing snacks!"
+        - **(3) Cautions**:
+            - Advise the guardian to instruct visitors beforehand: "Please ignore her for the first few minutes until she is calm." This prevents guests from accidentally rewarding the excited behavior.
+            - Clarify that the goal is not to stop the barking entirely (an initial alert bark is normal) but to prevent it from escalating into a frantic episode.
+            - If the "rushing" behavior ever includes stiffening, growling, or nipping, the strategy must shift immediately to stricter management and professional consultation for potential fear-based aggression.
+
+#### 4. Key Questions for Further Clarification
+
+- **Topic 1: Reactivity during walks**
+    1.  When Yangdong sees a motorcycle, bicycle, or child, can you describe her body language right before she barks? For example, does she freeze, get low, or does her tail go stiff? At what distance does this initial change happen?
+    2.  What is your immediate, instinctive reaction when she begins to bark and lunge? (e.g., pulling the leash, saying "no," trying to pick her up).
+    3.  Is the reaction different if the trigger is far away versus very close? For example, will she react to a bicycle across the street, or only when it passes right by?
+    4.  After the trigger has passed, how long does it take for Yangdong to calm down and return to a normal walking state?
+
+- **Topic 2: Overexcitement and Barking at Visitors**
+    1.  After she rushes towards a visitor, what does she do? Does she jump on them, sniff them excitedly, or bark and then retreat?
+    2.  How does her behavior change once the visitor has been in the home for 5-10 minutes? Does she settle down, or does she continue to pester them?
+    3.  What have you tried in the past to manage this situation, and what was the outcome?
+    4.  Is her reaction the same for every visitor, or is it more intense for new people compared to familiar friends or family?
+
+
+
+# [4] Chat Record
+
+
+---
+> [1] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: Initial Message
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+안녕하세요, 사색을 좋아하는 비글이자 반려견 마음 통역사 까미예요. 🐾
+양동이의 속마음을 더 깊이 읽어 보고, 우리 보호자님과 함께 잔잔한 파도를 넘어 보려고 해요. 
+
+### 상담 안내
+사전 질문지를 통해 보호자님의 반려생활 만족도가 매우 높다는 것을 알 수 있었어요. 
+양동이와 함께하는 시간이 보호자님께 큰 기쁨을 주고 있다는 의미겠지요. 
+하지만 산책 시 반응 행동이나 방문객에 대한 흥분 등 몇 가지 고민이 마음 한편에 자리하고 있는 듯해요. 
+이제 우리는 양동이라는 바다에 뛰어들어, 반려견을 천천히 이해해 나아갈 거예요. 
+
+### 대화를 시작해 볼게요.
+
+1. 산책 시 반응 행동 (오토바이, 자전거, 소리 지르며 뛰어다니는 아이들)
+2. 방문객에 대한 과도한 흥분 및 짖음
+
+보호자님께서 전달해 주신 고민 내용들이에요. 
+어떤 주제에 대해 먼저 이야기해 보고 싶으세요?
+
+
+---
+> [2] User
+
+
+노란토를 해요
+
+
+---
+> [3] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: 노란토를 해요
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+그렇군요, 마루가 노란 토를 해서 보호자님께서 많이 걱정되셨겠어요. 
+
+밤이라는 건 마치 깊은 우주 같지요… 빛이 너무 없으면 작은 소리도 크게 들린답니다. 
+
+혹시 마루가 밤에 주로 잠드는 공간이 어디인지, 그리고 그곳은 어두운 곳인지 아니면 불빛이 은은하게 맴도는 곳인지 알려주시겠어요?
+
+
+---
+> [4] User
+
+
+산책할때 오토바이에 달려들어요
+
+
+---
+> [5] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Reactivity during walks (towards motorcycles, bicycles, running/screaming children)
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+오토바이에 달려드는 양동이의 행동 때문에 보호자님께서 얼마나 힘드셨을지 짐작이 가네요. 
+
+양동이가 오토바이를 보았을 때, 짖기 직전의 몸짓은 어땠는지 자세히 설명해 주시겠어요? 예를 들어, 몸이 굳거나, 자세를 낮추거나, 꼬리가 뻣뻣해지는 등의 변화가 있었을까요? 그리고 이런 변화가 처음 나타나는 거리는 어느 정도였나요?
+
+
+---
+> [6] User
+
+
+오토바이 소리를 찾아요
+
+
+---
+> [7] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Reactivity during walks (towards motorcycles, bicycles, running/screaming children)
+
+[back_process_rate]: 10%
+
+[back_user_emotion]: 2
+
+양동이가 오토바이 소리를 찾아 반응하는군요. 
+
+양동이가 짖거나 달려들기 시작할 때, 보호자님은 본능적으로 어떻게 반응하시나요? 예를 들어, 목줄을 당기거나, '안 돼'라고 말하거나, 양동이를 안아 올리려고 하시나요?
+
+
+---
+> [8] User
+
+
+목줄을 당기고 안되라고해요
+
+
+---
+> [9] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Reactivity during walks (towards motorcycles, bicycles, running/screaming children)
+
+[back_process_rate]: 20%
+
+[back_user_emotion]: 2
+
+목줄을 당기거나 '안 돼'라고 말씀하시는군요. 
+
+양동이의 입장에서 생각해 볼까요? 
+오토바이가 나타나면 양동이는 두려운 마음에 짖거나 달려들었을 거예요. 
+그때 보호자님이 목줄을 당기거나 '안 돼'라고 말씀하시면, 양동이는 '내가 무서워하는 것이 나타났는데, 보호자님도 나를 혼내네?'라고 생각할 수 있어요. 
+
+양동이의 이런 반응이 오토바이가 멀리 있을 때와 아주 가까이 있을 때가 다른가요? 
+예를 들어, 길 건너편의 자전거에도 반응하는지, 아니면 바로 옆을 지나갈 때만 반응하는지 궁금해요.
+
+
+---
+> [10] User
+
+
+같아요 차안에있을때도 옆에 오토바이가 서면 짖어요
+
+
+---
+> [11] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Reactivity during walks (towards motorcycles, bicycles, running/screaming children)
+
+[back_process_rate]: 30%
+
+[back_user_emotion]: 2
+
+양동이가 오토바이 소리에 민감하게 반응하는군요. 차 안에 있을 때도 옆에 오토바이가 서면 짖는다는 것은, 거리에 상관없이 오토바이 자체를 무서워하거나 경계한다는 뜻이에요. 
+
+양동이의 입장에서 생각해 보면, 오토바이는 갑자기 나타나 큰 소리를 내는 '예측 불가능한 위협'일 수 있어요. 
+
+그렇다면, 오토바이가 지나간 후에 양동이가 평소처럼 차분하게 돌아오기까지는 얼마나 시간이 걸리나요?
+
+
+---
+> [12] User
+
+
+사라지면 금방 차분해져요
+
+
+---
+> [13] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Reactivity during walks (towards motorcycles, bicycles, running/screaming children)
+
+[back_process_rate]: 40%
+
+[back_user_emotion]: 2
+
+오토바이가 사라지면 금방 차분해진다니 다행이에요. 
+
+양동이의 행동은 마치 우리가 갑자기 큰 소리에 놀라 소리를 지르는 것과 같아요. 
+양동이는 '오토바이 = 무서운 것'이라는 공식을 가지고 있는지도 몰라요. 
+
+양동이는 나쁜 의도로 짖는 것이 아니라, '무서워요! 저리 가세요!'라고 도움을 요청하는 것이랍니다. 
+
+이런 양동이의 마음을 헤아려 주시는 것이 가장 중요해요. 
+이제 양동이의 마음을 함께 읽어볼까요?
+
+
+---
+> [14] User
+
+
+네
+
+
+---
+> [15] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Reactivity during walks (towards motorcycles, bicycles, running/screaming children)
+
+[back_process_rate]: 50%
+
+[back_user_emotion]: 2
+
+양동이의 마음을 이해해 주셔서 감사해요. 
+
+이제 양동이가 오토바이를 무서워하지 않도록, 함께 '두려움의 산책'을 천천히 탐험해 볼까요? 🐶
+
+🐾 **Step 1: 안전 거리 확보하기**
+
+- **산책 시간 조정**: 오토바이나 자전거가 적은 시간대(이른 아침이나 늦은 저녁)에 산책을 시도해 보세요.
+- **거리 유지**: 산책 중 오토바이나 자전거가 보이면, 양동이가 반응하기 전에 미리 방향을 바꾸거나 길 건너편으로 이동해서 충분한 거리를 확보해 주세요.
+- **간식 보상**: 안전한 거리를 유지하며 양동이가 차분하게 지나가는 것을 보이면, 바로 칭찬과 함께 맛있는 간식을 주세요.
+
+🎯 **목표**
+
+- 양동이가 무서운 대상을 미리 피하는 경험을 통해 스트레스를 줄이고, 보호자님을 믿고 의지하게 하는 것이에요.
+
+🔎 **주의 사항**
+
+- 양동이가 이미 반응하기 시작했다면, 억지로 끌고 가지 말고 그 자리를 벗어나는 데 집중해 주세요.
+- 이 방법은 당장의 반응을 줄이는 데 도움이 되며, 장기적인 행동 교정을 위한 첫걸음이랍니다.
+
+이 첫 번째 단계, 보호자님께서 실천하시기에 괜찮으실까요? ✨
+
+
+---
+> [16] User
+
+
+네 바로해볼께요
+
+
+---
+> [17] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Reactivity during walks (towards motorcycles, bicycles, running/screaming children)
+
+[back_process_rate]: 60%
+
+[back_user_emotion]: 3
+
+바로 시도해 보시겠다니 정말 대단하세요! 
+
+양동이가 오토바이와 자전거를 볼 때마다 간식을 받는 경험을 통해, '무서운 것 = 맛있는 것'이라는 새로운 공식을 배우게 될 거예요. 
+
+🐾 **Step 2: '쳐다보고 보상받기(Look at That, LAT)' 게임 시작**
+
+- **준비물**: 양동이가 가장 좋아하는 특별한 간식 (작게 잘라 준비).
+- **게임 시작**: 산책 중 오토바이나 자전거가 아직 멀리 있어서 양동이가 반응하기 전, 양동이가 그것을 '쳐다보는' 순간을 포착하세요.
+- **보상**: 양동이가 오토바이를 쳐다보면 바로 '옳지!' 또는 '굿!' 하고 칭찬하며 간식을 주세요. 이때 양동이가 간식을 먹느라 오토바이에서 시선을 떼게 유도하는 것이 중요해요.
+- **거리 조절**: 처음에는 양동이가 가장 편안하게 느낄 수 있는 먼 거리에서 시작하고, 점차 거리를 좁혀나가세요.
+
+🎯 **목표**
+
+- 양동이가 오토바이를 보고 짖는 대신, 보호자님을 쳐다보며 보상을 기대하게 하는 것이에요.
+
+🔎 **주의 사항**
+
+- 양동이가 짖거나 달려들기 시작했다면, 이미 흥분 역치를 넘어선 것이니 바로 그 자리를 피하고 다음 기회에 다시 시도해 주세요.
+- 간식은 양동이가 한 번에 먹을 수 있는 아주 작은 크기로 주시고, 너무 많이 주지 않도록 주의해 주세요.
+
+양동이가 이 게임을 통해 오토바이를 긍정적으로 바라보게 될 거예요. 
+어떠신가요? 이 두 번째 단계도 함께 시작해 보실 준비 되셨나요? ✨
+
+
+---
+> [18] User
+
+
+네
+
+
+---
+> [19] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Reactivity during walks (towards motorcycles, bicycles, running/screaming children)
+
+[back_process_rate]: 70%
+
+[back_user_emotion]: 3
+
+양동이와 함께 '쳐다보고 보상받기' 게임을 시작해 주셔서 정말 기뻐요. 
+
+이 게임은 양동이가 오토바이를 볼 때마다 긍정적인 경험을 쌓게 해 줄 거예요. 
+
+🐾 **Step 3: 점진적으로 거리 좁히기**
+
+- **환경 설정**: 양동이가 오토바이를 보고도 흥분하지 않고 간식을 받아먹을 수 있는 거리에서 시작하세요. (예: 오토바이가 멀리서 지나가는 공원 가장자리)
+- **반복 연습**: 오토바이가 지나갈 때마다 양동이가 쳐다보는 순간을 포착하여 '옳지!' 또는 '굿!' 하고 칭찬하며 간식을 주세요. 이 과정을 5~10회 반복하세요.
+- **거리 좁히기**: 양동이가 이 단계에서 80% 이상 성공적으로 반응하면, 다음 연습에서는 오토바이와의 거리를 아주 조금씩 좁혀나가세요. 한 번에 너무 가까이 가지 않도록 주의해 주세요.
+
+🎯 **목표**
+
+- 양동이가 오토바이가 가까이 있어도 침착하게 반응하며, 보상을 기대하는 마음을 갖게 하는 것이에요.
+
+🔎 **주의 사항**
+
+- 양동이가 조금이라도 긴장하거나 짖으려고 하면, 즉시 거리를 다시 늘려주세요. 양동이가 실패할 상황을 만들지 않는 것이 중요해요.
+- 매일 짧게 여러 번 연습하는 것이 한 번에 길게 하는 것보다 효과적이에요.
+
+양동이가 이 단계를 잘 따라준다면, 오토바이가 더 이상 두려운 존재가 아닐 거예요. 
+어떠신가요? 이 세 번째 단계도 함께 나아가 보실 준비 되셨나요? ✨
+
+
+---
+> [20] User
+
+
+네
+
+
+---
+> [21] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Reactivity during walks (towards motorcycles, bicycles, running/screaming children)
+
+[back_process_rate]: 80%
+
+[back_user_emotion]: 3
+
+양동이와 함께 점진적으로 거리를 좁혀나가는 연습을 계속해 주셔서 감사해요. 
+
+양동이가 오토바이를 보고도 침착하게 보상을 기다리는 모습은 정말 큰 발전이랍니다. 
+
+🐾 **Step 4: 다양한 상황에서 연습하기**
+
+- **장소 변화**: 이제 익숙한 산책로를 넘어, 오토바이나 자전거가 자주 다니는 다른 장소에서도 '쳐다보고 보상받기' 게임을 시도해 보세요.
+- **소리 노출**: 처음에는 오토바이 소리만 들려주고, 양동이가 소리에 반응하지 않으면 바로 간식을 주세요. 점차 소리의 크기를 키워가며 연습할 수 있어요.
+- **다양한 트리거**: 오토바이뿐만 아니라 자전거, 소리 지르며 뛰어다니는 아이들에게도 동일한 방법으로 연습을 확장해 보세요.
+
+🎯 **목표**
+
+- 양동이가 어떤 상황에서든 오토바이와 다른 자극들을 긍정적으로 인식하고, 침착하게 반응할 수 있도록 하는 것이에요.
+
+🔎 **주의 사항**
+
+- 항상 양동이의 스트레스 신호(하품, 입술 핥기, 고개 돌리기 등)를 주의 깊게 관찰하고, 조금이라도 불편해 보이면 즉시 연습을 중단하거나 거리를 늘려주세요.
+- 이 연습은 꾸준함이 중요해요. 매일 짧게라도 반복하여 양동이가 새로운 습관을 들일 수 있도록 도와주세요.
+
+양동이가 이제는 오토바이 소리에도 의연해질 수 있을 거예요. 
+어떠신가요? 이 마지막 단계까지 함께 해 주실 수 있으실까요? ✨
+
+
+---
+> [22] User
+
+
+네
+
+
+---
+> [23] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: Reactivity during walks (towards motorcycles, bicycles, running/screaming children)
+
+[back_process_rate]: 100%
+
+[back_user_emotion]: 3
+
+양동이와 함께 여기까지 와주셔서 정말 감사해요. 이제 양동이는 오토바이를 더 이상 두려워하지 않고, 오히려 긍정적인 신호로 받아들일 수 있을 거예요. 
+
+산책 시 반응 행동에 대한 이야기는 여기까지 마무리하고, 다른 주제로 넘어가 볼까요? 
+
+혹시 방문객에 대한 과도한 흥분 및 짖음에 대해 이야기해 볼까요?
+
+
+---
+> [24] User
+
+
+다음에 다시 얘기해요
+
+
+---
+> [25] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: End of Conversation
+
+[back_process_rate]: 100%
+
+[back_user_emotion]: 3
+
+네, 보호자님. 오늘은 여기까지 이야기 나누고, 다음에 다시 양동이와 보호자님의 이야기에 귀 기울일 준비를 하고 있을게요. 
+
+언제든 다시 찾아주세요! ✨
+
+---
+#### **Token Usage**
+- 대화 비용: $0.0542159
+- 입력 토큰: 151028.0
+- 출력 토큰: 3563.0
+---
+
+
+
+
+
+# [5] Feedback Response
+None

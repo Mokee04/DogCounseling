@@ -1,0 +1,919 @@
+
+# [1] User Information
+- **User ID** : 45753
+- **Session ID** : 18
+- **Email** : cowlria@gmail.com
+- **Username** : 카울리아
+- **Nickname** : 카울리아
+- **Phone** : 01028470513
+- **Feedback T/F?** : True
+
+
+
+# [2] Pre-Questionnaire
+### Dog Care Counseling Pre-Survey Details
+#### 0. Guardian Information
+    - Age : 39
+    - Gender : 여
+
+#### 1. Dog Information
+    - Name : 토리
+    - Age : 0.7
+    - Weeks since adoption : 10 weeks old
+    - sex : 수컷 (neutered '예')
+    - breed : 말티푸
+    - Relationship with user : 주양육자(먹이 급여, 산책, 기타 생활 대부분을 책임짐)
+    - Adoption method : 펫샵에서 입양
+    - Walking schedule : 6 times/week, 1 times/day, 20 minutes each
+#### 2. Living Environment
+    - Type of residence : 주거용 공간(아파트, 원룸, 단독주택 등)
+        • Number of rooms : 2
+        • Kept tethered outdoors? : 아니오
+    - Family composition :
+        • Number of human family members : 2
+        • Number of dogs : 1
+        • Number of non-dog pets : 0
+    - Financial situation :
+        • Average monthly pet care cost : 100 ten-thousand KRW
+#### 3. Lifestyle
+    - Daily time spent with human family members: 2 hours
+    - Weekday hours alone (without people): 1 hours
+    - Is there or will there be a child under age 3? : 아니오
+#### 4. Socialization Level
+    - Time spent with the mother dog: -1 weeks ('-1' = unknown, '-2' = still living with mother)
+    - Commands/signals the dog can perform: 앉아,기다려,콜백(부르면 오기),터치(사람의 손에 코나 발을 가져다 대기)
+    - Commands/Cues the dog performs 'without treats': 앉아,터치(사람의 손에 코나 발을 가져다 대기)
+    - If the guardian refuses the dog’s request, does the dog escalate its behavior? : 매우 그렇다
+    - Does your dog play well with other dogs? : 전혀 그렇지 않다
+    - Number of people the dog interacted with during its socialization period: 5명 미만
+    - When you are busy, how does the dog get your attention? : 낑낑거리거나 조용히 짖는다,보호자의 옷, 악세서리, 신체 일부를 물어서 잡아당긴다,앞발로 가볍게 툭툭 건드린다,쳐다보거나 다가와 근처에 있는다,보호자를 상처가 나도록 문다
+#### 5. Health & Medical History
+    - Received treatment or medication in the past six months? : 중성화,귀염증,치아발치
+#### 6. Threatening/Aggressive Behavior
+    - Has the dog ever shown threatening or aggressive behavior? : 자기껄뺏을때,초반 귀청소,옷입힐때,강아지 산책시만날때
+    - Intensity when biting people or other animals: 없음,레벨2 - 개의 이빨이 상대의 피부에 닿지만, 피부에 구멍이 나지 않는다. 다만 피부에 가벼운 이빨 자국이 생기거나, 이빨이 스치면서 아주 약간의 출혈이 있을 수 있다. (상처의 길이는 2.5cm 이하로, 피부가 뚫리는 깊은 상처는 아님)
+#### 7. Boundaries & Anxiety
+    - Physical contact:
+        • Body areas or types of touch the dog refuses: 발만지기,기본케어시,얼굴만지기
+    - Alertness:
+        • Situations that make the dog especially wary or uncomfortable: 짖음. 보호자 근처에와서 짖거나 떨면서 짖음
+        • Reaction when a stranger visits home: 짖으면서 상대방에게 달려 들지만 물지는 않는다,흥분하며 다가가 반긴다
+        • Does the dog eagerly approach new environments or objects? : 그렇지 않다
+        • Behavior during veterinary exams (with vets or assistants): 낮게 으르렁거린다,입을 오므리거나 이를 드러내고 위협한다,도망 겁낸다
+    - Resource guarding:
+        • Situations in which the dog shows guarding behavior: 노즈워크 만질때,장난감,입안에먹이
+    - Separation anxiety:
+        • Reaction when you prepare to leave or leave the dog alone: 집앞지킴.놀지않고 자지않음
+        • Does the dog follow you everywhere? : 그렇다
+        • Excessive licking to the point of skin damage: 그렇다
+    - Impulsivity:
+        • Does the dog react immediately to stimulating or pleasurable stimuli? : 그렇다
+    - Excitability:
+        • Does the dog show excessive physical responses when excited (drooling, panting, urinating, etc.)? : 보통이다
+#### 8. Satisfaction with Dog Care
+    - Emotional benefit: Very High (81.3/100)
+    - Emotional burden: Very High (87.5/100)
+    - Overall satisfaction (benefit - burden): Moderate (46.9/100)
+---
+#### Counseling Needs
+    - Main concern/request:
+    > 처음이라 잘 교육하고 있는지 모르겠다
+
+    - Expectations from counseling:
+    > 나와 반려견의 행복한 여정
+
+    - Additional reference information:
+    > 입질이 있고 밥을 잘만먹음.딱딱한걸먹으면 잘토함
+
+    - Hopes for the dog’s future:
+    > 행복하게 잘살자.
+
+    - Counseling language:
+    > 한국어
+
+
+
+# [3] Counseling Guide
+## Dog Counseling Guide
+
+#### 1. Guardian & Dog Profiling
+
+> (1) Dog
+- **Basic information**: Tori, 8 months old, male (neutered), Maltipoo
+- **Adoption method**: Adopted from a pet shop at 10 weeks old.
+- **Time since adoption**: Approximately 6 months.
+- **Lifestyle**: Lives in an apartment with two guardians. Is alone for about 1 hour on weekdays.
+- **Walking routine**: 20-minute walks, once a day, 6 times a week. This duration may be insufficient for a young, energetic dog.
+- **Socialization**: The period with the mother dog is unknown, which is a significant risk factor for developing poor bite inhibition and social skills, common in pet shop origins. He has had limited interaction with people (<5) during his key socialization period and does not play well with other dogs, indicating a potential deficit in social skills.
+- **Health history**: Neutered, treated for ear inflammation, and had a tooth extraction within the last six months. These experiences, especially if painful, could contribute to his aversion to being handled (e.g., ear cleaning, touching face).
+- **Level of threatening/aggressive behavior**: Level 2 on the Ian Dunbar scale (teeth make contact but do not puncture the skin). This occurs during resource guarding, basic care (ear cleaning, dressing), and when encountering other dogs on walks.
+- **Triggers and levels of alertness/anxiety**:
+    - **Resource Guarding**: Guards food in his mouth, toys, and nosework items.
+    - **Handling Sensitivity**: Reacts negatively to having his paws and face touched, especially during basic care.
+    - **Fear/Reactivity**: Shows fear and threat displays (growling, threatening) at the vet. Reacts to visiting strangers by barking and rushing at them. He is also wary of new environments.
+    - **Separation-related behaviors**: Follows the guardian constantly, waits by the door when left alone without resting, and engages in excessive licking.
+- **Temperament and disposition**: Tori appears to be an anxious and impulsive dog. His behaviors are not signs of malice or dominance, but rather expressions of fear, over-arousal, and a lack of appropriate coping mechanisms. The early separation from his mother and litter, coupled with limited socialization, has likely left him ill-equipped to handle novel stimuli (strangers, other dogs, new places) and frustration. His attention-seeking biting and escalation when his requests are denied point to low frustration tolerance and impulse control.
+- **Special notes**: The combination of resource guarding, handling sensitivity, and reactivity to dogs/strangers suggests a pervasive underlying anxiety. The fact that he was adopted from a pet shop makes a lack of early socialization highly probable, which is a root cause for many of these issues.
+
+> (2) Guardian and Care Environment
+- **Guardian (applicant) information**: 39-year-old female, primary caregiver responsible for most aspects of Tori's life (feeding, walks, etc.).
+- **Family composition**: Two-person household.
+- **Living space**: Apartment with two rooms.
+- **Financial situation**: Spends a significant amount (up to 1 million KRW/month) on pet care, indicating a high level of commitment and willingness to invest in Tori's well-being.
+- **Guardian characteristics**: The guardian is a dedicated, first-time dog owner who is deeply invested in Tori's happiness, as evidenced by her counseling goal ("a happy journey with my dog"). However, she is also feeling overwhelmed and uncertain, reflected in her primary concern ("I don't know if I'm raising him well"). The high emotional burden score confirms she is experiencing significant stress. She is likely looking for both practical guidance and emotional validation.
+- **Special notes**: The guardian's high commitment level is a strong positive factor for successful intervention. However, her stress and uncertainty could lead to inconsistent responses, which might inadvertently worsen Tori's anxiety.
+
+> (3) Pet Care Satisfaction
+- **Emotional benefit**: Very High (81.3)
+- **Emotional burden**: Very High (87.5)
+- **Overall satisfaction**: Moderate (46.9)
+- **Interpretation**: These scores paint a picture of a guardian who loves her dog deeply but is simultaneously experiencing extreme stress and difficulty from the caregiving process. The emotional benefits of having Tori are nearly canceled out by the burden of his behavioral challenges. This is a critical state that can lead to caregiver burnout. The counseling must aim to reduce the burden by providing effective, manageable strategies, thereby increasing overall satisfaction and strengthening the human-animal bond.
+
+#### 2. Counseling Topics : Guardian’s Concerns and Root Causes
+> Make the following content the central topic of the conversation.
+
+- **Topic 1: Overexcitement and Reactivity during Walks**
+    - **Situation description**: Tori displays threatening behavior (Level 2 bites mentioned, likely lunging/barking) when encountering other dogs on walks. He is also generally wary of new environments, suggesting walks are a source of stress rather than enjoyment. This is compounded by his aversion to being handled for dressing, which may be part of the pre-walk routine.
+    - **Guardian's Needs**: The guardian wants to understand if her current methods are correct and how to manage these situations for a "happy journey." This translates to a need for: 1) Education on dog body language and the causes of reactivity, 2) Practical management skills to make walks safer and less stressful, and 3) Emotional support and validation for her struggles.
+    - **Possible causes**:
+        - **Cause 1: Lack of Socialization and Fear**: Having been separated from his mother early and with limited positive exposure to other dogs and environments during his critical socialization period (3-16 weeks), Tori likely lacks the social skills to greet other dogs appropriately. His reactivity is most likely rooted in fear and anxiety, not aggression. He is trying to create distance to protect himself from what he perceives as a threat.
+        - **Cause 2: Trigger Stacking and Over-Arousal**: The stress may begin even before the walk (e.g., fighting being dressed), and build up. By the time he sees another dog, his arousal level is already high, causing him to go over his threshold and react impulsively. The short, infrequent walks may not be enough to properly expend his puppy energy, leading to a state of chronic over-arousal.
+
+- **Topic 2: Frequent Vomiting**
+    - **Situation description**: The guardian reports that Tori vomits when he eats "hard things." This is a direct quote from the additional information provided.
+    - **Guardian's Needs**: The guardian needs to understand why this is happening and what to do about it. This is a health-related concern that requires careful and responsible guidance.
+    - **Possible causes**:
+        - **Cause 1: Medical Issues (High Priority)**: This is the most critical possibility. Vomiting can be a symptom of various medical conditions, including food allergies/intolerances, gastrointestinal inflammation, pancreatitis, or other systemic diseases. The recent history of ear inflammation could also be linked to underlying allergies. This *must* be ruled out by a veterinarian.
+        - **Cause 2: Behavioral - Eating Too Quickly**: Tori is described as "impulsive." He may be gulping his food or hard treats too quickly without proper chewing, leading to regurgitation (which guardians often call vomiting). This is especially common in anxious or resource-guarding dogs who fear their food might be taken away.
+
+#### 3. Counseling Strategy
+
+- **(0) Language**: 한국어
+
+- **(1) Counseling Strategies**
+
+    - **Topic 1: Overexcitement and Reactivity during Walks**
+        - **(1) Counseling Goals**:
+            - Reframe the guardian's perception of Tori's behavior from "aggressive" or "bad" to "fearful" and "overwhelmed."
+            - Equip the guardian with 2-3 simple, immediate management techniques (e.g., creating distance, U-turns, treat scatters) to reduce stress for both Tori and herself on walks.
+            - Build the guardian's confidence by affirming that her desire to learn and help Tori is the most important first step.
+        - **(2) Contextual Strategies**:
+            - **Information Gathering**: Begin by asking for a detailed "play-by-play" of a typical walk, from preparation to return. This will help identify specific triggers and moments of rising arousal.
+            - **CBT for the Guardian**: The guardian feels she "doesn't know if she's doing it right." Validate her efforts first. Then, challenge the automatic thought "My dog is aggressive with other dogs." Ask (Socratic Questioning): "You mentioned he doesn't play well with other dogs. Can you describe an interaction? Could it be that he's scared and doesn't know what to do, rather than wanting to fight?"
+            - **Psychodrama/Reframing**: Use a monologue to convey Tori's perspective. "I'm outside and everything is so loud and fast! When I see another dog, my heart pounds. I don't know if they're friendly or scary, so I bark loudly to say, 'Please don't come any closer! I'm really scared!'" This reframes the barking as a form of communication, not misbehavior.
+            - **Caregiving Solutions**: Provide a short-term action plan. Focus on management, not "fixing."
+                - **Behavioral Guideline**: "For the next week, our goal is not to meet other dogs, but to have a calm walk. When you see another dog from a distance, immediately turn around and walk the other way while cheerfully saying 'This way!' and rewarding Tori with a high-value treat once you've created space."
+                - **Goal**: To prevent Tori from practicing the reactive behavior and to teach him that seeing another dog predicts good things (treats) and a safe retreat with his guardian.
+                - **Precautions**: Advise against any form of punishment (leash jerks, scolding) as it will increase his fear and worsen the reactivity.
+        - **(3) Cautions**:
+            - Strongly advise against using aversive tools like prong collars, choke chains, or e-collars, explaining they will exacerbate fear and anxiety.
+            - Manage the guardian's expectations. Explain that reactivity is a complex issue and improvement is gradual. The initial goal is management and stress reduction, not perfect behavior.
+            - If the biting behavior on walks is severe or escalating, recommend consulting a certified professional trainer or veterinary behaviorist for in-person sessions.
+
+    - **Topic 2: Frequent Vomiting**
+        - **(1) Counseling Goals**:
+            - Ensure the guardian understands the critical importance of a veterinary consultation to rule out medical causes for the vomiting.
+            - Provide information on potential behavioral factors (e.g., fast eating) that can be addressed *after* a medical all-clear.
+            - Empower the guardian with specific questions to ask her veterinarian to facilitate a productive diagnosis.
+        - **(2) Contextual Strategies**:
+            - **Information Gathering**: Ask clarifying questions (listed in Section 4) about the type of "hard things," the timing of the vomit, and its appearance. This information is for the vet, not for the counselor to diagnose.
+            - **Emphasize Medical Priority**: Use direct and clear language. "Vomiting can be a sign of many different health issues, so the most important first step is to talk to your veterinarian. As a behavior counselor, I can't give medical advice, and Tori's health is the number one priority."
+            - **Caregiving Solutions (Conditional)**: "After you have spoken with your vet and they have ruled out any medical problems, we can explore ways to slow down his eating. For example..."
+                - **Behavioral Guideline**: Introduce the concept of food puzzles or slow-feeder bowls to make mealtime a longer, more engaging activity and prevent gulping.
+                - **Goal**: To use feeding as a form of mental enrichment and to modify the behavior of eating too quickly.
+                - **Precautions**: Reiterate that this is *only* to be tried after a vet has confirmed there is no underlying medical condition.
+        - **(3) Cautions**:
+            - **DO NOT DIAGNOSE.** This is the most critical point. Repeatedly state that you are not a veterinarian. Avoid speculating on specific medical causes.
+            - Frame the entire discussion around "gathering information for the vet."
+            - Do not let the conversation shift to purely behavioral solutions until the guardian has committed to making a veterinary appointment. Document this recommendation clearly.
+
+#### 4. Key Questions for Further Clarification
+
+- **Topic 1: Overexcitement and Reactivity during Walks**
+    - Can you describe Tori's behavior from the moment you signal a walk is about to happen (e.g., picking up the leash, putting on your coat) until you are out the door?
+    - When you see another dog, at what distance does Tori first notice them? What is the very first thing he does (e.g., freeze, stare, ears forward)?
+    - How do you currently respond when Tori starts barking or lunging at another dog? What do you say or do with the leash?
+    - Are there certain types of dogs (big, small, loud) or situations (narrow paths, head-on approaches) that trigger a stronger reaction?
+    - You mentioned he resists being dressed. Does this happen right before walks? Can you describe exactly what happens when you try to put on his clothes or harness?
+
+- **Topic 2: Frequent Vomiting**
+    - When you say "hard things," are you referring to his regular kibble, or specific types of hard treats or chews (like bones or dental sticks)? Please give me some examples.
+    - How quickly does he eat his meals? Would you describe him as a "gulper"?
+    - How soon after eating does the vomiting happen? Is it almost immediate, or does it happen an hour or more later?
+    - What does the vomit look like? Does it look like undigested food, or is it mostly liquid/bile? (This is important information for the veterinarian).
+    - Have you already discussed this specific vomiting issue with your veterinarian during his recent visits? If so, what did they suggest?
+
+
+
+# [4] Chat Record
+
+
+---
+> [1] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: Initial Message
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+안녕하세요, 사색을 좋아하는 비글이자 반려견 마음 통역사 까미예요.  
+토리의 속마음을 더 깊이 읽어 보고, 우리 보호자님과 함께 잔잔한 파도를 넘어 보려고 해요.  
+
+### 상담 안내  
+최근 반려생활 만족도 조사에서 보호자님께서는 토리와 함께하는 삶에서 큰 기쁨을 느끼시면서도, 동시에 많은 어려움과 불확실성을 겪고 계신다는 것을 알 수 있었어요.  
+하지만 토리를 위한 보호자님의 깊은 사랑과 헌신이 느껴져서, 저 까미는 정말 감동했답니다.  
+이제 우리는 토리라는 바다에 뛰어들어, 반려견을 천천히 이해해 나아갈 거예요.  
+
+### 대화를 시작해 볼게요.  
+
+1. 산책 시 과도한 흥분과 반응  
+2. 잦은 구토  
+
+보호자님께서 전달해 주신 고민 내용들이에요.  
+어떤 주제에 대해 먼저 이야기해 보고 싶으세요?
+
+
+---
+> [2] User
+
+
+토리가 밥을 잘 안먹어요 시간마다 주고 10분뒤에 빼줘도 그런가보다하고 하루 3번 주는데 2번이나 1번도 겨우먹어요
+
+
+---
+> [3] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Frequent Vomiting
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+토리가 밥을 잘 안 먹는군요.  
+혹시 **토리가 밥을 먹을 때 어떤 종류의 그릇을 사용하고 있나요?**  
+플라스틱, 스테인리스, 도자기 그릇 등 재질이 궁금해요.
+
+
+---
+> [4] User
+
+
+도자기 그릇 자동급식기 조합
+
+
+---
+> [5] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Frequent Vomiting
+
+[back_process_rate]: 10%
+
+[back_user_emotion]: 2
+
+도자기 그릇과 자동 급식기를 함께 사용하고 계시는군요.  
+
+혹시 **토리가 밥을 먹는 동안 다른 가족 구성원이나 주변 환경이 토리에게 어떤 영향을 주는지** 알려주실 수 있을까요?  
+예를 들어, 식사 중에 누가 옆에 다가가거나 소음이 발생하는지 등이에요.
+
+
+---
+> [6] User
+
+
+그렇지는 않아요.
+
+
+---
+> [7] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Frequent Vomiting
+
+[back_process_rate]: 20%
+
+[back_user_emotion]: 2
+
+그렇군요. 토리가 식사 중에 방해받지 않는다는 말씀이시죠.  
+
+그럼 **토리가 밥을 잘 먹지 않는 것이 언제부터 시작되었는지, 그리고 혹시 그 시점에 토리의 생활에 변화가 있었는지** 궁금해요.  
+예를 들어, 이사나 가족 구성원의 변화 같은 것들이요.
+
+
+---
+> [8] User
+
+
+그렇것도 없어요 거의 초반부터 그렇게 밥을 반기는 스타일은 한번도 못봤어요
+
+
+---
+> [9] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Frequent Vomiting
+
+[back_process_rate]: 30%
+
+[back_user_emotion]: 2
+
+토리가 처음부터 밥을 잘 반기지 않았다는 말씀이시군요.  
+
+그럼 혹시 **토리가 좋아하는 간식이나 특별한 음식은 어떤 것들이 있는지** 알려주실 수 있을까요?  
+밥은 잘 안 먹어도 간식은 잘 먹는 경우가 있거든요.
+
+
+---
+> [10] User
+
+
+간식은 대부분 좋아하는데 딱딱한 재료를 주면 다음날 토를해요
+
+
+---
+> [11] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Frequent Vomiting
+
+[back_process_rate]: 40%
+
+[back_user_emotion]: 2
+
+간식은 대부분 좋아하지만, 딱딱한 재료를 주면 다음 날 토를 하는군요.  
+
+**토리가 토하는 것이 주로 언제, 그리고 어떤 모습으로 나타나는지** 좀 더 자세히 알려주실 수 있을까요?  
+예를 들어, 아침에 일어나서 토하는지, 아니면 식사 후에 바로 토하는지, 그리고 토사물은 어떤 색깔이나 형태인지 궁금해요.
+
+
+---
+> [12] User
+
+
+아침에 일어나서 토를하고 11시쯤?색은 노란색 간식은 흰색 덩어리로 나와요. 저녁도 원래 10시에줬는데 먹고 11시에 자면 새벽 1시에 사료를 토해요 그래서 저녁 8시에 마지막으로 주고 안주는데 아침 8시에주는 사료도 잘 안먹어요
+
+
+---
+> [13] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Frequent Vomiting
+
+[back_process_rate]: 50%
+
+[back_user_emotion]: 2
+
+아침에 일어나서 노란색 토를 하고, 딱딱한 간식을 먹으면 흰색 덩어리를 토하며, 저녁 식사 시간 조정 후에도 아침 사료를 잘 먹지 않는군요.  
+
+토리가 토하는 증상은 담즙 구토 증후군(BVS)과 매우 흡사해요.  
+밤새 위가 비어 있는 동안 몸은 다음 식사를 위해 미리 담즙을 분비하는데, 실제 음식이 들어오지 않으니 빈 위가 소화액에 자극을 받아 불편함을 느끼는 거죠.  
+마치 우리가 배가 고플 때 속이 쓰리고 울렁거리는 것처럼요.  
+
+결국 토리는 “보호자님, 속이 너무 불편해요!”라는 신호를 토사물로 표현했을 거예요.  
+
+**혹시 토리가 토하기 전에 안절부절못하거나 입맛을 다시는 등의 다른 행동을 보인 적이 있나요?**
+
+
+---
+> [14] User
+
+
+안절부절하고 토하고나서 모습을 안보여줄려고 도망다녀요.토할때 못보면 토한것도 먹어요
+
+
+---
+> [15] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Frequent Vomiting
+
+[back_process_rate]: 60%
+
+[back_user_emotion]: 2
+
+토리가 토하기 전에 안절부절못하고, 토한 후에는 모습을 감추려 하며, 심지어 토사물을 다시 먹는다는 말씀에 마음이 아프네요.  
+
+이런 행동들은 토리가 몸이 불편하다는 것을 알리는 동시에, 혹시라도 혼날까 봐 두려워하는 마음의 표현일 수 있어요.  
+
+토리가 토사물을 다시 먹는 것은 본능적인 행동일 수 있지만, 건강에는 좋지 않아요.  
+
+**혹시 토리가 최근에 동물병원에 방문했을 때, 이 구토 문제에 대해 수의사 선생님과 자세히 이야기 나눠보셨을까요?**
+
+
+---
+> [16] User
+
+
+했지만 딱히 심각하게 보지는않으셨어요
+
+
+---
+> [17] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind", '[phase3] Caregiving Solutions']
+
+[back_current_topic]: Frequent Vomiting
+
+[back_process_rate]: 70%
+
+[back_user_emotion]: 2
+
+수의사 선생님께서 심각하게 보지 않으셨다는 말씀에 보호자님의 마음이 조금은 놓였겠어요.  
+하지만 토리의 구토는 보호자님께 큰 걱정거리일 거예요.  
+
+토리의 건강을 위해서는 구토 증상을 절대 가볍게 넘겨서는 안 돼요.  
+
+**정확한 진단을 위해서는 반드시 동물병원에 방문하여 수의사 선생님과 다시 한번 자세히 상담해 보시는 것이 가장 중요해요.**  
+수의사 선생님께 토리의 구토 증상(시간, 횟수, 토사물 형태, 동반 증상 등)을 상세히 설명하고, 필요한 검사를 받아보는 것이 좋답니다.  
+
+이런 건강 문제는 제가 직접 진단하거나 해결책을 드릴 수 없어요.  
+토리의 건강이 최우선이니, 꼭 병원에 방문해 주세요.
+
+
+---
+> [18] User
+
+
+강아지에게 선풍기는 효과가 있을까?
+
+
+---
+> [19] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: New Topic: Fan for Dog
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+선풍기가 강아지에게 효과가 있을지 궁금하시군요.  
+
+**혹시 토리가 더위를 타는 것 같다고 느끼시는 특별한 행동이나 상황이 있을까요?**  
+예를 들어, 헥헥거림이 심해지거나, 시원한 바닥에 엎드려 있는 모습 같은 것이요.
+
+
+---
+> [20] User
+
+
+그런건 없어 여름이라서 에어컨 제습모드로 26도로 맞춰두고있는데 나는 괜찮은데 강아지는 몸이 뜨거우니까
+
+
+---
+> [21] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: New Topic: Fan for Dog
+
+[back_process_rate]: 10%
+
+[back_user_emotion]: 2
+
+여름이라 에어컨 제습 모드를 26도로 맞춰두고 계시는군요. 보호자님은 괜찮지만, 토리는 몸이 뜨거울까 봐 염려하시는 마음이 느껴져요.  
+
+**혹시 토리가 평소에 어떤 장소에서 주로 휴식을 취하거나 잠을 자는지 알려주실 수 있을까요?**  
+예를 들어, 시원한 바닥이나 자기만의 공간 같은 곳이요.
+
+
+---
+> [22] User
+
+
+토리랑 같이 자는데 요즘 자꾸 침대에 소변을 보네
+
+
+---
+> [23] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: New Topic: Urinating on Bed
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 1
+
+토리가 침대에 소변을 보는군요.  
+
+**혹시 토리가 침대에 소변을 보기 전에 어떤 특별한 행동을 보이는지 관찰하신 적이 있을까요?**  
+예를 들어, 낑낑거리거나, 냄새를 맡거나, 빙글빙글 도는 행동 같은 것이요.
+
+
+---
+> [24] User
+
+
+냄새를 맡고 빙글빙글 돌아
+
+
+---
+> [25] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: New Topic: Urinating on Bed
+
+[back_process_rate]: 10%
+
+[back_user_emotion]: 1
+
+냄새를 맡고 빙글빙글 돌다가 소변을 보는군요.  
+
+**토리가 침대에 소변을 보는 것이 최근에 시작된 행동인가요, 아니면 이전에도 가끔 있었던 일인가요?**  
+혹시 이 행동이 시작된 시점에 토리의 건강이나 생활에 변화가 있었는지 궁금해요.
+
+
+---
+> [26] User
+
+
+이전에도 그랬는데 한동안 안그러다가 최근에 다시 시작
+
+
+---
+> [27] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: New Topic: Urinating on Bed
+
+[back_process_rate]: 20%
+
+[back_user_emotion]: 1
+
+이전에도 그랬지만 한동안 괜찮다가 최근에 다시 침대에 소변을 보기 시작했다는 말씀이시군요.  
+
+**토리가 침대에 소변을 보는 횟수는 얼마나 되나요?**  
+그리고 **주로 어떤 시간대에 이런 행동을 하는지**도 알려주시면 좋겠어요.
+
+
+---
+> [28] User
+
+
+시간대는 없어 하루에 1번에서 2번 정도 점점 늘어가고 있는것도 같음. 이럴때 행동을 어떻게 고쳐줘야 될까
+
+
+---
+> [29] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: New Topic: Urinating on Bed
+
+[back_process_rate]: 30%
+
+[back_user_emotion]: 1
+
+하루에 1~2번 정도 침대에 소변을 보고, 그 횟수가 점점 늘어나는 것 같아 걱정이 크시겠어요.  
+
+토리가 침대에 소변을 보는 행동은 여러 가지 이유가 있을 수 있어요.  
+
+**혹시 토리가 소변을 볼 때, 평소에 사용하는 배변 패드나 화장실이 아닌 다른 곳에서도 소변 실수를 하는 경우가 있나요?**
+
+
+---
+> [30] User
+
+
+응 토리가 최근에 배변판이 아닌 배변판 앞 바닥에 소변을 보기 시작했어 배변판에 다리만 올리고 싸는 버릇이 있어
+
+
+---
+> [31] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: New Topic: Urinating on Bed
+
+[back_process_rate]: 40%
+
+[back_user_emotion]: 1
+
+배변판 앞 바닥에 소변을 보기 시작했고, 배변판에 다리만 올리고 싸는 버릇이 있다는 말씀이시군요.  
+
+토리가 배변판이 아닌 다른 곳에 소변을 보는 것은, 어쩌면 토리가 보내는 ‘불편하다’는 신호일 수 있어요.  
+
+혹시 **토리가 배변판 위에서 소변을 볼 때, 불편해하거나 불안해하는 모습이 있었을까요?**  
+예를 들어, 자세가 어정쩡하거나, 소변을 보면서 주변을 두리번거리는 모습 같은 것이요.
+
+
+---
+> [32] User
+
+
+소변을 볼때도 뭔가 주변을 두리번 거리기도해
+
+
+---
+> [33] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: New Topic: Urinating on Bed
+
+[back_process_rate]: 50%
+
+[back_user_emotion]: 1
+
+소변을 볼 때 주변을 두리번거리는군요.  
+
+이것은 토리가 배변하는 공간에서 편안함을 느끼지 못하고, 주변 환경에 대한 불안감을 표현하는 행동일 수 있어요.  
+마치 "여기서 소변을 봐도 괜찮을까?" 하고 주위를 살피는 것처럼요.  
+
+**혹시 토리가 배변판이나 침대 외에 다른 장소에서도 소변 실수를 하는 경우가 있을까요?**
+
+
+---
+> [34] User
+
+
+있어 침대 올라올때 있는 계단에 가끔 오줌을 싸
+
+
+---
+> [35] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: New Topic: Urinating on Bed
+
+[back_process_rate]: 60%
+
+[back_user_emotion]: 1
+
+침대 계단에도 가끔 소변을 보는군요.  
+
+토리가 침대나 계단처럼 특정 장소에 소변 실수를 하는 것은, 그곳이 어쩌면 **토리가 편안함을 느끼는 '자신의 영역'이라고 생각하기 때문일 수 있어요.**  
+
+혹시 **토리가 소변 실수를 했을 때, 보호자님께서는 어떻게 반응하시나요?**  
+예를 들어, 바로 치우거나, 토리에게 어떤 표현을 하는지 궁금해요.
+
+
+---
+> [36] User
+
+
+침대 이불과 시트는 바로 치워주는 편이고 토리한테 어떤 표현은 하지 않다가 그러니까 모르는것 같아서 요즘은 좀 뭐라고 하면서 치우는 편이야
+
+
+---
+> [37] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: New Topic: Urinating on Bed
+
+[back_process_rate]: 70%
+
+[back_user_emotion]: 1
+
+침대 이불과 시트를 바로 치워주시고, 토리에게 어떤 표현을 하지 않다가 요즘은 뭐라고 하면서 치운다는 말씀이시군요.  
+
+토리는 보호자님의 꾸중을 '소변을 본 행위 자체'에 대한 것이 아니라, '보호자님이 화를 내는 것'으로 받아들일 수 있어요.  
+이런 상황이 반복되면 토리는 보호자님이 무섭다고 느끼거나, 소변 실수를 숨기려고 할 수 있답니다.  
+
+토리는 "여기에 소변을 보면 안 되는구나!"라고 이해하기보다는, "보호자님이 무서워! 숨어야겠다!"라고 생각하게 될 거예요.  
+
+**혹시 토리가 소변 실수를 했을 때, 보호자님께서 토리에게 어떤 표정이나 몸짓을 보이셨나요?**
+
+
+---
+> [38] User
+
+
+글쎄 딱히 그런건 없는것 같애.
+
+
+---
+> [39] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind", '[phase3] Caregiving Solutions']
+
+[back_current_topic]: New Topic: Urinating on Bed
+
+[back_process_rate]: 80%
+
+[back_user_emotion]: 1
+
+특별히 표정이나 몸짓을 보이신 건 없으시군요.  
+
+토리가 침대나 계단에 소변을 보는 행동은 단순히 '실수'가 아니라, 토리가 느끼는 불안감이나 스트레스의 표현일 수 있어요.  
+
+이런 행동을 고치기 위해서는 토리에게 "여기서 소변을 보면 안 돼!"라고 가르치기보다, "여기서 소변을 보면 안전하고 칭찬받을 수 있어!"라는 긍정적인 경험을 만들어 주는 것이 중요하답니다.  
+
+그럼 이제 토리의 배변 습관을 개선하기 위한 방법을 함께 알아볼까요?  
+
+### 🐾 Step 1: 배변 공간의 변화  
+
+> 토리가 편안함을 느끼는 배변 공간을 만들어 주는 것이 첫걸음이에요.  
+
+1. **배변판 재질 확인**: 토리가 배변판에 다리만 올리고 소변을 본다고 하셨죠? 혹시 배변판의 재질이 토리의 발에 불편함을 주지는 않는지 확인해 보세요. 부드러운 잔디형 배변판이나 흡수력이 좋은 패드를 사용해 보는 것도 좋아요.  
+
+2. **배변판 개수 늘리기**: 토리가 소변 실수를 하는 침대 주변이나 계단 근처에 임시로 배변판을 추가로 놓아주세요. 토리가 소변을 봐야 할 때, 가장 가까운 곳에서 편안하게 볼 수 있도록 돕는 거예요.  
+
+3. **청결 유지**: 배변판과 주변 공간을 항상 깨끗하게 유지해 주세요. 강아지는 깨끗한 곳에서 배변하는 것을 선호한답니다.  
+
+🎯 **목표**  
+
+- 토리가 배변 공간에서 편안함과 안정감을 느끼고, 그곳이 안전한 배변 장소임을 인식하게 하는 것  
+
+🔎 **주의 사항**  
+
+- 토리가 소변 실수를 하더라도 절대 혼내지 마세요. 혼내는 것은 토리의 불안감을 키우고, 보호자님과의 신뢰 관계를 해칠 수 있어요.  
+- 소변 실수를 발견하면 조용히 치우고, 냄새를 완전히 제거해 주세요.  
+
+어떠신가요? 이 첫 번째 단계를 시도해 보실 준비가 되셨을까요?
+
+
+---
+> [40] User
+
+
+1번은 대변을 그쪽에 꼭 싸는걸로 보아 판 재질이 문제가 되는것 같지 않고 2번은 토리 체형에 비해 대형 배변판을 사용하고 있어서 문제되지 않을것 같고 3번도 잘지키는 편이야. 3번은 오히려 깨끗하게 해놓으면 다른곳에 쌀때가있어
+
+
+---
+> [41] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: New Topic: Urinating on Bed
+
+[back_process_rate]: 85%
+
+[back_user_emotion]: 1
+
+배변판 재질이나 크기, 청결 문제는 아닌 것 같다는 말씀이시군요. 오히려 깨끗하게 해두면 다른 곳에 소변을 볼 때도 있다는 점이 흥미롭네요.  
+
+토리가 배변판에 다리만 올리고 소변을 보는 행동이나, 깨끗한 곳에 소변 실수를 하는 것은 **배변판 자체에 대한 거부감보다는, 배변판이 놓인 '장소'나 '상황'에 대한 불안감 때문일 수 있어요.**  
+
+혹시 **토리가 배변판이 놓인 장소 주변에서 평소에 스트레스를 받거나 불편해하는 요소가 있을까요?**  
+예를 들어, 소음이 심하거나, 자주 사람들이 지나다니는 곳이라든지요.
+
+---
+#### **Token Usage**
+- 대화 비용: $0.0870561
+- 입력 토큰: 253812.0
+- 출력 토큰: 4365.0
+---
+
+
+
+
+
+# [5] Feedback Response
+
+---
+### **Feedback**
+
+
+
+...................
+
+
+- **Q1) 사전 질문지의 내용이 어땠나요?**
+- A) 문항수가 너무 많았다.
+
+...................
+
+
+- **Q2) 불필요한 질문, 판단하기 어려운 질문, 민감한 질문이 있었다면 저희에게 알려주세요.**
+- A) 사전 설문지를 했는데도 뭐 하나 물어보면 스무고개 하는 느낌
+
+...................
+
+
+- **Q3) '사전 설문지'에 대해 전달하고 싶은 의견이 있다면 자유롭게 말씀해 주세요. (불편했던 점, 개선하면 좋을 점 등등 환영합니다)**
+- A) 딱히 사전설문지를 하는 이유를 모르겠음.
+
+...................
+
+
+- **Q4) 까미가 건네는 질문은 어땠나요?**
+- A) 질문을 너무 많이 했다.
+- A) 열린 질문을 많이 해서 답변하기 불편했다.
+
+...................
+
+
+- **Q5) 까미의 답변은 어땠나요?**
+- A) 이해도 못하고 답변을 받을려면 반나절 걸리겠음.
+
+...................
+
+
+- **Q6) 까미의 말투, 어조 스타일은 어떠했나요?**
+- A) 대화하는 데 불편함이 없었다.
+
+...................
+
+
+- **Q7) 까미가 주도하는 대화의 흐름은 어떠했나요?**
+- A) 일방적이라고 느꼈다.
+
+...................
+
+
+- **Q8) 까미가 제공하는 '양육 조언'은 어떠했나요?**
+- A) 뻔한 내용이었다.
+
+...................
+
+
+- **Q9) 까미가 불쾌하거나 부적절한 말을 했다면 저희에게 알려주세요.**
+- A) 백개 물어보고 그건 수의사랑 상의하라고 할때. 뭔가 답변을 해주면서 그러는게 아니고 수의사랑 상담하라고 말이 나올때까지 유도하는 느낌.
+
+...................
+
+
+- **Q10) 까미와의 대화에 대해 전달하고 싶은 의견이 있다면 자유롭게 말씀해 주세요.
+(불편했던 점, 개선하면 좋을 점 등등 환영합니다)**
+- A) 내 질문보다 까미가 나한테 하는 질문이 더 많다.
+
+...................
+
+
+- **Q11) 까미에게 어떤 도움을 받고 싶으셨나요?**
+- A) 문제 행동(짖음, 배변실수, 분리불안 등)의 해결 방법이 필요했어요.
+- A) 반려동물의 심리 상태를 알고 싶었어요.
+- A) 식사, 간식, 영양에 대한 정보가 필요했어요.
+- A) 반려견을 교육하는 방법을 얻고 싶었어요.
+- A) 반려견의 행동을 해석하고 싶었어요
+
+...................
+
+
+- **Q12) 까미가 원하는 도움을 잘 제공했다고 생각하시나요?**
+- A) 2
+
+...................
+
+
+- **Q13) 도움이 된 정도를 그렇게 평가한 이유를 알려주세요.**
+- A) 뻔한 답변을 듣기 위해서 너무 많이 질문하고 질문하면서 뻔한답변으로 유도하는것 같음
+
+...................
+
+
+- **Q14) 이용하신 '까미 서비스'에 대한 전반적인 만족도를 평가해 주세요.**
+- A) 0
+
+...................
+
+
+- **Q15) 전반적인 만족도 점수를 그렇게 평정한 이유를 알려주세요.**
+- A) 시간 아까움
+
+...................
+
+
+- **Q16) 저희 까미를 친구, 지인 등 주변에 얼마나 추천하고 싶으신가요?**
+- A) 0
+
+...................
+
+
+- **Q17) 까미 서비스를 매월 11,900원에 이용할 수 있다면, 구독하실 의향이 있으실까요?**
+- A) 이런식이면 절대 안할것 같음
+
+...................
+
+
+- **Q18) 기타 불편했던 점, 개선 제안 사항, 하고 싶은 말 등이 있다면 자유롭게 적어주세요.**
+- A) 별로 답변을 잘안해주던데요.

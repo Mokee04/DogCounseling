@@ -1,0 +1,473 @@
+
+# [1] User Information
+- **User ID** : 44393
+- **Session ID** : 24
+- **Email** : 44393
+- **Username** : 44393
+- **Nickname** : 44393
+- **Phone** : 44393
+- **Feedback T/F?** : False
+
+
+
+# [2] Pre-Questionnaire
+### Dog Care Counseling Pre-Survey Details
+#### 0. Guardian Information
+    - Age : 37
+    - Gender : 남
+
+#### 1. Dog Information
+    - Name : 땡자
+    - Age : 5.5
+    - Weeks since adoption : 39 weeks old
+    - sex : 암컷 (neutered '예')
+    - breed : 푸들
+    - Relationship with user : 보조양육자(가족 중 주양육자가 따로 있으며, 먹이 급여, 놀이 등 생활 일부만 수행)
+    - Adoption method : 펫샵에서 입양
+    - Walking schedule : 10 times/week, 2 times/day, 20 minutes each
+#### 2. Living Environment
+    - Type of residence : 주거용 공간(아파트, 원룸, 단독주택 등)
+        • Number of rooms : 4
+        • Kept tethered outdoors? : 아니오
+    - Family composition :
+        • Number of human family members : 2
+        • Number of dogs : 1
+        • Number of non-dog pets : 0
+    - Financial situation :
+        • Average monthly pet care cost : 30 ten-thousand KRW
+#### 3. Lifestyle
+    - Daily time spent with human family members: 6 hours
+    - Weekday hours alone (without people): 6 hours
+    - Is there or will there be a child under age 3? : 아니오
+#### 4. Socialization Level
+    - Time spent with the mother dog: -1 weeks ('-1' = unknown, '-2' = still living with mother)
+    - Commands/signals the dog can perform: 엎드려,앉아
+    - Commands/Cues the dog performs 'without treats': 앉아,엎드려
+    - If the guardian refuses the dog’s request, does the dog escalate its behavior? : 그렇다
+    - Does your dog play well with other dogs? : 그렇지 않다
+    - Number of people the dog interacted with during its socialization period: 5명 미만
+    - When you are busy, how does the dog get your attention? : 쳐다보거나 다가와 근처에 있는다,앞발로 가볍게 툭툭 건드린다
+#### 5. Health & Medical History
+    - Received treatment or medication in the past six months? : 피부질환 아포퀠복용
+#### 6. Threatening/Aggressive Behavior
+    - Has the dog ever shown threatening or aggressive behavior? : 없다
+    - Intensity when biting people or other animals: 없음
+#### 7. Boundaries & Anxiety
+    - Physical contact:
+        • Body areas or types of touch the dog refuses: 눈마주치기
+    - Alertness:
+        • Situations that make the dog especially wary or uncomfortable: 없다
+        • Reaction when a stranger visits home: 경계하기보다는 천천히 다가가 냄새를 맡는다
+        • Does the dog eagerly approach new environments or objects? : 그렇지 않다
+        • Behavior during veterinary exams (with vets or assistants): 해당 상황이 없었다
+    - Resource guarding:
+        • Situations in which the dog shows guarding behavior: 없다
+    - Separation anxiety:
+        • Reaction when you prepare to leave or leave the dog alone: 없다
+        • Does the dog follow you everywhere? : 보통이다
+        • Excessive licking to the point of skin damage: 그렇지 않다
+    - Impulsivity:
+        • Does the dog react immediately to stimulating or pleasurable stimuli? : 보통이다
+    - Excitability:
+        • Does the dog show excessive physical responses when excited (drooling, panting, urinating, etc.)? : 전혀 그렇지 않다
+#### 8. Satisfaction with Dog Care
+    - Emotional benefit: Very High (100/100)
+    - Emotional burden: Moderate (43.8/100)
+    - Overall satisfaction (benefit - burden): High (78.1/100)
+---
+#### Counseling Needs
+    - Main concern/request:
+    > 행복한강아지 되는법
+
+    - Expectations from counseling:
+    > 강아지심리상태 알기
+
+    - Additional reference information:
+    > 특이사항 없습니다
+
+    - Hopes for the dog’s future:
+    > 건강하게오래오래 같이 있기
+
+    - Counseling language:
+    > 한국어
+
+
+
+# [3] Counseling Guide
+## Dog Counseling Guide
+
+#### 1. Guardian & Dog Profiling
+
+> (1) Dog
+- **Basic information**: 땡자 (Ttaengja), 5.5 years old, female (neutered), Poodle
+- **Adoption method**: Adopted from a pet shop.
+- **Time since adoption**: Adopted at 39 weeks old (approximately 9 months).
+- **Lifestyle**: Spends about 6 hours alone on weekdays. Lives indoors in an apartment.
+- **Walking routine**: Twice a day, 20 minutes each time, totaling about 10 walks per week.
+- **Socialization**: Time with mother dog is unknown. Adopted late (at 9 months), which is past the critical socialization period (3-16 weeks). Had limited interaction with people during this period. Reportedly does not play well with other dogs.
+- **Health history**: Currently taking Apoquel for a skin condition, which often suggests allergies or atopic dermatitis.
+- **Level of threatening/aggressive behavior**: None reported.
+- **Triggers and levels of alertness/anxiety**: Avoids eye contact. Not eager to approach new environments or objects, suggesting a cautious nature rather than high anxiety. Seems calm with visitors and shows no signs of separation anxiety or resource guarding.
+- **Temperament and disposition**:
+    - **Rationale**: Based on the questionnaire, Ttaengja appears to be a calm and gentle dog on the surface. However, her history (pet shop origin, late adoption) combined with specific behaviors (avoiding eye contact, reluctance with new things, not playing well with other dogs) points towards an underlying temperament of **cautiousness and social insecurity**. She is not overtly anxious or fearful but lacks confidence in novel situations and social encounters. Her method of getting attention (staring, gentle pawing) is polite and non-demanding, indicating a mild and non-confrontational nature. The fact that she escalates behavior when a request is refused suggests she has learned ways to communicate her needs, albeit perhaps not in the most effective manner.
+- **Special notes**: The late adoption from a pet shop is a critical factor. This often means missing out on crucial early learning from the mother and littermates, leading to deficits in social skills and confidence. Her skin condition could also be linked to stress, making it important to manage her emotional well-being.
+
+> (2) Guardian and Care Environment
+- **Guardian (applicant) information**: 37-year-old male, secondary caregiver.
+- **Family composition**: Two adults, one dog (Ttaengja). No children.
+- **Living space**: Apartment with 4 rooms, providing ample space.
+- **Financial situation**: Spends approximately 300,000 KRW/month on pet care, indicating a stable and committed care environment.
+- **Guardian characteristics**:
+    - **Rationale**: The guardian presents as highly empathetic and deeply bonded with Ttaengja. His primary concern is not a "problem behavior" but a philosophical one: "how to make my dog happy." This shows a profound level of care and a desire to understand Ttaengja on a deeper level. As a **secondary caregiver**, his role and influence are significant but potentially limited or complicated by the primary caregiver's actions and routines. His high satisfaction scores suggest he derives immense joy from the relationship but also feels a burden, likely stemming from his desire to do more for Ttaengja's happiness.
+- **Special notes**: The dynamic between the primary and secondary caregiver is a crucial, yet unknown, variable. Consistency in rules, training, and affection between the two guardians is essential for Ttaengja's sense of security.
+
+> (3) Pet Care Satisfaction
+- **Emotional benefit**: Very High (100.0)
+- **Emotional burden**: Moderate (43.8)
+- **Overall satisfaction**: High (78.1)
+- **Interpretation**: These scores paint a picture of a very loving relationship. The guardian experiences the maximum possible emotional benefit from living with Ttaengja, indicating a deep bond. The moderate emotional burden likely arises from his concern about her well-being and his feeling of uncertainty about whether he is meeting all her needs for a happy life. The counseling goal is to reduce this burden by empowering him with knowledge and confidence, thereby making the relationship even more fulfilling.
+
+#### 2. Counseling Topics : Guardian’s Concerns and Root Causes
+> Make the following content the central topic of the conversation.
+
+- **Topic 1: Understanding Ttaengja's Psychological State to Enhance Her Happiness**
+    - **Situation description**: The guardian's main goal is to understand Ttaengja's inner world and learn "how to make a dog happy." He is not focused on a specific problem but on her overall quality of life and emotional state. He perceives her as calm but wants to ensure she is truly fulfilled.
+    - **Guardian's Needs**: This is primarily a need for **caregiving knowledge** and a **philosophical discussion** about canine well-being. He seeks to move beyond basic care and become a guardian who truly understands and enriches his dog's life.
+    - **Possible causes**: The guardian's uncertainty likely stems from Ttaengja's subtle signs of insecurity, which may not align with a simple picture of a "happy dog."
+        - **Cause 1: Social Insecurity Due to Early Life History**: Ttaengja's background (pet shop, late adoption) is a strong predictor of social deficits. Her avoidance of eye contact and other dogs is not a choice but likely a result of not knowing how to engage confidently. The guardian may be sensing this underlying lack of confidence.
+        - **Cause 2: Potential Under-Enrichment**: A routine of two 20-minute walks may not be sufficient mental and physical stimulation for an intelligent breed like a Poodle. This can lead to a state of quiet boredom or resignation, which can be mistaken for calmness. True happiness often comes from engagement, problem-solving, and exploration.
+
+- **Topic 2: Addressing Social Avoidance and Building Confidence**
+    - **Situation description**: Ttaengja does not play well with other dogs and is hesitant in new situations. While not an aggressive issue, this limits her experiences and may be a source of low-level stress.
+    - **Guardian's Needs**: The guardian needs practical strategies to **improve a "problem behavior"** (social avoidance) and build Ttaengja's confidence in a safe, positive way.
+    - **Possible causes**:
+        - **Cause 1: Lack of Social Skills**: Due to missing the critical socialization window, Ttaengja likely never learned the complex canine social etiquette for greetings and play. Her avoidance is a coping mechanism to prevent uncomfortable or scary situations.
+        - **Cause 2: Inconsistent Handling or Past Negative Experiences**: There may have been past negative encounters with other dogs, or perhaps the guardians' own anxiety in social situations is being perceived by Ttaengja, reinforcing her hesitation.
+
+#### 3. Counseling Strategy
+
+- (0) Language: 한국어
+
+- (1) Counseling Strategies
+
+    - **Topic 1: Understanding Ttaengja's Psychological State to Enhance Her Happiness**
+        - **(1) Counseling Goals**:
+            - Help the guardian reframe Ttaengja's quiet behavior from just "calm" to "cautious but capable," fostering empathy for her background.
+            - Equip the guardian with the skills to observe and interpret Ttaengja's subtle body language (e.g., lip licks, yawns, body tension) as communication.
+            - Collaboratively define what a "happy life" looks like for Ttaengja specifically, focusing on confidence-building and enrichment rather than forcing her into a mold.
+        - **(2) Contextual Strategies**:
+            - **Empathy Building (Psychodrama)**: Use role-reversal. Ask, "Imagine you are Ttaengja. You spent your first nine months in a shop, then came to a new home. When you see a big, unfamiliar dog approaching, what goes through your mind?" This helps the guardian connect emotionally to her perspective.
+            - **Reframing (CBT)**: Challenge the idea that happiness looks the same for all dogs. Reframe her behavior: "Her avoidance of other dogs isn't a sign of unhappiness, but a very smart strategy she developed to keep herself feeling safe. Our goal is to show her she can feel safe without having to avoid everything."
+            - **Guided Imagery**: Ask the guardian to describe a perfect, happy day for Ttaengja. "If Ttaengja could plan her own perfect day, what would she choose to do? Where would she go? Who would she be with?" This reveals the guardian's values and helps build a positive, goal-oriented vision.
+        - **(3) Cautions**:
+            - Avoid anthropomorphism. Do not project complex human emotions like "sadness" or "loneliness" onto Ttaengja. Instead, focus on observable behaviors related to stress, confidence, and engagement.
+            - Validate the guardian's deep love for his dog. His concern comes from a good place. The counseling should feel like a partnership to enhance an already great bond.
+            - Emphasize that the primary caregiver's involvement is crucial. Any new understanding or approach must be shared and practiced consistently by both caregivers.
+
+    - **Topic 2: Addressing Social Avoidance and Building Confidence**
+        - **(1) Counseling Goals**:
+            - Provide a short-term action plan (1-2 weeks) for introducing low-stress enrichment activities (e.g., nose work, puzzle toys).
+            - Teach the guardian a safe, structured method for building Ttaengja's neutrality and confidence around other dogs and in new places (e.g., parallel walking).
+            - Increase the guardian's confidence in his ability to manage situations and advocate for Ttaengja's needs.
+        - **(2) Contextual Strategies**:
+            - **Provide an Action Plan**: Suggest concrete, easy-to-implement solutions. For example: "For the next two weeks, let's change one of the 20-minute walks into a 'sniffari.' Let Ttaengja lead the way and sniff as much as she wants. The goal isn't distance, but exploration." Also, introduce one new puzzle toy.
+            - **Scenario Reenactment**: Use a fictional case study. "I once counseled a dog friend of Ttaengja's, a Bichon named Bori, who was also very shy. His guardian learned to walk him on the other side of the street from other dogs. Bori learned that he could see dogs without having to interact, and he became much calmer on walks. Could we try something similar for Ttaengja?"
+            - **Focus on Management**: Explain that management is not failure. Using distance and avoiding forced interactions is a key part of responsible guardianship for a socially sensitive dog.
+        - **(3) Cautions**:
+            - **Strongly advise against dog parks, crowded pet cafes, or any off-leash, uncontrolled social situations.** This could be traumatic and set back progress significantly.
+            - Remind the guardian that progress will be slow and non-linear. Celebrate small successes, like Ttaengja looking at another dog from a distance without tensing up.
+            - Connect behavior to health. Mention that reducing chronic stress through confidence-building may have a positive impact on her skin condition. Recommend discussing any major behavioral changes or stressors with their veterinarian.
+
+#### 4. Key Questions for Further Clarification
+
+- **Topic 1: Understanding Ttaengja's Psychological State to Enhance Her Happiness**
+    - You mentioned you are the secondary caregiver. Could you please describe the primary caregiver's daily routine and interaction style with Ttaengja? How are rules, training, and affection handled between the two of you?
+    - When you say Ttaengja "escalates her behavior" if a request is refused, can you give me a specific example? What does she ask for, and what does the escalation look like?
+    - Can you describe Ttaengja's body language in detail when she avoids eye contact? What are her ears, tail, and mouth doing in that moment?
+    - What are Ttaengja's favorite things in the world? What makes her tail wag the most?
+
+- **Topic 2: Addressing Social Avoidance and Building Confidence**
+    - Could you describe a typical 20-minute walk? Is it a structured heel, a quick potty break, or does she have freedom to explore and sniff?
+    - When you say she "doesn't play well with other dogs," can you describe a specific recent encounter? What did the other dog do, and how did Ttaengja react (e.g., freeze, try to leave, growl, ignore)?
+    - What kinds of toys does she have, and how does she typically play with them? Does she ever bring them to you to initiate play?
+    - Regarding her skin condition, have you noticed if flare-ups seem to coincide with stressful events, changes in routine, or specific seasons?
+
+
+
+# [4] Chat Record
+
+
+---
+> [1] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: Initial Message
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+안녕하세요, 사색을 좋아하는 비글이자 반려견 마음 통역사 까미예요. 🐶  
+땡자의 속마음을 더 깊이 읽어 보고, 우리 보호자님과 함께 잔잔한 파도를 넘어 보려고 해요.  
+### 상담 안내  
+보호자님께서는 땡자와의 반려 생활에서 아주 깊은 만족감을 느끼고 계시네요.  
+최고의 정서적 유대감을 경험하시면서도, 땡자의 행복에 대한 고민을 안고 계신 모습이 참 인상 깊어요.  
+이제 우리는 땡자라는 바다에 뛰어들어, 반려견을 천천히 이해해 나아갈 거예요.  
+### 대화를 시작해 볼게요.  
+1. 땡자의 행복을 위한 심리 상태 이해하기  
+2. 사회성 부족 문제 다루기 및 자신감 키우기  
+보호자님께서 전달해 주신 고민 내용들이에요.  
+어떤 주제에 대해 먼저 이야기해 보고 싶으세요?
+
+
+---
+> [2] User
+
+
+사료좀 선택도와줘요
+
+
+---
+> [3] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: 사료 선택
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+사료 선택은 땡자의 건강과 행복에 아주 중요한 부분이지요. 🐾  
+땡자의 식습관과 건강 상태에 맞춰 가장 좋은 선택을 할 수 있도록 제가 도와드릴게요.  
+혹시 땡자가 현재 먹고 있는 사료는 무엇인가요?  
+그리고 사료를 선택할 때 가장 중요하게 생각하는 점은 무엇인지 알려주시겠어요?
+
+
+---
+> [4] User
+
+
+지금닥터힐 z/d인텐시브 스몰먹여요
+소고기나 닭고기대신 주성분이 알러지가잘없는 식물성으로 추천해주세요
+
+
+---
+> [5] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: 사료 선택
+
+[back_process_rate]: 25%
+
+[back_user_emotion]: 2
+
+닥터힐 z/d 인텐시브 스몰을 먹이고 계시는군요. 땡자가 알레르기 때문에 식물성 주성분 사료를 찾으시는군요.  
+땡자가 이전에 소고기나 닭고기 외에 다른 단백질원에도 알레르기 반응을 보인 적이 있었나요?
+
+
+---
+> [6] User
+
+
+연어
+
+
+---
+> [7] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: 사료 선택
+
+[back_process_rate]: 30%
+
+[back_user_emotion]: 2
+
+연어에도 알레르기 반응이 있었군요. 땡자의 몸이 특정 단백질에 민감하게 반응하는 것 같아요.  
+혹시 땡자가 알레르기 증상 외에 다른 건강 문제는 없는지, 예를 들어 소화기 문제나 피부 트러블 같은 것은 없는지 궁금해요?
+
+
+---
+> [8] User
+
+
+특별히없어요
+
+
+---
+> [9] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: 사료 선택
+
+[back_process_rate]: 35%
+
+[back_user_emotion]: 2
+
+특별한 다른 건강 문제는 없어서 다행이에요.  
+그렇다면 땡자가 현재 먹고 있는 닥터힐 z/d 인텐시브 스몰 사료에 대해 만족하고 계신가요?  
+혹은 사료를 바꾸려는 특별한 이유가 있을까요?
+
+
+---
+> [10] User
+
+
+기호성낮음
+
+
+---
+> [11] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: 사료 선택
+
+[back_process_rate]: 40%
+
+[back_user_emotion]: 2
+
+그렇군요, 닥터힐 z/d 인텐시브 스몰의 기호성이 낮아서 땡자가 잘 먹지 않는 것이 고민이시군요.  
+혹시 땡자가 사료를 잘 먹지 않을 때, 어떤 방식으로 먹이시는지 알려주시겠어요?  
+예를 들어, 간식을 섞어 주시거나, 특정 시간에만 주시는지 궁금해요.
+
+
+---
+> [12] User
+
+
+토핑섞어즘
+
+
+---
+> [13] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: 사료 선택
+
+[back_process_rate]: 45%
+
+[back_user_emotion]: 2
+
+토핑을 섞어 주시는군요. 땡자가 사료 자체만으로는 식욕을 느끼지 못하는 것 같아 마음이 쓰이시겠어요.  
+혹시 토핑을 섞어 주실 때, 땡자가 사료 알갱이까지 다 먹는 편인가요, 아니면 토핑만 골라 먹는 편인가요?
+
+
+---
+> [14] User
+
+
+토핑만먹음
+
+
+---
+> [15] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: 사료 선택
+
+[back_process_rate]: 50%
+
+[back_user_emotion]: 2
+
+토핑만 골라 먹는군요. 땡자가 영리하게 자기 입맛에 맞는 것만 쏙쏙 찾아내는 것 같아요.  
+혹시 토핑으로 어떤 것을 주시는지, 그리고 토핑을 얼마나 자주, 어느 정도 양으로 주시는지 알려주시겠어요?
+
+
+---
+> [16] User
+
+
+아침저녁 약350그램씩
+
+
+---
+> [17] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: 사료 선택
+
+[back_process_rate]: 55%
+
+[back_user_emotion]: 2
+
+아침저녁으로 약 350그램씩 토핑을 섞어 주시는군요. 땡자가 토핑만 골라 먹는다면, 사료의 영양분을 제대로 섭취하지 못할 수도 있어요.  
+혹시 토핑으로 어떤 종류의 재료를 사용하시나요?  
+예를 들어, 삶은 채소나 특정 브랜드의 습식 사료 같은 것들이요.
+
+
+---
+> [18] User
+
+
+삶은야채
+
+
+---
+> [19] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: 사료 선택
+
+[back_process_rate]: 60%
+
+[back_user_emotion]: 2
+
+삶은 야채를 토핑으로 주시는군요. 땡자가 야채를 좋아하나 봐요.  
+혹시 땡자가 사료를 먹을 때, 보호자님이 옆에서 지켜보시는 편인가요, 아니면 자율적으로 먹게 두시는 편인가요?
+
+
+---
+> [20] User
+
+
+자율
+
+
+---
+> [21] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: 사료 선택
+
+[back_process_rate]: 65%
+
+[back_user_emotion]: 2
+
+자율적으로 먹게 두시는군요. 땡자가 스스로 먹고 싶을 때 먹을 수 있도록 배려해주시는 마음이 느껴져요.  
+혹시 땡자가 사료 그릇에 있는 음식을 다 먹는 데 보통 얼마나 시간이 걸리나요?  
+아니면 일정 시간이 지나면 남은 사료를 치우시는 편인가요?
+
+---
+#### **Token Usage**
+- 대화 비용: $0.039251799999999996
+- 입력 토큰: 117631.0
+- 출력 토큰: 1585.0
+---
+
+
+
+
+
+# [5] Feedback Response
+None

@@ -1,0 +1,713 @@
+
+# [1] User Information
+- **User ID** : 45037
+- **Session ID** : 27
+- **Email** : c267956xp6@privaterelay.appleid.com
+- **Username** : 장유빈
+- **Nickname** : 유빈
+- **Phone** : 01093049752
+- **Feedback T/F?** : False
+
+
+
+# [2] Pre-Questionnaire
+### Dog Care Counseling Pre-Survey Details
+#### 0. Guardian Information
+    - Age : 15
+    - Gender : 여
+
+#### 1. Dog Information
+    - Name : 사랑이
+    - Age : 7.7
+    - Weeks since adoption : 10 weeks old
+    - sex : 암컷 (neutered '아니오')
+    - breed : 말티즈
+    - Relationship with user : 주양육자(먹이 급여, 산책, 기타 생활 대부분을 책임짐)
+    - Adoption method : 가정 분양
+    - Walking schedule : 3 times/week, 1 times/day, 60 minutes each
+#### 2. Living Environment
+    - Type of residence : 주거용 공간(아파트, 원룸, 단독주택 등)
+        • Number of rooms : 3
+        • Kept tethered outdoors? : 아니오
+    - Family composition :
+        • Number of human family members : 4
+        • Number of dogs : 3
+        • Number of non-dog pets : 2
+    - Financial situation :
+        • Average monthly pet care cost : 30 ten-thousand KRW
+#### 3. Lifestyle
+    - Daily time spent with human family members: 3 hours
+    - Weekday hours alone (without people): 2 hours
+    - Is there or will there be a child under age 3? : 아니오
+#### 4. Socialization Level
+    - Time spent with the mother dog: 2 weeks ('-1' = unknown, '-2' = still living with mother)
+    - Commands/signals the dog can perform: 앉아,기다려,엎드려,콜백(부르면 오기),터치(사람의 손에 코나 발을 가져다 대기)
+    - Commands/Cues the dog performs 'without treats': 앉아,기다려,엎드려,콜백(부르면 오기),터치(사람의 손에 코나 발을 가져다 대기)
+    - If the guardian refuses the dog’s request, does the dog escalate its behavior? : 보통이다
+    - Does your dog play well with other dogs? : 보통이다
+    - Number of people the dog interacted with during its socialization period: 5~10명
+    - When you are busy, how does the dog get your attention? : 앞발로 가볍게 툭툭 건드린다,쳐다보거나 다가와 근처에 있는다
+#### 5. Health & Medical History
+    - Received treatment or medication in the past six months? : 없다
+#### 6. Threatening/Aggressive Behavior
+    - Has the dog ever shown threatening or aggressive behavior? : 얼굴쪽을 만지거나 미용할때 입질이 있다
+    - Intensity when biting people or other animals: 레벨3B - 레벨 3A에 해당하는 물림 행동이 여러 번 발생한 경우.
+#### 7. Boundaries & Anxiety
+    - Physical contact:
+        • Body areas or types of touch the dog refuses: 얼굴, 꼬리,발끝, 갑자기 만지는것
+    - Alertness:
+        • Situations that make the dog especially wary or uncomfortable: 초인종소리가 울릴때 짖는다항
+        • Reaction when a stranger visits home: 흥분하며 다가가 반긴다,짖으면서 상대방에게 달려 들지만 물지는 않는다
+        • Does the dog eagerly approach new environments or objects? : 보통이다
+        • Behavior during veterinary exams (with vets or assistants): 뻣뻣하게 서서 뚫어져라 본다
+    - Resource guarding:
+        • Situations in which the dog shows guarding behavior: 먹이,간식,장난감
+    - Separation anxiety:
+        • Reaction when you prepare to leave or leave the dog alone: 하울링
+        • Does the dog follow you everywhere? : 매우 그렇다
+        • Excessive licking to the point of skin damage: 그렇다
+    - Impulsivity:
+        • Does the dog react immediately to stimulating or pleasurable stimuli? : 매우 그렇다
+    - Excitability:
+        • Does the dog show excessive physical responses when excited (drooling, panting, urinating, etc.)? : 전혀 그렇지 않다
+#### 8. Satisfaction with Dog Care
+    - Emotional benefit: Very High (93.8/100)
+    - Emotional burden: Moderate (56.3/100)
+    - Overall satisfaction (benefit - burden): High (68.8/100)
+---
+#### Counseling Needs
+    - Main concern/request:
+    > 갑자기 요즘 침대를 과도하게 핥고 다니는것과 강아지 성격이 궁금해요
+
+    - Expectations from counseling:
+    > 어떤성향을 갖고있는지 알고싶어요
+
+    - Additional reference information:
+    > 애교가 매우 많아요
+
+    - Hopes for the dog’s future:
+    > 건강하게 오래 살면 좋겠고 심하진않지만 입질이 적어지면 좋겠어요
+
+    - Counseling language:
+    > 한국어
+
+
+
+# [3] Counseling Guide
+## Dog Counseling Guide
+
+#### 1. Guardian & Dog Profiling
+
+> (1) Dog
+-   **Basic information**: 사랑이 (Sarang-i), 7.7 years old, female (not neutered), Maltese
+-   **Adoption method**: Purchased from a home breeder at 10 weeks old.
+-   **Time since adoption**: Approximately 7.5 years.
+-   **Lifestyle**: Lives indoors in a multi-pet household. Spends about 2 hours alone on weekdays.
+-   **Walking routine**: 3 times a week, for 60 minutes each time. This frequency may be insufficient for a dog's physical and mental stimulation needs.
+-   **Socialization**: Separated from the mother at only 2 weeks, which is critically early and can lead to significant behavioral deficits, particularly in bite inhibition and social signaling. Interacted with 5-10 people during the primary socialization period. Current interaction with other dogs is rated as "moderate."
+-   **Health history**: No specific treatments in the last six months. However, new compulsive behaviors (licking) warrant a veterinary check-up.
+-   **Level of threatening/aggressive behavior**: Level 3B - Has inflicted bites that broke the skin on multiple occasions. This is a significant level of aggression that requires careful management. The triggers are handling/grooming of the face.
+-   **Triggers and levels of alertness/anxiety**:
+    -   **Triggers**: Handling of face, tail, and paws; sudden touch; doorbell sounds (causes barking).
+    -   **Anxiety Indicators**: Shows clear signs of separation anxiety (howling when left alone, constantly following the guardian). Engages in excessive licking to the point of skin damage. High impulsivity. Resource guards food, treats, and toys.
+-   **Temperament and disposition**: Sarang-i appears to have a dichotomous temperament. On one hand, she is described as very affectionate ("애교가 매우 많아요") and seeks connection with her guardian. On the other hand, she is highly anxious and insecure. This insecurity manifests as separation anxiety, resource guarding, and fear-based aggression when her boundaries are crossed (handling sensitive areas). The extremely early separation from her mother is a likely root cause of her poor emotional regulation, lack of bite inhibition, and deep-seated anxiety. Her high impulsivity suggests she struggles to control her reactions to stimuli.
+-   **Special notes**: The combination of Level 3B biting, significant anxiety symptoms, and resource guarding in a multi-pet household presents a complex and high-risk situation. The fact that she is not neutered could also be a contributing factor to certain behaviors, though it's not the primary cause of her anxiety or aggression.
+
+> (2) Guardian and Care Environment
+-   **Guardian (applicant) information**: 15-year-old female, primary caregiver (responsible for feeding, walks, etc.).
+-   **Family composition**: 4 human members, 3 dogs, 2 other non-dog pets. This is a very busy and potentially high-stress environment for an anxious dog.
+-   **Living space**: Apartment with 3 rooms.
+-   **Financial situation**: Spends approximately 300,000 KRW per month on pet care.
+-   **Guardian characteristics**: The guardian is very young and has been the primary caregiver for most of the dog's life. She is deeply bonded with Sarang-i, as shown by the high emotional benefit score. However, her age may mean she has less experience in managing complex behavioral issues like resource guarding and aggression. Her love for the dog is clear, but she may need significant guidance on how to interpret behavior and implement management strategies safely.
+-   **Special notes**: A 15-year-old acting as the primary caregiver for a dog with a Level 3B bite history is a point of concern. The counseling must prioritize the safety of the guardian and others in the household. The crowded multi-pet environment is a critical factor that likely contributes to Sarang-i's stress and resource guarding.
+
+> (3) Pet Care Satisfaction
+-   **Emotional benefit**: Very High (93.8)
+-   **Emotional burden**: Moderate (56.3)
+-   **Overall satisfaction**: High (68.8)
+-   **Interpretation**: These scores reveal a very strong emotional bond. The guardian derives immense joy and affection from Sarang-i (Very High benefit). However, the behavioral challenges—likely the biting, anxiety, and the new licking issue—are creating a noticeable level of stress and difficulty (Moderate burden). Despite the burden, the love for the dog prevails, resulting in High overall satisfaction. The goal of counseling is to reduce the burden by providing understanding and effective management tools, thereby strengthening the already positive relationship.
+
+#### 2. Counseling Topics : Guardian’s Concerns and Root Causes
+> Make the following content the central topic of the conversation.
+
+-   **Topic 1: Sudden Excessive Bed Licking**
+    -   **Situation description**: Sarang-i has recently started to lick the bed excessively. This is a new behavior.
+    -   **Guardian's Needs**: The guardian is concerned and wants to understand the reason for this new, strange behavior. This falls under "acquiring caregiving knowledge" and "improving problem behaviors."
+    -   **Possible causes**:
+        -   **Cause 1: Medical Issues (High Probability)**: Sudden onset of oral repetitive behaviors like licking is often linked to physical discomfort. This could include gastrointestinal issues (nausea, acid reflux), dental pain, allergies causing itchiness, or even neurological problems. This must be the first consideration.
+        -   **Cause 2: Anxiety or Compulsive Disorder**: Licking can be a self-soothing mechanism. Given Sarang-i's existing high anxiety (separation issues, etc.), this behavior could be a new coping strategy for stress. The stress could be triggered by subtle changes in the busy household environment.
+        -   **Cause 3: Displacement Behavior**: The licking might be a way to displace stress or frustration when she feels conflicted or anxious, for example, due to the presence of other pets near a valued spot like the bed.
+
+-   **Topic 2: Understanding Sarang-i's Personality and Reducing Biting**
+    -   **Situation description**: The guardian wants to understand Sarang-i's personality ("성격"). She also expresses a desire for the biting ("입질"), which occurs during handling of the face, to decrease. The biting has been severe enough to be classified as Level 3B.
+    -   **Guardian's Needs**: This is a combination of a "philosophical discussion about dog care" (understanding who her dog is) and a practical need to "improve problem behaviors" (reduce biting for a safer, healthier life together).
+    -   **Possible causes**:
+        -   **Cause 1: Severe Lack of Early Socialization**: Being separated from her mother at 2 weeks is the most significant factor. She never learned bite inhibition, how to read social cues, or how to cope with frustration from her mother and littermates. Her "personality" is fundamentally shaped by this early trauma.
+        -   **Cause 2: Fear-Based Reactivity and Boundary Setting**: The biting is not malicious "aggression"; it is communication born from fear. When she is touched in sensitive areas, she feels threatened and uses her mouth to say "STOP" because other, more subtle signals have likely been ignored in the past. This is a defensive, not offensive, behavior.
+        -   **Cause 3: Chronic Stress from Environment**: Living in a household with 4 other animals can be chronically stressful for an anxious dog. Competition for resources (food, space, guardian's attention) is constant, likely exacerbating her resource guarding and general anxiety, lowering her threshold for reacting with a bite.
+
+#### 3. Counseling Strategy
+
+-   **(0) Language**: 한국어
+
+-   **(1) Counseling Strategies**
+
+    -   **Topic 1: Sudden Excessive Bed Licking**
+        -   **(1) Counseling Goals**:
+            -   To ensure the guardian understands the critical importance of ruling out medical causes by scheduling a veterinary examination as the immediate first step.
+            -   To help the guardian identify potential environmental or social stressors that may have recently emerged.
+            -   To provide simple management and enrichment strategies to redirect the behavior, *after* medical causes have been ruled out.
+        -   **(2) Contextual Strategies**:
+            -   Begin with empathy: "It must be worrying to see Sarang-i suddenly start a new behavior like that. It's very observant of you to notice and seek help."
+            -   Prioritize medical advice: State clearly and firmly, "Whenever a dog starts a new, repetitive behavior out of the blue, the very first thing we must do is talk to a veterinarian. It's often their way of telling us something hurts or feels wrong inside. Could you make an appointment to get her checked for things like stomach discomfort or dental issues?"
+            -   Use Socratic questioning to investigate triggers: "Let's think back to when this started. Were there any changes at home? A new food? A change in your family's schedule? Any new tensions between the pets?"
+            -   Introduce the concept of self-soothing: "Sometimes, just like people might bite their nails when they're nervous, dogs will lick to calm themselves down. We need to figure out *if* she's feeling stressed, and why."
+        -   **(3) Cautions**:
+            -   **DO NOT** provide behavioral modification plans for the licking until a veterinarian has cleared the dog of any underlying medical conditions. This is an ethical and welfare priority.
+            -   Avoid diagnosing a specific illness. Stick to advising a general vet check-up.
+            -   Be mindful that the guardian is young. Explain concepts clearly and simply, without overwhelming her with jargon.
+
+    -   **Topic 2: Understanding Sarang-i's Personality and Reducing Biting**
+        -   **(1) Counseling Goals**:
+            -   To reframe Sarang-i's "personality" and "biting" from a problem to a form of communication rooted in early life experiences and fear.
+            -   To educate the guardian on the profound impact of the 2-week separation from the mother, fostering deep empathy.
+            -   To establish a strict "no-touch" policy on sensitive areas to immediately ensure the guardian's safety and begin rebuilding the dog's trust.
+            -   To introduce the concept of cooperative care and management as a long-term, positive solution.
+        -   **(2) Contextual Strategies**:
+            -   Use reframing and psychodrama: "Let's try to see the world from Sarang-i's perspective. She was taken from her mom before she could learn 'how to be a dog.' She never learned how to say 'please stop' gently. So when she bites, she's not being 'bad,' she's screaming, 'I'm scared! Please respect my space!' It's the only language she knows for that feeling."
+            -   Introduce the "Trust Account" metaphor: "Every time we force her to endure a touch she fears, we make a withdrawal from our trust account. Right now, the account is low. Our goal is to make many small, positive deposits by respecting her boundaries and not touching her face or paws at all for now."
+            -   Provide concrete, safe management solutions: "For now, the most important rule is safety. We will stop trying to groom her face or touch her paws. When you need to, we can talk about using tools like a basket muzzle with a professional's help. For now, let's focus on avoiding the situations that make her feel she needs to bite."
+            -   Use a fictional peer case: "I once knew another Maltese who was also very sensitive about being touched. Her family learned to teach her to place her chin in their hand for treats, and over many months, she learned that hands near her face could be a good thing. It's a long process built on trust."
+        -   **(3) Cautions**:
+            -   **The Level 3B bite history is serious.** Emphasize that punishment (scolding, hitting) will make the fear and aggression much worse and more dangerous.
+            -   **Strongly recommend consultation with a certified, force-free behavior consultant or trainer** for in-person guidance, especially given the bite risk and the guardian's age. This is not something that can be fully solved via chat.
+            -   Ensure the advice empowers the young guardian but also protects her. The focus must be on management and prevention, not "fixing" the biting through direct confrontation.
+
+#### 4. Key Questions for Further Clarification
+
+-   **Topic 1: Sudden Excessive Bed Licking**
+    1.  When exactly did this bed-licking behavior begin? Can you pinpoint the day or week?
+    2.  Have there been any recent changes in her diet, the brand of her food, or new treats?
+    3.  Does the licking happen at specific times of the day (e.g., only at night, after eating, when you are preparing to leave)?
+    4.  Can you describe her body language while she's licking? Does she seem tense, anxious, or calm and zoned-out?
+    5.  How do you and your family members react when she starts licking the bed? What have you tried so far to stop it?
+
+-   **Topic 2: Understanding Sarang-i's Personality and Reducing Biting**
+    1.  Could you describe the most recent incident of biting in detail? What was the person doing, which part of Sarang-i's body was being touched, and what happened immediately after the bite?
+    2.  You mentioned resource guarding. What does she do when she has a high-value item and someone approaches? Does she freeze, growl, show her teeth, or snap?
+    3.  How does Sarang-i get along with the other 2 dogs and 2 pets in the home? Are there fights over food, toys, or your attention?
+    4.  How do you currently manage necessary grooming, like cleaning her eyes or trimming her nails?
+    5.  You mentioned she is very affectionate. Can you describe how she likes to show affection and what kind of physical contact she enjoys and initiates herself? (This helps identify what she *is* comfortable with).
+
+
+
+# [4] Chat Record
+
+
+---
+> [1] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: Initial Message
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+안녕하세요, 사색을 좋아하는 비글이자 반려견 마음 통역사 까미예요. 🐶
+사랑이의 속마음을 더 깊이 읽어 보고, 우리 보호자님과 함께 잔잔한 파도를 넘어 보려고 해요. 
+
+### 상담 안내
+사전 질문지를 통해 보호자님께서 사랑이에게 얼마나 깊은 애정을 가지고 계신지 느낄 수 있었어요. 
+사랑이와 함께하며 얻는 기쁨이 아주 크지만, 동시에 몇 가지 행동 문제들로 인해 걱정도 있으셨을 거예요. 
+이제 우리는 사랑이라는 바다에 뛰어들어, 반려견을 천천히 이해해 나아갈 거예요. 
+
+### 대화를 시작해 볼게요.
+
+1. 갑작스러운 침대 과도하게 핥는 행동
+2. 사랑이의 성격 이해 및 입질 줄이기
+
+보호자님께서 전달해 주신 고민 내용들이에요. 
+어떤 주제에 대해 먼저 이야기해 보고 싶으세요?
+
+
+---
+> [2] User
+
+
+1번이요
+
+
+---
+> [3] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Sudden Excessive Bed Licking
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+네, 좋아요. 갑작스러운 침대 핥기 행동에 대해 먼저 이야기해 볼까요? 
+
+사랑이가 침대를 핥기 시작한 것이 정확히 언제부터였는지, 혹시 기억나시나요? 
+
+
+---
+> [4] User
+
+
+일주일전부터요
+
+
+---
+> [5] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Sudden Excessive Bed Licking
+
+[back_process_rate]: 20%
+
+[back_user_emotion]: 2
+
+일주일 전부터 갑자기 시작된 행동이라면, 사랑이의 몸이 보내는 신호일 수도 있어요. 
+
+혹시 최근에 사랑이의 식단이나 먹는 간식에 변화가 있었을까요?
+
+
+---
+> [6] User
+
+
+아뇨
+
+
+---
+> [7] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Sudden Excessive Bed Licking
+
+[back_process_rate]: 25%
+
+[back_user_emotion]: 2
+
+그렇군요. 식단이나 간식에는 변화가 없었다니, 다른 가능성을 찾아봐야겠어요. 
+
+사랑이가 침대를 핥는 행동이 주로 언제 일어나는지 궁금해요. 예를 들어, 밤에 잠들기 전이나 식사 후에, 혹은 보호자님이 외출 준비를 할 때처럼 특정 시간대가 있을까요? 
+
+
+---
+> [8] User
+
+
+제가 침대에 누울땨요
+
+
+---
+> [9] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Sudden Excessive Bed Licking
+
+[back_process_rate]: 30%
+
+[back_user_emotion]: 2
+
+보호자님이 침대에 누울 때 사랑이가 침대를 핥는군요. 
+
+사랑이의 마음을 잠시 들여다볼까요? "보호자님이 내 옆에 오셨으니, 이제 이 침대는 우리만의 특별한 공간!" 하고 생각하며, 침대를 핥아 자신의 흔적을 남기려 할 수 있어요. 
+
+사랑이가 침대를 핥을 때, 혹시 몸이 긴장되어 보이거나 불안해하는 다른 행동들도 함께 보이나요? 
+
+
+---
+> [10] User
+
+
+불안해하는것같아요
+
+
+---
+> [11] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Sudden Excessive Bed Licking
+
+[back_process_rate]: 35%
+
+[back_user_emotion]: 2
+
+사랑이가 불안해하는 것 같다면, 침대 핥기가 단순한 애정 표현을 넘어선 의미일 수 있어요. 
+
+어쩌면 사랑이는 "보호자님이 내 옆에 계시니 안심은 되지만, 혹시 이 좋은 시간이 사라질까 봐 불안해요"라고 말하는 것일지도 몰라요. 
+
+사랑이가 불안해 보일 때, 보호자님이나 다른 가족들은 어떻게 반응하시나요? 핥는 행동을 멈추게 하기 위해 어떤 시도를 해보셨나요?
+
+
+---
+> [12] User
+
+
+사랑ㅇ이 이름을 불렀어요
+
+
+---
+> [13] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Sudden Excessive Bed Licking
+
+[back_process_rate]: 40%
+
+[back_user_emotion]: 2
+
+사랑이 이름을 부르며 관심을 주셨군요. 
+
+사랑이가 침대를 핥는 행동은 어쩌면 "보호자님, 저 좀 봐주세요!" 하는 관심 표현일 수도 있어요. 
+
+혹시 사랑이의 핥는 행동이 시작되기 직전이나 그 무렵에, 집안 환경에 어떤 변화는 없었을까요? 예를 들면 새로운 가구가 들어왔다거나, 가족 구성원의 생활 패턴이 바뀌었다거나 하는 변화 말이에요.
+
+
+---
+> [14] User
+
+
+햄스터를 입양했긴한데 관심은 없어요
+
+
+---
+> [15] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Sudden Excessive Bed Licking
+
+[back_process_rate]: 45%
+
+[back_user_emotion]: 2
+
+햄스터를 새로 입양하셨군요! 사랑이가 햄스터에게 직접적인 관심은 없다고 해도, 새로운 가족의 등장은 환경에 미묘한 변화를 가져올 수 있어요. 
+
+사랑이의 입장에서 보면, "우리 집에 새로운 존재가 나타났네?" 하고 살짝 긴장하거나, 보호자님의 관심이 분산될까 봐 불안감을 느낄 수도 있답니다. 
+
+혹시 사랑이가 침대를 핥을 때, 몸의 다른 부위도 함께 핥거나 특정 부위를 반복적으로 핥는 모습도 보이나요?
+
+
+---
+> [16] User
+
+
+앞발을 핥아요
+
+
+---
+> [17] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Sudden Excessive Bed Licking
+
+[back_process_rate]: 50%
+
+[back_user_emotion]: 2
+
+침대뿐만 아니라 앞발까지 핥는다면, 사랑이가 보내는 신호가 더욱 분명해지는 것 같아요. 
+
+사랑이의 마음속에서는 "불안한 마음을 가라앉히고 싶어"라는 소리가 울려 퍼지고 있을 거예요. 마치 우리가 긴장될 때 손톱을 물어뜯는 것처럼요. 
+
+이런 반복적인 핥기 행동은 몸이 불편하다는 신호일 수도 있으니, 정확한 진단을 위해서는 꼭 동물병원에서 진찰을 받아보는 것이 중요해요. 혹시 동물병원에 방문할 계획이 있으실까요?
+
+
+---
+> [18] User
+
+
+아니요 병원에서는 문제 없대여
+
+
+---
+> [19] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Sudden Excessive Bed Licking
+
+[back_process_rate]: 55%
+
+[back_user_emotion]: 2
+
+병원에서 이미 진찰을 받으셨고, 특별한 문제가 없다는 이야기를 들으셨군요. 다행이에요. 
+
+그렇다면 사랑이의 핥는 행동은 몸의 불편함보다는 마음의 불안감에서 오는 것일 가능성이 더 커 보여요. 
+
+사랑이의 마음속에서는 "불안한 마음을 가라앉히고 싶어"라는 소리가 울려 퍼지고 있을 거예요. 마치 우리가 긴장될 때 손톱을 물어뜯는 것처럼요. 
+
+사랑이가 불안해 보일 때, 보호자님이나 다른 가족들은 어떻게 반응하시나요? 핥는 행동을 멈추게 하기 위해 어떤 시도를 해보셨나요?
+
+
+---
+> [20] User
+
+
+사랑이 성격에 대해 알고싶어요
+
+
+---
+> [21] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: Understanding Sarang-i's Personality and Reducing Biting
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+네, 좋아요! 사랑이의 성격에 대해 이야기해보고 싶으시군요. 
+
+사랑이의 성격을 이해하는 것은 사랑이의 마음을 읽는 첫걸음이 될 거예요. 
+
+사랑이의 입질에 대해 먼저 이야기해 볼까요? 가장 최근에 입질이 있었던 상황을 자세히 설명해 주실 수 있을까요? 어떤 상황에서, 누가 사랑이의 어느 부위를 만졌을 때 일어났는지 궁금해요.
+
+
+---
+> [22] User
+
+
+사랑이 눈꼽을 때어줄때요
+
+
+---
+> [23] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Understanding Sarang-i's Personality and Reducing Biting
+
+[back_process_rate]: 5%
+
+[back_user_emotion]: 2
+
+사랑이가 눈곱을 떼어줄 때 입질을 하는군요. 
+
+사랑이의 마음을 잠시 들여다볼까요? 사랑이는 "내 얼굴은 아주 소중한 곳이야!"라고 생각하고 있을 거예요. 어릴 적 엄마와 너무 일찍 헤어져서, "이 정도면 충분히 아프다"는 신호를 부드럽게 보내는 법을 배우지 못했을 수 있어요. 
+
+그래서 사랑이는 "제발 멈춰줘!"라는 절박한 마음을 입으로 표현하는 것이랍니다. 
+
+혹시 사랑이가 눈곱을 떼어줄 때 외에, 발이나 꼬리처럼 다른 예민한 부위를 만질 때도 비슷한 반응을 보이나요? 
+
+
+---
+> [24] User
+
+
+8주때 헤어진것은 빨리 헤어진건가요?
+
+
+---
+> [25] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Understanding Sarang-i's Personality and Reducing Biting
+
+[back_process_rate]: 60%
+
+[back_user_emotion]: 2
+
+사랑이가 8주 차에 엄마와 헤어졌다고 하셨죠? 사실 8주령은 사회화에 매우 중요한 시기예요. 
+
+이상적으로는 최소 8주에서 12주까지는 어미와 형제들과 함께 지내면서, "어떻게 하면 친구들과 잘 지낼 수 있을까?" "이건 너무 아프니까 이렇게 하면 안 돼" 같은 사회적인 규칙과 물기 조절 능력을 배우는 시기랍니다. 
+
+사랑이가 8주에 헤어졌다면, 사회화 학습의 중요한 일부를 놓쳤을 가능성이 있어요. 혹시 사랑이가 다른 강아지들이나 사람들과 어울릴 때도 어려움을 겪는 경우가 있나요? 
+
+
+---
+> [26] User
+
+
+아니요
+
+
+---
+> [27] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Understanding Sarang-i's Personality and Reducing Biting
+
+[back_process_rate]: 65%
+
+[back_user_emotion]: 2
+
+다른 강아지나 사람들과 어울리는 데 특별한 어려움은 없다고 하시니 다행이네요. 
+
+사랑이의 입질은 어릴 적 사회화 경험 부족과 관련이 있을 수 있지만, "이건 싫어요!"라는 사랑이만의 표현 방식일 수도 있어요. 
+
+사랑이가 특정 물건에 대해 강하게 집착하거나, 다른 강아지나 사람이 그 물건에 다가오면 으르렁거리는 등의 행동을 보인 적이 있을까요? 
+
+
+---
+> [28] User
+
+
+네
+
+
+---
+> [29] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Understanding Sarang-i's Personality and Reducing Biting
+
+[back_process_rate]: 70%
+
+[back_user_emotion]: 2
+
+네, 사랑이가 특정 물건에 대해 집착하거나 지키려는 행동을 보인 적이 있군요. 
+
+사랑이에게 그 물건은 마치 세상에서 가장 값진 보물과 같을 거예요. "이건 내 거야! 아무도 못 가져가!"라고 말하는 사랑이의 마음이 느껴지시나요? 
+
+사랑이가 다른 강아지들이나 사람들과 함께 있을 때, 음식이나 장난감, 혹은 보호자님의 관심을 두고 다투는 모습도 보이나요? 
+
+
+---
+> [30] User
+
+
+네
+
+
+---
+> [31] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Understanding Sarang-i's Personality and Reducing Biting
+
+[back_process_rate]: 75%
+
+[back_user_emotion]: 2
+
+네, 사랑이가 음식이나 장난감, 보호자님의 관심을 두고 다투는 모습도 보이는군요. 
+
+사랑이의 마음속에서는 "이건 정말 소중한데, 빼앗길까 봐 불안해!"라는 생각이 가득할 거예요. 특히 여러 반려동물과 함께 사는 환경에서는 이런 불안감이 더 커질 수 있답니다. 
+
+사랑이가 입질을 하는 상황 외에, 보호자님께 애정을 표현하거나 신뢰를 보여주는 순간들도 있을까요? 어떤 방식으로 애교를 부리거나 신체 접촉을 좋아하는지 궁금해요.
+
+
+---
+> [32] User
+
+
+배를 까거나 저한테 다가와료
+
+
+---
+> [33] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind", '[phase3] Caregiving Solutions']
+
+[back_current_topic]: Understanding Sarang-i's Personality and Reducing Biting
+
+[back_process_rate]: 80%
+
+[back_user_emotion]: 3
+
+사랑이가 배를 보이며 다가오는 행동은 보호자님에 대한 깊은 신뢰와 애정의 표현이에요. "보호자님은 나를 안전하게 해주는 존재"라고 생각하고 있는 것이죠. 
+
+이런 사랑이의 모습에서, 사랑이가 얼마나 보호자님을 믿고 의지하는지 알 수 있어요. 
+
+이제 사랑이의 입질을 줄이고, 서로 더 깊이 이해할 수 있는 방법을 알아볼까요? 
+
+### 🐾 Step 1: '만지지 않기'로 신뢰 저금통 채우기
+
+사랑이의 얼굴이나 발, 꼬리처럼 예민한 부위는 당분간 만지지 않는 것이 좋아요. 사랑이에게 "이곳은 안전해"라는 믿음을 심어주는 첫걸음이랍니다. 
+
+🎯 **목표**
+
+사랑이가 "내 몸은 안전하게 지켜진다"는 것을 배우고, 보호자님에 대한 신뢰를 쌓는 것이에요.
+
+🔎 **주의 사항**
+
+만약 사랑이가 으르렁거리거나 이빨을 보이는 등 불편한 신호를 보낸다면, 즉시 멈춰주세요. 억지로 만지려고 하면 사랑이의 불안감이 더 커질 수 있어요. 
+
+이 방법, 보호자님께는 어떻게 들리시나요? 시작해 볼 준비 되셨을까요? ✨
+
+
+---
+> [34] User
+
+
+네
+
+
+---
+> [35] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Understanding Sarang-i's Personality and Reducing Biting
+
+[back_process_rate]: 85%
+
+[back_user_emotion]: 3
+
+좋아요! 보호자님의 "네" 한마디에 사랑이의 마음 저금통이 벌써 두둑해지는 기분이에요. 
+
+사랑이의 입질을 줄이는 데는 일관성이 아주 중요하답니다. 가족 구성원 모두가 사랑이의 예민한 부위를 만지지 않는 규칙을 함께 지켜주시는 것이 좋아요. 
+
+### 🐾 Step 2: '좋은 경험'으로 신뢰 쌓기
+
+사랑이가 좋아하는 간식이나 장난감을 준비해 주세요. 그리고 사랑이가 편안하게 있을 때, 예민한 부위 근처에 간식이나 장난감을 놓아주는 거예요. 절대 만지지는 마시고요! 
+
+🎯 **목표**
+
+사랑이가 "내 몸 근처에 손이 와도 좋은 일이 생긴다"는 긍정적인 경험을 하는 것이에요. 
+
+🔎 **주의 사항**
+
+사랑이가 간식이나 장난감에 집중하지 않거나 불편해하는 기색을 보인다면, 즉시 멈추고 다음 기회에 다시 시도해 주세요. 
+
+이 방법도 괜찮으실까요? 꾸준히 연습하면 사랑이의 마음이 조금씩 열릴 거예요. ✨
+
+---
+#### **Token Usage**
+- 대화 비용: $0.072625
+- 입력 토큰: 210825.0
+- 출력 토큰: 3751.0
+---
+
+
+
+
+
+# [5] Feedback Response
+None

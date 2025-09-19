@@ -1,0 +1,956 @@
+
+# [1] User Information
+- **User ID** : 45676
+- **Session ID** : 11
+- **Email** : jeongseo98@kakao.com
+- **Username** : 이정서
+- **Nickname** : 마로니누나
+- **Phone** : 01063301468
+- **Feedback T/F?** : True
+
+
+
+# [2] Pre-Questionnaire
+### Dog Care Counseling Pre-Survey Details
+#### 0. Guardian Information
+    - Age : 27
+    - Gender : 여
+
+#### 1. Dog Information
+    - Name : 마론
+    - Age : 2.9
+    - Weeks since adoption : 104 weeks old
+    - sex : 수컷 (neutered '예')
+    - breed : 푸들믹스
+    - Relationship with user : 주양육자(먹이 급여, 산책, 기타 생활 대부분을 책임짐)
+    - Adoption method : 동물보호센터로부터 입양
+    - Walking schedule : 6 times/week, 1 times/day, 30 minutes each
+#### 2. Living Environment
+    - Type of residence : 주거용 공간(아파트, 원룸, 단독주택 등)
+        • Number of rooms : 2
+        • Kept tethered outdoors? : 아니오
+    - Family composition :
+        • Number of human family members : 1
+        • Number of dogs : 1
+        • Number of non-dog pets : 0
+    - Financial situation :
+        • Average monthly pet care cost : 40 ten-thousand KRW
+#### 3. Lifestyle
+    - Daily time spent with human family members: 5 hours
+    - Weekday hours alone (without people): 0 hours
+    - Is there or will there be a child under age 3? : 아니오
+#### 4. Socialization Level
+    - Time spent with the mother dog: -1 weeks ('-1' = unknown, '-2' = still living with mother)
+    - Commands/signals the dog can perform: 앉아,기다려,엎드려,콜백(부르면 오기),하우스(개집과 같은 지정된 공간으로 돌아가기),터치(사람의 손에 코나 발을 가져다 대기)
+    - Commands/Cues the dog performs 'without treats': 기다려,앉아,엎드려,콜백(부르면 오기),하우스(개집과 같은 지정된 공간으로 돌아가기),터치(사람의 손에 코나 발을 가져다 대기)
+    - If the guardian refuses the dog’s request, does the dog escalate its behavior? : 그렇지 않다
+    - Does your dog play well with other dogs? : 그렇다
+    - Number of people the dog interacted with during its socialization period: 잘 모르겠다.
+    - When you are busy, how does the dog get your attention? : 쳐다보거나 다가와 근처에 있는다
+#### 5. Health & Medical History
+    - Received treatment or medication in the past six months? : 피부, 식이 알러지
+#### 6. Threatening/Aggressive Behavior
+    - Has the dog ever shown threatening or aggressive behavior? : 주인이 일하는 가게, 산책, 차안에서 타인을 보고 짖고 달려들려고 함
+    - Intensity when biting people or other animals: 레벨3A - 한 번의 물림으로 인해 피부에 1~4개의 구멍이 생기나, 그 깊이는 개 이빨 길이의 절반보다 얕다. 물린 상대가 손을 급히 빼거나, 개를 떼어내려는 과정 또는 중력(개가 점프하여 물었다 떨어지는 경우)에 의해 상처가 찢어지거나 길게 생길 수 있다.
+#### 7. Boundaries & Anxiety
+    - Physical contact:
+        • Body areas or types of touch the dog refuses: 뽀뽀
+    - Alertness:
+        • Situations that make the dog especially wary or uncomfortable: 중년의 남성이 주변을 돌아다닐때.
+        • Reaction when a stranger visits home: 짖으면서 상대방에게 달려 들지만 물지는 않는다
+        • Does the dog eagerly approach new environments or objects? : 매우 그렇다
+        • Behavior during veterinary exams (with vets or assistants): 뻣뻣하게 서서 뚫어져라 본다
+    - Resource guarding:
+        • Situations in which the dog shows guarding behavior: 보호자와 함께 있는 공간을 지키려고 집 외부에서 소리 날때, 보호자가 일하눈 매장의 밖에 사람이 돌아다닐때.
+    - Separation anxiety:
+        • Reaction when you prepare to leave or leave the dog alone: 문 긁기, 수납함에 있는 빨래, 물건 꺼내기, 짖기, 하울링 하기.
+        • Does the dog follow you everywhere? : 그렇다
+        • Excessive licking to the point of skin damage: 보통이다
+    - Impulsivity:
+        • Does the dog react immediately to stimulating or pleasurable stimuli? : 매우 그렇다
+    - Excitability:
+        • Does the dog show excessive physical responses when excited (drooling, panting, urinating, etc.)? : 그렇지 않다
+#### 8. Satisfaction with Dog Care
+    - Emotional benefit: Very High (81.3/100)
+    - Emotional burden: High (62.5/100)
+    - Overall satisfaction (benefit - burden): Moderate (59.4/100)
+---
+#### Counseling Needs
+    - Main concern/request:
+    > 타인들에게 사랑받는 강아지였음 하는데, 사람을 문 경험이 있어서 쉽게 밖에 못나가는 편이예요. 최대한 덜 터치하고, 무시함으로서 거리를 두고 스스로 잠자게 하고 있는 것부터 시작하고 있어요. 다만 여전히 차 안, 산책시 낯선 사람을 보고 흥분을 하는건 똑같아요.
+
+    - Expectations from counseling:
+    > 낯선사람을 태연하게 바라보고, 멀리 있어도 자극으로 안느껴 지게 하고 싶어요.
+
+    - Additional reference information:
+    > 유기견이였고, 서있거나 뒤돌아서는 남성에게 유독 공격적이예요. 막상 다가와서(앉아서) 예뻐해주면 등을 보이지만 손을 떼거나 일어서면 짖고 공격하려해요.
+
+    - Hopes for the dog’s future:
+    > 태연하게 타인을 바라보기만 해도 좋을 것 같다.
+
+    - Counseling language:
+    > 한국어
+
+
+
+# [3] Counseling Guide
+## Dog Counseling Guide
+
+#### 1. Guardian & Dog Profiling
+
+> (1) Dog
+- **Basic information**: Maron, 2.9 years old, male (neutered), Poodle Mix.
+- **Adoption method**: Adopted from an animal shelter.
+- **Time since adoption**: 104 weeks (approximately 2 years). Maron was adopted around the age of 2.
+- **Lifestyle**: Lives in a single-person household with his primary guardian. The survey indicates he is never left alone on weekdays, suggesting he may accompany the guardian to her workplace (a shop).
+- **Walking routine**: 30-minute walks, 6 times per week. For a Poodle Mix, this amount of physical activity may be insufficient, potentially contributing to higher arousal levels.
+- **Socialization**: Knows a wide range of commands and performs them reliably, indicating good trainability. He reportedly plays well with other dogs. However, his early history (pre-adoption) is unknown, and he shows significant fear towards specific human demographics.
+- **Health history**: Has a history of skin and food allergies. Chronic discomfort from allergies can lower a dog's threshold for stress and increase irritability.
+- **Level of threatening/aggressive behavior**: Rated as Level 3A. He has inflicted a bite that caused 1-4 skin punctures. This is a significant level of aggression that requires immediate and careful management for safety.
+- **Triggers and levels of alertness/anxiety**:
+    - **Primary Triggers**: Strangers, with a specific and intense fear of middle-aged men, especially when they are standing, have their backs turned, or move suddenly after being still.
+    - **Triggering Contexts**: In the car, on walks, and at the guardian's shop.
+    - **Anxiety Signs**: Guards the space he shares with his guardian (resource guarding of the guardian/territory), exhibits separation-related distress (scratching, howling, destroying items), and follows the guardian constantly. At the vet, he becomes stiff and stares, a clear sign of high stress.
+- **Temperament and disposition**: Maron appears to be an intelligent and sensitive dog who has formed a very strong, albeit insecure, attachment to his guardian. His aggression is not malicious but stems from deep-seated fear and anxiety, likely rooted in past trauma before his adoption. He is highly impulsive, meaning he reacts quickly to stimuli without much forethought. His behavior is a defensive strategy to create distance from things he perceives as threatening to himself and his guardian.
+- **Special notes**: The specific trigger of "standing or back-turned men" is a critical clue that points towards a potential past traumatic event. The cycle of tolerating petting while seated but reacting aggressively when the person stops or stands is a classic manifestation of anxiety: the dog is tolerating the interaction but is not truly comfortable, and the change in posture re-triggers the fear.
+
+> (2) Guardian and Care Environment
+- **Guardian (applicant) information**: 27-year-old female, the dog's primary caregiver.
+- **Family composition**: Single-person household with one dog.
+- **Living space**: Apartment.
+- **Financial situation**: Spends an average of 400,000 KRW per month on pet care, indicating a high level of commitment and investment in Maron's well-being.
+- **Guardian characteristics**: The guardian is deeply attached to Maron and is proactive in seeking solutions, already attempting management techniques like encouraging self-settling. Her desire for Maron to be "loved by others" reveals a caring nature but may also create personal pressure and stress. She is likely experiencing significant anxiety herself due to the bite history and Maron's reactivity, which can be a challenging cycle for both dog and owner.
+- **Special notes**: The intense bond in a single-guardian home can amplify both positive and negative behaviors. It can make training effective but can also heighten issues like separation anxiety and resource guarding of the guardian. The fact that Maron accompanies her to her shop places him in a constantly triggering environment, which is a key factor in his behavior.
+
+> (3) Pet Care Satisfaction
+- **Emotional benefit**: Very High (81.3)
+- **Emotional burden**: High (62.5)
+- **Overall satisfaction**: Moderate (59.4)
+- **Interpretation**: These scores paint a clear picture of a deeply loved dog whose behavioral challenges are causing significant stress for the guardian. The very high emotional benefit shows a strong, positive bond. However, the high emotional burden reflects the daily anxiety, fear, and difficulty of managing Maron's aggression. The guardian is caught between her love for her dog and the immense challenge his behavior presents.
+
+#### 2. Counseling Topics : Guardian’s Concerns and Root Causes
+> Make the following content the central topic of the conversation.
+
+-  **Topic 1: Fear-Based Reactivity and Aggression Towards Strangers**
+    - **Situation description**: Maron barks and lunges at strangers, particularly men, on walks, in the car, and at the guardian's shop. This behavior has escalated to a Level 3A bite. He is especially triggered by men who are standing, have their backs turned, or who stand up after petting him.
+    - **Guardian's Needs**: The guardian wants to reduce her own fear and anxiety about taking Maron outside. Her primary goal is for Maron to learn to see strangers without feeling threatened, allowing them both to have more peaceful lives. This involves improving the problem behavior and providing mental/emotional support for the guardian.
+    - **Possible causes**:
+        - **Cause 1: Past Trauma and Poor Socialization**: As a dog from a shelter with an unknown history, it is highly probable that Maron experienced a traumatic event involving a man. His specific fear triggers (standing, back-turned posture) are classic signs of a conditioned fear response linked to a past negative experience.
+        - **Cause 2: Anxiety-Driven Guarding Behavior**: Maron's aggression is a defensive "distance-increasing" behavior. He feels unsafe and is trying to protect himself and his most valuable resource—his guardian. His insecure attachment (separation anxiety) likely contributes to a feeling that he must actively defend his guardian from perceived threats.
+        - **Cause 3: Trigger Stacking in High-Arousal Environments**: Being on a leash (which restricts flight), in a car (confined space), or at the shop (high traffic of triggers) elevates his baseline stress. This "trigger stacking" means that even a small stimulus can push him over his reaction threshold, leading to an explosive outburst.
+
+- **Topic 2: Separation-Related Distress and Hyper-Attachment**
+    - **Situation description**: When the guardian prepares to leave or is gone, Maron exhibits signs of distress, including scratching the door, pulling out laundry, barking, and howling. He also follows her from room to room.
+    - **Guardian's Needs**: To help Maron build confidence and feel secure when he is alone, thereby reducing his distress and destructive behaviors.
+    - **Possible causes**:
+        - **Cause 1: Insecure Attachment**: This is common in adopted dogs. Maron has become overly reliant on the guardian's presence for his sense of security. The fact that he is reportedly never alone on weekdays may have inadvertently prevented him from developing the skills to cope with solitude.
+        - **Cause 2: Conditioned Anxiety**: The guardian's pre-departure cues (grabbing keys, putting on a coat) have likely become reliable predictors of the stressful experience of being left alone, initiating his anxiety before she even leaves.
+
+#### 3. Counseling Strategy
+
+- **(0) Language**: 한국어
+
+- **(1) Counseling Strategies**
+
+    - **Topic 1: Fear-Based Reactivity and Aggression Towards Strangers**
+        - **(1) Counseling Goals**
+            - **Short-Term**: The guardian will learn and implement a safety and management plan to prevent any future bites and to stop Maron from practicing his reactive behavior. This includes the successful introduction of a basket muzzle.
+            - **Mid-Term**: The guardian will be able to identify Maron's subtle, early stress signals (e.g., stiff body, staring, closed mouth) and proactively create distance from triggers *before* he reacts.
+            - **Long-Term**: Through a systematic behavior modification plan, Maron's emotional response to strangers will begin to shift from intense fear to neutrality, allowing for calmer walks and outings.
+        - **(2) Contextual Strategies**
+            - **Empathy and Reframing (Guardian Mind Care)**: Start by validating the guardian's fear and stress. Use CBT to reframe the thought from "I want him to be loved by others" to "My priority is to help Maron feel safe in the world." This shifts the goal from an uncontrollable outcome (other people's feelings) to a controllable process (the dog's well-being).
+            - **Conveying the Dog's Perspective (Psychodrama)**: Use a monologue to articulate Maron's fear. For example: "When I see that man standing there, my heart feels like it's going to explode. It reminds me of a scary time. I have to bark and lunge to make the threat go away. It's the only way I know how to keep my mom and me safe. When he sits down, it's less scary, but when he stands up again, the fear comes right back."
+            - **Solution-Focused Plan**:
+                1.  **Safety First (Management)**: Immediately implement strict safety measures. This is non-negotiable.
+                    - **Muzzle Training**: Introduce a comfortable basket muzzle using positive reinforcement. Frame it as a "safety tool," like a seatbelt, that allows them to work on training without the risk of another bite.
+                    - **Environmental Management**: Use window film on the car windows and the shop door/windows to obscure the view of passersby.
+                    - **Visitor Protocol**: When visitors come to the home or shop, Maron should be securely in another room or behind a baby gate with a high-value chew (like a frozen Kong). No direct interaction with visitors for now.
+                2.  **Behavior Modification (Training)**:
+                    - **Distance is Key**: On walks, the guardian's job is to be a "detective" for triggers. The moment she spots one, she should cheerfully say "This way!" and make a U-turn, rewarding Maron with high-value treats as they move away. This teaches him that seeing a trigger means good things (treats) and moving away with his guardian.
+                    - **Systematic Desensitization**: Begin formal training sessions at a very large distance from a trigger (e.g., across a park from a stationary person). Mark and reward Maron for simply looking at the person without reacting. The goal is to keep him "under threshold" (calm) at all times.
+        - **(3) Cautions**
+            - **Prioritize Safety**: Given the Level 3A bite history, the risk of re-offense is high. Emphasize that management is not optional; it is essential for the safety of the public and for Maron's own welfare (preventing him from being put in a situation where he could be deemed dangerous).
+            - **MUST RECOMMEND SPECIALIST HELP**: This case requires professional, in-person guidance. Strongly advise the guardian to seek help from a certified veterinary behaviorist or a certified dog behavior consultant (KPA, CPDT-KA, etc.) who uses force-free methods.
+            - **NO AVERSIVES**: Explicitly warn the guardian against using any form of punishment (leash jerks, shock collars, yelling, pinning). These methods will worsen fear and aggression and destroy trust.
+            - **Medical Check**: Recommend a thorough veterinary check-up to ensure his skin allergies are well-managed, as chronic pain or itching can significantly contribute to behavioral problems.
+
+    - **Topic 2: Separation-Related Distress and Hyper-Attachment**
+        - **(1) Counseling Goals**
+            - The guardian will establish a clear routine for departures and arrivals that reduces anxiety for both herself and Maron.
+            - Maron will learn to engage in calm, independent activities (e.g., chewing on a specific toy) while the guardian is present but not interacting with him.
+            - Gradually increase the duration Maron can be left alone calmly, starting with just a few seconds.
+        - **(2) Contextual Strategies**
+            - **Information Gathering**: First, clarify the "0 hours alone" statement. Understanding the exact daily routine is critical to creating an effective plan.
+            - **Solution-Focused Plan**:
+                1.  **Decouple Departure Cues**: The guardian should practice picking up her keys, putting on her jacket, and touching the doorknob at random times throughout the day *without leaving*. This breaks the connection between these cues and the stress of departure.
+                2.  **Create a "Safe Zone" and Departure Ritual**: Designate a comfortable bed or open crate as Maron's spot. When the guardian needs to leave, she should calmly give him a special, high-value "only when I'm gone" puzzle toy or chew. She should then leave without any emotional fuss. Arrivals should also be calm.
+                3.  **Fostering Independence**: Encourage "place" or "mat work" training. Reward Maron for staying on his bed for progressively longer periods while the guardian moves about the house. This teaches him that being physically separate from her is rewarding.
+        - **(3) Cautions**
+            - **Go Slow**: Progress must be made at the dog's pace. Pushing him to endure being alone for too long will set back the training. The goal is to have many successful, short separations, not one long, failed one.
+            - **Potential for Medication**: If the anxiety is severe and prevents any progress with behavior modification, gently suggest that a conversation with a veterinarian or veterinary behaviorist about anti-anxiety medication could be a helpful tool to make training more effective.
+            - **Avoid Over-Crutching**: While the goal is not to cause distress, it's important to explain that learning to be alone is a crucial life skill for a dog, just like it is for a child. The goal is to build his confidence, not to avoid the situation entirely.
+
+#### 4. Key Questions for Further Clarification
+
+- **Topic 1: Fear-Based Reactivity and Aggression Towards Strangers**
+    1.  Could you please describe the bite incident in as much detail as you can remember? What was the person doing right before Maron bit them, and how did you and the other person react immediately after?
+    2.  Before the barking and lunging begins, what are the very first, most subtle changes you see in Maron's body language when he spots a stranger he is wary of? (e.g., Does he freeze? Does his tail go stiff? Do his ears perk forward?)
+    3.  You mentioned he is particularly reactive at your shop. Can you describe the setup? Where does Maron usually stay, and how close do strangers get to him?
+    4.  What are your thoughts and feelings about using a basket muzzle as a safety tool during walks? Have you ever tried one before?
+    5.  When a man sits and pets him, what does Maron's body look like? Is he relaxed and loose, or is he stiff and just tolerating it?
+
+- **Topic 2: Separation-Related Distress and Hyper-Attachment**
+    1.  The survey mentioned Maron is alone for "0 hours" on weekdays. Could you tell me more about your typical daily routine? Does he come to the shop with you every day?
+    2.  When do the separation behaviors like scratching and howling happen? Is it only when you leave the house completely, or does it also happen if you go into another room and close the door?
+    3.  What is your routine like in the 5-10 minutes before you leave the house, and in the 5-10 minutes after you return?
+    4.  You're working on encouraging him to self-settle. What does this practice look like, and how has Maron been responding to it?
+
+
+
+# [4] Chat Record
+
+
+---
+> [1] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: Initial Message
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+안녕하세요, 사색을 좋아하는 비글이자 반려견 마음 통역사 까미예요.  
+마론이의 속마음을 더 깊이 읽어 보고, 우리 보호자님과 함께 잔잔한 파도를 넘어 보려고 해요.  
+
+### 상담 안내  
+사전 질문지를 통해 보호자님의 마론이를 향한 깊은 애정을 느낄 수 있었어요.  
+하지만 마론이의 행동 문제로 인해 보호자님께서도 적지 않은 불안과 어려움을 겪고 계신다는 것을 알게 되었답니다.  
+이제 우리는 마론이라는 바다에 뛰어들어, 반려견을 천천히 이해해 나아갈 거예요.  
+
+### 대화를 시작해 볼게요.  
+
+1. 낯선 사람에 대한 두려움 기반의 반응성과 공격성  
+2. 분리 불안 및 과도한 애착  
+
+보호자님께서 전달해 주신 고민 내용들이에요.  
+어떤 주제에 대해 먼저 이야기해 보고 싶으세요?
+
+
+---
+> [2] User
+
+
+1번
+
+
+---
+> [3] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Fear-Based Reactivity and Aggression Towards Strangers
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+네, 그럼 낯선 사람에 대한 두려움 기반의 반응성과 공격성에 대해 먼저 이야기해 볼까요?  
+
+마론이가 낯선 사람, 특히 중년 남성에게 짖거나 달려드는 행동을 보였다고 하셨어요.  
+
+혹시 마론이가 물었던 사건에 대해 기억하는 한 가장 자세히 설명해 주실 수 있을까요?  
+마론이가 물기 직전에 그 사람은 무엇을 하고 있었고, 그 직후 보호자님과 그 사람은 어떻게 반응했는지 궁금해요.
+
+
+---
+> [4] User
+
+
+매장 내 울타리에 마론이가 오프리쉬로 있었고,
+물린 사람은 밖에서 매장을 보고 있었어요.
+
+울타리안에서 밖에 있는 남성을 보고 흥분하며 뛰었고 저는 물그릇에 물을 채우고 있었어요.
+
+마론이가 뛰다가 울타리에 틈이 생겼고 그 틈과 열린 문으로 그사람에게 달려갔어요.
+
+그사람은 마론이가 짖으며 달려오자 소리 지르며 발로 차려 했고, 마론이를 말리려 저는 뛰어가며 소리를 질렀어요.
+
+결국 마론이는 민첩하게 발을 피해 그 사람의 종아리를 물었고 문 직후 행동이 느려져 제가 잡고 혼을 냈어요.
+
+그사람은 상처를 보고 있었구요.
+
+
+---
+> [5] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Fear-Based Reactivity and Aggression Towards Strangers
+
+[back_process_rate]: 10%
+
+[back_user_emotion]: 1
+
+마론이가 흥분한 상태에서 울타리 틈으로 달려나가 물게 되었다니, 보호자님도 많이 놀라셨겠어요.  
+마론이에게 그 상황은 마치 "위험한 침입자가 나타났다!"는 비상벨처럼 느껴졌을 거예요.  
+
+마론이가 짖거나 달려들기 시작하기 전에, 낯선 사람을 발견했을 때 보이는 가장 미묘한 신호들이 있을까요?  
+예를 들어, 몸이 굳거나, 꼬리가 뻣뻣해지거나, 귀가 쫑긋 서는 등의 변화 말이에요.
+
+
+---
+> [6] User
+
+
+으르렁 거리다 짖어요
+
+
+---
+> [7] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Fear-Based Reactivity and Aggression Towards Strangers
+
+[back_process_rate]: 20%
+
+[back_user_emotion]: 2
+
+으르렁거리다가 짖는군요.  
+마론이에게는 으르렁거림이 "저리 가!"라는 첫 번째 경고이고, 짖음은 "더 이상 다가오지 마!"라는 강력한 신호였을 거예요.  
+
+마론이가 특히 매장에서 반응성이 높다고 하셨는데, 매장 환경은 어떤가요?  
+마론이는 주로 어디에 머무르고, 낯선 사람들이 마론이에게 얼마나 가까이 다가오나요?
+
+
+---
+> [8] User
+
+
+매장의 가장 안쪽에 머무르나 밖이 보이는 환경이예요.
+매장은 모두 통창이기 때문이예요.
+
+낯선사람들은 매장에 들어오면 살짝 놀라요.
+마론이를 보다 짖으니 멀리 떨어져 앉아 대기해요.
+
+
+---
+> [9] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Fear-Based Reactivity and Aggression Towards Strangers
+
+[back_process_rate]: 30%
+
+[back_user_emotion]: 2
+
+매장이 통창이라 마론이가 밖을 계속 볼 수 있고, 낯선 사람들이 다가오면 놀라서 멀리 떨어져 앉는군요.  
+마론이에게 매장은 마치 "모든 것이 보이는 감시탑"과 같았을 거예요.  
+
+혹시 마론이가 낯선 남성이 앉아 있을 때는 쓰다듬는 것을 허용하다가도, 그 사람이 멈추거나 일어서면 공격적으로 반응한다고 하셨는데, 남성이 앉아서 마론이를 쓰다듬을 때 마론이의 몸은 어떤 모습인가요?  
+몸이 편안하고 느슨한가요, 아니면 뻣뻣하게 굳어서 그 상황을 그저 참고 있는 것처럼 보이나요?
+
+
+---
+> [10] User
+
+
+약간은 뻣뻣하게 굳지만 곧 등을 보이기도 해요
+
+
+---
+> [11] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Fear-Based Reactivity and Aggression Towards Strangers
+
+[back_process_rate]: 40%
+
+[back_user_emotion]: 2
+
+몸이 뻣뻣하게 굳다가 등을 보인다는 것은, 마론이가 그 상황을 편안하게 받아들이기보다는 불안함을 참고 있다는 신호일 수 있어요.  
+마론이에게는 "등을 보인다"는 것이 "나는 지금 긴장하고 있지만, 공격할 의도는 없어"라고 말하는 방식일 수도 있고요.  
+
+마론이의 안전을 위해 바구니형 입마개 사용에 대해 어떻게 생각하시나요?  
+혹시 이전에 사용해 본 경험이 있으신가요?
+
+
+---
+> [12] User
+
+
+입마개를 사용해본적은 있지만 다 벗었어요…
+지금은 산책시 젠틀리더를 사용하고 있구요
+
+
+---
+> [13] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Fear-Based Reactivity and Aggression Towards Strangers
+
+[back_process_rate]: 50%
+
+[back_user_emotion]: 1
+
+입마개를 사용해 보셨지만 벗어버렸고, 지금은 산책 시 젠틀리더를 사용하고 계시는군요.  
+마론이가 입마개를 벗어버렸던 경험은 아마 불편함 때문이었을 거예요.  
+
+혹시 마론이의 피부 알레르기 관리는 잘 되고 있나요?  
+만성적인 불편함이 스트레스 역치를 낮춰 짜증을 더 잘 내게 할 수도 있거든요.
+
+
+---
+> [14] User
+
+
+사료를 알러지 사료로 바꿨어요
+
+
+---
+> [15] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Fear-Based Reactivity and Aggression Towards Strangers
+
+[back_process_rate]: 55%
+
+[back_user_emotion]: 2
+
+사료를 알레르기 사료로 바꾸셨군요.  
+그럼 마론이의 피부 불편함은 많이 줄어들었을 것 같네요.  
+
+마론이가 낯선 사람에게 보이는 반응성 때문에 보호자님께서 외출 시 느끼는 두려움이나 불안감은 어느 정도인가요?
+
+
+---
+> [16] User
+
+
+밖에 나갈때마다 개구부(문) 에서 부터 항시 긴장해요.
+낯선사람이 보이면 마론이 리드줄을 꼭 잡기도 하구요
+
+
+---
+> [17] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Fear-Based Reactivity and Aggression Towards Strangers
+
+[back_process_rate]: 60%
+
+[back_user_emotion]: 1
+
+밖에 나갈 때마다 문에서부터 긴장하고, 낯선 사람이 보이면 리드줄을 꼭 잡는군요.  
+마치 마론이가 "엄마, 저기 좀 봐! 위험해!"라고 외치는 것 같아서 보호자님도 매번 마음을 졸이실 것 같아요.  
+
+마론이에게는 현관문 밖 세상이 아직은 "미지의 영역"처럼 느껴질 수 있어요.  
+
+마론이가 낯선 사람에 대한 두려움을 줄이고, 보호자님도 외출 시 불안감을 덜 수 있도록, 이제부터는 마론이의 마음을 돌보는 시간을 가져볼까요?
+
+
+---
+> [18] User
+
+
+어떻게요..?
+
+
+---
+> [19] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind", '[phase3] Caregiving Solutions']
+
+[back_current_topic]: Fear-Based Reactivity and Aggression Towards Strangers
+
+[back_process_rate]: 65%
+
+[back_user_emotion]: 2
+
+마론이에게는 "낯선 사람"이라는 이름만 들어도 마음이 긴장할 수 있지만, 인생은 한 번에 달리기만 하는 것이 아니잖아요.  
+지금 우리는 ‘두려움의 산책’을 천천히 탐험할 거예요. 🐶  
+
+### 🐾 Step 1: 안전한 거리에서 관찰하기  
+
+> "작은 용기들이 모여 위대한 모험을 만든다"는 말, 들어보셨나요?  
+
+1. **안전한 거리 확보**: 마론이가 낯선 사람을 보고도 으르렁거리거나 짖지 않고, 그저 바라볼 수 있는 거리를 찾아주세요.  
+2. **긍정적인 연결**: 낯선 사람이 시야에 들어오면, 마론이에게 바로 "잘했어!"라고 칭찬하며 아주 맛있는 간식을 주세요.  
+3. **짧고 즐겁게**: 이 연습은 2~3분 정도로 짧게 여러 번 반복하는 것이 좋아요.  
+
+### 🎯 목표  
+
+- 낯선 사람이 나타나도 "좋은 일이 생긴다"는 긍정적인 연결을 만들어주는 것.  
+- 마론이가 낯선 사람을 보고도 흥분하지 않고 침착하게 반응하는 연습을 하는 것.  
+
+### 🔎 주의 사항  
+
+- 마론이가 긴장하거나 으르렁거리는 기색이 보이면 즉시 거리를 더 늘려주세요.  
+- 억지로 상황을 강요하지 말고, 마론이가 편안함을 느낄 때까지 충분히 반복 연습해주세요.  
+
+이 작지만 큰 여정, 시작해 보실 준비 되셨나요? ✨
+
+
+---
+> [20] User
+
+
+좋아요
+
+
+---
+> [21] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Fear-Based Reactivity and Aggression Towards Strangers
+
+[back_process_rate]: 65%
+
+[back_user_emotion]: 3
+
+좋아요! 마론이와 함께 새로운 "무지개 다리"를 건너는 첫걸음을 시작할 준비가 되셨군요. ✨
+
+이 연습을 하루에 몇 번 정도, 짧게라도 시도해 보는 것이 가능할까요? 그리고 마론이가 낯선 사람을 보고도 으르렁거리지 않고 침착하게 바라볼 수 있는 "안전한 거리"는 어느 정도라고 생각하시나요?
+
+
+---
+> [22] User
+
+
+15미터 이상…
+
+
+---
+> [23] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', '[phase3] Caregiving Solutions']
+
+[back_current_topic]: Fear-Based Reactivity and Aggression Towards Strangers
+
+[back_process_rate]: 70%
+
+[back_user_emotion]: 3
+
+15미터 이상이라면 마론이가 충분히 편안함을 느낄 수 있는 거리겠네요.  
+
+그럼 이제 마론이의 "안전지대"를 넓혀가는 다음 단계로 나아가 볼까요?  
+
+### 🐾 Step 2: "안전지대" 확장하기  
+
+> "작은 용기들이 모여 위대한 모험을 만든다"는 말, 들어보셨나요?  
+
+1. **거리 좁히기**: 마론이가 낯선 사람을 보고도 침착하게 간식을 받아먹는다면, 아주 조금씩(1~2미터) 거리를 좁혀가 보세요.  
+2. **긍정적 강화**: 낯선 사람이 시야에 들어올 때마다 마론이가 차분하게 반응하면 "잘했어!"라고 칭찬하며 간식을 계속 주세요.  
+3. **마론이의 신호 읽기**: 마론이가 긴장하거나 으르렁거리는 기색이 보이면 즉시 멈추고 다시 거리를 늘려주세요.  
+
+### 🎯 목표  
+
+- 마론이가 낯선 사람에게서 조금 더 가까워져도 "좋은 일"이 계속된다는 것을 배우는 것.  
+- 점진적으로 낯선 사람에 대한 두려움을 줄여나가는 것.  
+
+### 🔎 주의 사항  
+
+- 마론이가 불안해하면 절대 억지로 끌고 가지 마세요.  
+- 항상 마론이의 속도에 맞춰 진행하고, 성공적인 경험을 많이 만들어주는 것이 중요해요.  
+
+어떠신가요? 이 작지만 큰 여정, 계속해 보실 준비 되셨나요? ✨
+
+
+---
+> [24] User
+
+
+네
+
+
+---
+> [25] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', '[phase3] Caregiving Solutions']
+
+[back_current_topic]: Fear-Based Reactivity and Aggression Towards Strangers
+
+[back_process_rate]: 75%
+
+[back_user_emotion]: 3
+
+네, 좋습니다! 마론이와 함께 "안전지대"를 넓혀가는 여정을 계속할 준비가 되셨군요. ✨
+
+이 연습을 하루에 몇 번 정도 시도해볼 계획이신가요? 그리고 마론이가 낯선 사람에게서 조금 더 가까워져도 침착하게 반응하는 모습을 보인다면, 다음 단계로 넘어갈 준비가 되었다고 알려주세요.
+
+
+---
+> [26] User
+
+
+1번
+
+
+---
+> [27] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', '[phase3] Caregiving Solutions']
+
+[back_current_topic]: Fear-Based Reactivity and Aggression Towards Strangers
+
+[back_process_rate]: 80%
+
+[back_user_emotion]: 3
+
+네, 좋습니다! 마론이와 함께 "안전지대"를 넓혀가는 여정을 계속할 준비가 되셨군요. ✨
+
+이 연습을 하루에 몇 번 정도 시도해볼 계획이신가요? 그리고 마론이가 낯선 사람에게서 조금 더 가까워져도 침착하게 반응하는 모습을 보인다면, 다음 단계로 넘어갈 준비가 되었다고 알려주세요.
+
+
+---
+> [28] User
+
+
+설문조사 하고 싶어
+
+
+---
+> [29] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: Transition to Survey
+
+[back_process_rate]: 80%
+
+[back_user_emotion]: 2
+
+네, 마론이와의 "안전지대" 확장 훈련에 적극적으로 참여해 주셔서 정말 감사해요.  
+
+지금까지의 상담 내용에 대해 설문조사를 진행하고 싶으시군요. 물론이죠!  
+설문조사를 통해 보호자님의 소중한 의견을 들려주시면, 앞으로 더 나은 상담을 제공하는 데 큰 도움이 될 거예요.  
+
+설문조사를 시작하시겠어요?
+
+
+---
+> [30] User
+
+
+네
+
+
+---
+> [31] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: Transition to Survey
+
+[back_process_rate]: 80%
+
+[back_user_emotion]: 3
+
+네, 설문조사를 시작할게요!  
+
+잠시 후, 마론이와의 상담 경험에 대한 설문조사 링크가 제공될 거예요.  
+솔직한 의견을 남겨주시면 앞으로 더 나은 상담을 제공하는 데 큰 힘이 된답니다.  
+
+설문조사를 마치시면 다시 저 까미와 함께 마론이의 다음 고민을 이야기해 볼 수 있어요. ✨
+
+
+---
+> [32] User
+
+
+설문조사 링크 주세요
+
+
+---
+> [33] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: Transition to Survey
+
+[back_process_rate]: 80%
+
+[back_user_emotion]: 3
+
+네, 설문조사 링크를 드릴게요!  
+
+[설문조사 링크 삽입 예정]  
+
+링크를 통해 마론이와의 상담 경험에 대한 소중한 의견을 남겨주시면 정말 감사하겠습니다. ✨
+
+
+---
+> [34] User
+
+
+사전질문지를 다시 주세요
+
+
+---
+> [35] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: Counseling Guide Request
+
+[back_process_rate]: 80%
+
+[back_user_emotion]: 2
+
+네, 보호자님. 사전 질문지를 다시 드릴 수 있습니다.  
+
+하지만 사전 질문지는 마론이의 현재 상황과 보호자님의 고민을 제가 이해하기 위해 참고하는 자료라서, 보호자님께 직접 보여드리지는 않고 있어요.  
+
+대신, 혹시 사전 질문지에 대해 궁금한 점이 있으시거나, 마론이의 다른 행동 문제에 대해 이야기하고 싶으신 부분이 있다면 언제든지 말씀해주세요. 제가 아는 범위 내에서 자세히 설명해 드릴게요. ✨
+
+
+---
+> [36] User
+
+
+사전질문을 다시 입력하고 싶어
+
+
+---
+> [37] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: Counseling Guide Request
+
+[back_process_rate]: 80%
+
+[back_user_emotion]: 2
+
+보호자님, 사전 질문지는 제가 마론이의 상황을 더 깊이 이해하고 보호자님의 고민을 파악하기 위해 내부적으로 사용하는 자료예요. 그래서 보호자님께서 직접 다시 입력하실 수는 없답니다.  
+
+혹시 사전 질문지에 포함된 내용 중에서 마론이의 행동이나 보호자님의 상황에 대해 더 자세히 이야기하고 싶으신 부분이 있으신가요? 어떤 내용이든 편하게 말씀해주세요. 제가 마론이의 입장에서 함께 고민해 드릴게요. ✨
+
+
+---
+> [38] User
+
+
+마론이는 처음 산책 시에 산책이 불가할 정도로 낯선 사람을 보고 짖었어.
+
+방문 훈련을 통해 사람들이 보이면 타이밍 맞춰 간식을 줘서 이제는 덜 하긴 하는데 그걸 꾸준히 하면 될까?
+
+
+---
+> [39] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Fear-Based Reactivity and Aggression Towards Strangers
+
+[back_process_rate]: 80%
+
+[back_user_emotion]: 3
+
+마론이가 처음에는 산책이 어려울 정도로 낯선 사람에게 짖었는데, 방문 훈련을 통해 간식을 주면서 많이 나아졌다니 정말 대단하세요! ✨
+
+마론이와 보호자님의 꾸준한 노력이 빛을 발하고 있네요. 혹시 낯선 사람이 보일 때 어떤 타이밍에 간식을 주시는지 좀 더 자세히 알려주실 수 있을까요?
+
+
+---
+> [40] User
+
+
+낯선사람을 마론이가 볼 수 있을 것 같을때 줬어
+
+
+---
+> [41] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', '[phase3] Caregiving Solutions']
+
+[back_current_topic]: Fear-Based Reactivity and Aggression Towards Strangers
+
+[back_process_rate]: 85%
+
+[back_user_emotion]: 3
+
+마론이가 낯선 사람을 볼 수 있을 것 같을 때 간식을 주셨군요! 그 타이밍이 바로 마론이의 마음을 "두려움"에서 "기대감"으로 바꾸는 마법 같은 순간이랍니다. ✨
+
+그럼 이제 마론이의 긍정적인 경험을 더욱 단단하게 만들어 줄 다음 단계를 시작해 볼까요?
+
+### 🐾 Step 3: "보호자님은 나의 안전지대" 만들기
+
+> "함께 걷는 길은 언제나 꽃길이 된다"는 말처럼요. 🌸
+
+1.  **시선 집중 훈련**: 낯선 사람이 나타나기 전에 마론이의 이름을 부르거나 "이리 와" 같은 익숙한 신호로 보호자님께 시선을 집중하게 해주세요.
+2.  **칭찬과 보상**: 마론이가 보호자님께 시선을 맞추거나 다가오면 즉시 "잘했어!"라고 칭찬하며 간식을 주세요. 낯선 사람이 지나가는 동안에도 계속해서 간식을 주어 "보호자님과 함께 있으면 안전하고 좋은 일이 생긴다"는 것을 알려주세요.
+3.  **거리 유지**: 마론이가 아직 불안해한다면, 낯선 사람과의 거리를 충분히 유지하며 이 연습을 반복해주세요.
+
+### 🎯 목표
+
+-   마론이가 낯선 사람보다 보호자님에게 집중하고, 보호자님을 "안전하고 좋은 일이 생기는 근원"으로 인식하게 하는 것.
+-   낯선 사람에 대한 두려움을 보호자님과의 긍정적인 상호작용으로 덮어씌우는 것.
+
+### 🔎 주의 사항
+
+-   마론이가 낯선 사람에게 짖거나 달려들기 직전의 "임계점"을 넘지 않도록 항상 주의해주세요. 반응하기 전에 미리 간식을 주는 것이 중요해요.
+-   간식은 마론이가 가장 좋아하는, 작고 부드러운 것으로 준비해주세요.
+
+어떠신가요? 이 "안전지대" 만들기 연습, 시작해 보실 준비 되셨나요? ✨
+
+---
+#### **Token Usage**
+- 대화 비용: $0.09325320000000001
+- 입력 토큰: 272194.0
+- 출력 토큰: 4638.0
+---
+
+
+
+
+
+# [5] Feedback Response
+
+---
+### **Feedback**
+
+
+
+...................
+
+
+- **Q1) 사전 질문지의 내용이 어땠나요?**
+- A) 반려생활을 세심하게 살핀다는 느낌을 받았다.
+
+...................
+
+
+- **Q2) 불필요한 질문, 판단하기 어려운 질문, 민감한 질문이 있었다면 저희에게 알려주세요.**
+- A) 없다
+
+...................
+
+
+- **Q3) '사전 설문지'에 대해 전달하고 싶은 의견이 있다면 자유롭게 말씀해 주세요. (불편했던 점, 개선하면 좋을 점 등등 환영합니다)**
+- A) 없다
+
+...................
+
+
+- **Q4) 까미가 건네는 질문은 어땠나요?**
+- A) 연관 없는 맥락에서 무지개 다리 단어 사용, 같은 답변 반복
+
+...................
+
+
+- **Q5) 까미의 답변은 어땠나요?**
+- A) 나의 질문에 대해 원하는 답을 제공했다.
+
+...................
+
+
+- **Q6) 까미의 말투, 어조 스타일은 어떠했나요?**
+- A) 대화하는 데 불편함이 없었다.
+
+...................
+
+
+- **Q7) 까미가 주도하는 대화의 흐름은 어떠했나요?**
+- A) 기대와 달랐다.
+
+...................
+
+
+- **Q8) 까미가 제공하는 '양육 조언'은 어떠했나요?**
+- A) 실천하기에 용이하였다.
+- A) 왜 그러한 내용을 조언하는지 이해하기 어려웠다.
+- A) 주의 사항 안내가 부족했다.
+
+...................
+
+
+- **Q9) 까미가 불쾌하거나 부적절한 말을 했다면 저희에게 알려주세요.**
+- A) 무지개 다리 단어 사용 (전혀 맥락과 연관 없었음. 다른 의미로 씀)
+
+...................
+
+
+- **Q10) 까미와의 대화에 대해 전달하고 싶은 의견이 있다면 자유롭게 말씀해 주세요.
+(불편했던 점, 개선하면 좋을 점 등등 환영합니다)**
+- A) 앱 종료 후 로딩 시 이전 대화 순서 바뀜, 질문 했을 시 답변이 되고 있는건지 자동 스크롤 액션 없어 당황 및 불편.
+
+...................
+
+
+- **Q11) 까미에게 어떤 도움을 받고 싶으셨나요?**
+- A) 문제 행동(짖음, 배변실수, 분리불안 등)의 해결 방법이 필요했어요.
+- A) 반려동물의 심리 상태를 알고 싶었어요.
+- A) 반려견을 교육하는 방법을 얻고 싶었어요.
+- A) 반려견의 행동을 해석하고 싶었어요
+
+...................
+
+
+- **Q12) 까미가 원하는 도움을 잘 제공했다고 생각하시나요?**
+- A) 3
+
+...................
+
+
+- **Q13) 도움이 된 정도를 그렇게 평가한 이유를 알려주세요.**
+- A) 행동의 심리 이유를 좀 더 설명해 주었으면 좋았을텐데, 챗 지피티에게 물어보는 것 만큼의 대답만 해줬음.
+
+...................
+
+
+- **Q14) 이용하신 '까미 서비스'에 대한 전반적인 만족도를 평가해 주세요.**
+- A) 2
+
+...................
+
+
+- **Q15) 전반적인 만족도 점수를 그렇게 평정한 이유를 알려주세요.**
+- A) AI의 답변, 로딩 등의 문제로 사용성이 그리 좋지 않았음.
+
+...................
+
+
+- **Q16) 저희 까미를 친구, 지인 등 주변에 얼마나 추천하고 싶으신가요?**
+- A) 2
+
+...................
+
+
+- **Q17) 까미 서비스를 매월 11,900원에 이용할 수 있다면, 구독하실 의향이 있으실까요?**
+- A) 아직 돈을 받을 정도의 유용함 , 써야 할 이유는 없는 듯 하다. GPT이상의 전문적인 답변을 내놓을 수 있어야 할듯.
+
+...................
+
+
+- **Q18) 기타 불편했던 점, 개선 제안 사항, 하고 싶은 말 등이 있다면 자유롭게 적어주세요.**
+- A) 없다

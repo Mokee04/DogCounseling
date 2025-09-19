@@ -1,0 +1,1661 @@
+
+# [1] User Information
+- **User ID** : 45879
+- **Session ID** : 34
+- **Email** : baha0427@nate.com
+- **Username** : 복선영
+- **Nickname** : 영이솜이
+- **Phone** : 01092556367
+- **Feedback T/F?** : False
+
+
+
+# [2] Pre-Questionnaire
+### Dog Care Counseling Pre-Survey Details
+#### 0. Guardian Information
+    - Age : 33
+    - Gender : 여
+
+#### 1. Dog Information
+    - Name : 솜이
+    - Age : 0.5
+    - Weeks since adoption : 10 weeks old
+    - sex : 수컷 (neutered '예')
+    - breed : 꼬동 드 툴레아
+    - Relationship with user : 주양육자(먹이 급여, 산책, 기타 생활 대부분을 책임짐)
+    - Adoption method : 펫샵에서 입양
+    - Walking schedule : 2 times/week, 1 times/day, 30 minutes each
+#### 2. Living Environment
+    - Type of residence : 주거용 공간(아파트, 원룸, 단독주택 등)
+        • Number of rooms : 3
+        • Kept tethered outdoors? : 아니오
+    - Family composition :
+        • Number of human family members : 2
+        • Number of dogs : 1
+        • Number of non-dog pets : 1
+    - Financial situation :
+        • Average monthly pet care cost : 10 ten-thousand KRW
+#### 3. Lifestyle
+    - Daily time spent with human family members: 7 hours
+    - Weekday hours alone (without people): 10 hours
+    - Is there or will there be a child under age 3? : 예
+#### 4. Socialization Level
+    - Time spent with the mother dog: -1 weeks ('-1' = unknown, '-2' = still living with mother)
+    - Commands/signals the dog can perform: 앉아,기다려,터치(사람의 손에 코나 발을 가져다 대기)
+    - Commands/Cues the dog performs 'without treats': 앉아,기다려,터치(사람의 손에 코나 발을 가져다 대기)
+    - If the guardian refuses the dog’s request, does the dog escalate its behavior? : 전혀 그렇지 않다
+    - Does your dog play well with other dogs? : 다른 개와 가까이 접촉한 적이 없다
+    - Number of people the dog interacted with during its socialization period: 5~10명
+    - When you are busy, how does the dog get your attention? : 앞발로 가볍게 툭툭 건드린다,쳐다보거나 다가와 근처에 있는다
+#### 5. Health & Medical History
+    - Received treatment or medication in the past six months? : 없다
+#### 6. Threatening/Aggressive Behavior
+    - Has the dog ever shown threatening or aggressive behavior? : 없다
+    - Intensity when biting people or other animals: 없음
+#### 7. Boundaries & Anxiety
+    - Physical contact:
+        • Body areas or types of touch the dog refuses: 머리, 귀
+    - Alertness:
+        • Situations that make the dog especially wary or uncomfortable: 비닐소리
+        • Reaction when a stranger visits home: 흥분하며 다가가 반긴다
+        • Does the dog eagerly approach new environments or objects? : 전혀 그렇지 않다
+        • Behavior during veterinary exams (with vets or assistants): 해당 상황이 없었다,뻣뻣하게 서서 뚫어져라 본다
+    - Resource guarding:
+        • Situations in which the dog shows guarding behavior: 없다
+    - Separation anxiety:
+        • Reaction when you prepare to leave or leave the dog alone: 배변실수
+        • Does the dog follow you everywhere? : 매우 그렇다
+        • Excessive licking to the point of skin damage: 그렇다
+    - Impulsivity:
+        • Does the dog react immediately to stimulating or pleasurable stimuli? : 보통이다
+    - Excitability:
+        • Does the dog show excessive physical responses when excited (drooling, panting, urinating, etc.)? : 보통이다
+#### 8. Satisfaction with Dog Care
+    - Emotional benefit: Very High (93.8/100)
+    - Emotional burden: Very High (81.3/100)
+    - Overall satisfaction (benefit - burden): Moderate (56.3/100)
+---
+#### Counseling Needs
+    - Main concern/request:
+    > 강아지가 유치빠지기시작한후 식욕부진
+
+    - Expectations from counseling:
+    > 해결방법
+
+    - Additional reference information:
+    > 모르겠어요
+
+    - Hopes for the dog’s future:
+    > 밥잘먹고 건강하게 잘크자
+
+    - Counseling language:
+    > 한국어
+
+
+
+# [3] Counseling Guide
+## Dog Counseling Guide
+
+#### 1. Guardian & Dog Profiling
+
+> (1) Dog
+- **Basic information**: 솜이 (Somi), 6 months, Male (Neutered), Coton de Tulear
+- **Adoption method**: Adopted from a pet shop at 10 weeks old.
+- **Time since adoption**: Approximately 16 weeks (4 months).
+- **Lifestyle**: Spends about 10 hours alone on weekdays.
+- **Walking routine**: Significantly insufficient. Only twice a week for 30 minutes. This lack of physical activity and mental stimulation is a major concern for a puppy's development and well-being.
+- **Socialization**: Limited. Has had no close contact with other dogs. Interacted with 5-10 people during the socialization period. The critical window for socialization is closing, and the lack of experience with other dogs is a significant gap.
+- **Health history**: No specific treatments reported, but the primary counseling concern is a loss of appetite.
+- **Level of threatening/aggressive behavior**: None reported.
+- **Triggers and levels of alertness/anxiety**:
+    - Shows clear signs of anxiety and stress.
+    - **Triggers**: Plastic bag sounds, being left alone (or the guardian preparing to leave).
+    - **Anxious Behaviors**: Urinates when the guardian prepares to leave, follows the guardian everywhere ("Velcro dog" tendency), engages in excessive licking to the point of skin damage.
+    - **Hesitancy**: Uncomfortable with being touched on the head/ears and is not eager to approach new environments. This suggests a cautious and somewhat timid nature.
+- **Temperament and disposition**: Somi appears to be a gentle and human-oriented puppy who is showing significant signs of stress and anxiety. His friendliness towards visiting strangers is a positive trait, but it's overshadowed by behaviors indicative of separation anxiety (following, pre-departure urination, excessive licking) and general insecurity (hesitancy in new situations, sensitivity to sounds). This anxiety is likely exacerbated by his background (pet shop origin, likely early separation from mother) and current lifestyle (long hours alone, minimal walks/stimulation).
+- **Special notes**: The combination of a pet shop origin, extremely long hours alone for a puppy, and a severe lack of walks creates a high-risk environment for developing more severe behavioral issues, particularly separation anxiety.
+
+> (2) Guardian and Care Environment
+- **Guardian (applicant) information**: 33-year-old female, primary caregiver responsible for most aspects of care.
+- **Family composition**: Two adults, one dog (Somi), and one other non-dog pet. A child under 3 is expected in the future.
+- **Living space**: Apartment with 3 rooms, which is an adequate physical environment.
+- **Financial situation**: Average monthly pet care cost is 100,000 KRW.
+- **Guardian characteristics**: The guardian demonstrates a strong emotional bond and a clear desire for the dog's well-being ("Let's eat well and grow up healthy"). However, there appears to be a significant gap between her intentions and the current care practices (especially regarding walks and alone time). Her request for a simple "solution" suggests she may be feeling overwhelmed and looking for direct, actionable advice, possibly without a full understanding of the underlying behavioral causes.
+- **Special notes**: The impending arrival of a baby is a critical factor. The current issues (especially separation anxiety and lack of routine) will likely be severely amplified after the baby is born. Proactive management is essential to prevent future problems like jealousy or the dog being rehomed.
+
+> (3) Pet Care Satisfaction
+- **Emotional benefit**: Very High (93.8)
+- **Emotional burden**: Very High (81.3)
+- **Overall satisfaction**: Moderate (56.3)
+- **Interpretation**: These scores paint a picture of a guardian who loves her dog deeply but is also experiencing significant stress and difficulty. The high emotional benefit indicates a strong bond, but the equally high burden suggests that the challenges of puppy care are causing considerable strain. This is a crucial point for counseling; the goal is to reduce the guardian's burden by providing effective strategies, which will, in turn, improve the overall satisfaction and the human-animal bond.
+
+#### 2. Counseling Topics : Guardian’s Concerns and Root Causes
+> Make the following content the central topic of the conversation.
+
+- **Topic 1: Loss of appetite since teething began**
+    - **Situation description**: Somi, a 6-month-old puppy, has shown a decreased appetite since his baby teeth started falling out.
+    - **Guardian's Needs**: The guardian is seeking a direct "solution" to resolve the eating issue, indicating a need for practical, knowledge-based guidance.
+    - **Possible causes**:
+        - **Cause 1 (Primary/Medical)**: Discomfort from teething. This is the most common and likely reason. The puppy's gums are sore and inflamed, making it painful to chew hard kibble.
+        - **Cause 2 (Medical/Precautionary)**: Underlying health issues. While less likely, any persistent anorexia in a puppy should be evaluated by a veterinarian to rule out other illnesses.
+        - **Cause 3 (Behavioral/Contributing)**: Stress and anxiety. The high level of stress Somi experiences from long periods of isolation and under-stimulation can manifest physically, including a suppressed appetite.
+
+- **Topic 2: Signs of Separation Anxiety and Insufficient Stimulation (Expert-Identified)**
+    - **Situation description**: Somi is left alone for 10 hours daily, is walked only twice a week, urinates when the guardian prepares to leave, follows the guardian constantly, and licks himself excessively.
+    - **Guardian's Needs**: The guardian has not identified this as a primary problem, so the initial need is **awareness**. The counseling must help her connect these behaviors to the dog's emotional state and daily routine. Subsequently, the need becomes acquiring **caregiving knowledge** and a practical plan to **improve the dog's welfare**.
+    - **Possible causes**:
+        - **Cause 1: Chronic Stress from Unmet Needs**: A puppy's fundamental needs for physical exercise, mental enrichment, and social contact are not being met. This leads to profound boredom, frustration, and anxiety, which are channeled into the observed behaviors.
+        - **Cause 2: Developing Separation Anxiety**: The combination of a possible premature separation from his mother (pet shop origin) and the current routine (long isolation followed by intense contact) fosters hyper-attachment. The urination upon departure cues and constant following are classic signs. The excessive licking is a self-soothing (stereotypic) behavior to cope with anxiety.
+
+#### 3. Counseling Strategy
+
+- **(0) Language**: 한국어
+
+- **(1) Counseling Strategies**
+
+    - **Topic 1: Loss of appetite since teething began**
+        - **(1) Counseling Goals**
+            - To reassure the guardian that a temporary loss of appetite during teething is normal while also stressing the importance of monitoring.
+            - To provide the guardian with 2-3 simple, actionable methods to make food more appealing and easier to eat for Somi.
+            - To have the guardian agree to a veterinary consultation to rule out any other medical causes, establishing a "welfare-first" principle.
+        - **(2) Contextual Strategies**
+            - **Information Gathering & Validation**: Begin by validating the guardian's worry. "It's very natural to be concerned when your puppy, who is like family, suddenly stops eating. Let's figure this out together." Then, use the key questions from Section 4 to understand the specifics.
+            - **Caregiving Solutions (Phase 3)**: Offer simple, non-medical solutions. "Since his gums are likely very sore, chewing hard food can feel like us trying to eat nuts with a toothache. Let's try soaking his kibble in warm water or puppy-safe bone broth for 10-15 minutes to soften it. You could also try mixing in a spoonful of plain puppy wet food to entice him."
+            - **CBT for the Guardian**: Reframe the situation from a "problem" to a "developmental phase." "This isn't a sign that Somi is a picky eater; it's a temporary stage of his puppyhood. By helping him through it, you're strengthening your bond and teaching him you're there for him when he's uncomfortable."
+        - **(3) Cautions**
+            - **Crucially, do not give medical advice.** Firmly and clearly state that you are not a veterinarian and that the first and most important step is to consult a vet to ensure nothing else is wrong.
+            - Do not dismiss the concern. Acknowledge that while it's likely teething, it's always best to be safe.
+            - Advise the guardian that if the appetite loss is complete (refusing all food/water) or is accompanied by lethargy, vomiting, or diarrhea, a vet visit is an immediate necessity.
+
+    - **Topic 2: Signs of Separation Anxiety and Insufficient Stimulation**
+        - **(1) Counseling Goals**
+            - To gently guide the guardian to see the link between Somi's daily routine (10 hours alone, 2 walks/week) and his anxious behaviors (urination, following, licking).
+            - To collaboratively create a realistic, incremental plan to increase physical and mental stimulation.
+            - To help the guardian understand the importance of establishing a healthy, predictable routine now, especially in preparation for the new baby.
+        - **(2) Contextual Strategies**
+            - **Transitioning Topics (Phase 4)**: After providing solutions for the eating issue, pivot gently. "I'm glad we have a plan for his meals. As we think about his overall happiness and health, I noticed from the survey that he has a lot of quiet time to himself during the week. Sometimes behaviors like following you around or licking a lot can be a dog's way of saying 'I'm feeling a bit bored or anxious.' Could we talk a little about his daily routine?"
+            - **Psychodrama/Empathy Building**: Use role-reversal or guided imagery. "Let's imagine for a moment we are Somi. We've been sleeping and waiting all day in the same apartment. What's the one thing we're looking forward to more than anything? What does it feel like when our favorite person finally comes home?" This helps the guardian connect emotionally to the dog's experience of under-stimulation and isolation.
+            - **Caregiving Solutions (Phase 3)**: Focus on small, manageable changes to avoid overwhelming the guardian. Instead of saying "He needs two walks a day," suggest, "What if we tried adding just one extra 15-minute 'sniff walk' this week on a weekday evening? It's less about exercise and more about letting him explore the world with his nose, which is incredibly calming for a dog." Suggest simple enrichment like a frozen Kong or a snuffle mat to keep him occupied when alone.
+        - **(3) Cautions**
+            - **Avoid guilt and blame.** The guardian's emotional burden is already "Very High." Frame all suggestions as supportive, collaborative efforts to help both her and Somi. Use "we" language: "What can we do to make his alone time a little more interesting?"
+            - Acknowledge her busy schedule. If financially possible, gently inquire about options like a local dog walker or puppy daycare, even just once or twice a week, to break up the long days.
+            - Introduce the topic of the baby with care and foresight. "Building a predictable and enriching routine for Somi now will be a lifesaver for everyone's stress levels when the new baby arrives. A happy, fulfilled dog is much more likely to adapt well to such a big family change."
+            - Strongly recommend consultation with a certified professional dog trainer (CPDT-KA) or behavior consultant to work on the separation anxiety and baby preparation hands-on.
+
+#### 4. Key Questions for Further Clarification
+
+- **Topic 1: Loss of appetite since teething began**
+    - "Can you tell me exactly what you're feeding him now? And has he ever been a picky eater before this started?"
+    - "Is he refusing his kibble completely, or does he just eat less of it? Will he still eagerly take high-value treats, like chicken or cheese?"
+    - "Have you noticed him chewing on things more or less than usual? Have you found any baby teeth on the floor?"
+    - "Besides the appetite, have you noticed any other changes in his behavior, such as being more tired, having diarrhea, or whining?"
+    - "When you offer him food, what does he do? Does he sniff it and walk away, or does he seem to try to eat and then stop?"
+
+- **Topic 2: Signs of Separation Anxiety and Insufficient Stimulation**
+    - "Can you walk me through your morning routine? At what exact point during your preparations to leave does Somi start to show anxious behavior or urinate?"
+    - "You mentioned he licks himself excessively. Which part of his body does he focus on, and have you noticed if it happens more at certain times of the day?"
+    - "On the two days a week that you walk him, what is his energy and behavior like before, during, and after the walk?"
+    - "What does Somi do for the 7 hours you are home with him? How much of that time is spent actively playing or training with you versus him just following you around?"
+    - "What are your thoughts on trying to add a very short walk or a food puzzle toy to his daily routine? What feels most achievable for you right now?"
+
+
+
+# [4] Chat Record
+
+
+---
+> [1] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: Initial Message
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+안녕하세요, 사색을 좋아하는 비글이자 반려견 마음 통역사 까미예요. 🐶
+솜이의 속마음을 더 깊이 읽어 보고, 우리 보호자님과 함께 잔잔한 파도를 넘어 보려고 해요. 
+
+### 상담 안내
+보호자님의 반려생활 만족도 조사 결과를 보니, 솜이를 향한 깊은 사랑과 애정은 변함없지만, 동시에 육체적, 심리적으로 큰 부담을 느끼고 계신 것 같아 마음이 쓰여요. 
+하지만 걱정하지 말아요. 솜이의 마음을 이해하고 함께 성장하는 과정에서 보호자님의 부담도 한결 가벼워질 거예요. 
+이제 우리는 솜이라는 바다에 뛰어들어, 반려견을 천천히 이해해 나아갈 거예요. 
+
+### 대화를 시작해 볼게요.
+
+1. 이갈이 시작 후 식욕 부진
+2. 분리불안 징후와 부족한 자극
+
+보호자님께서 전달해 주신 고민 내용들이에요. 
+어떤 주제에 대해 먼저 이야기해 보고 싶으세요?
+
+
+---
+> [2] User
+
+
+1번
+
+
+---
+> [3] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+이갈이 시기에는 잇몸이 아파서 식욕이 줄어드는 경우가 많아요. 마치 우리가 이가 아플 때 딱딱한 음식을 피하는 것과 비슷하죠. 
+
+솜이가 지금 어떤 사료를 먹고 있는지, 그리고 이갈이 전에도 편식하는 경향이 있었는지 알려주시겠어요? 🐾
+
+
+---
+> [4] User
+
+
+지금은 퍼피용사료 물에 완전 불려서 주고 편식은안했었어요
+
+
+---
+> [5] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_process_rate]: 20%
+
+[back_user_emotion]: 2
+
+퍼피용 사료를 물에 불려주고 계시는군요. 솜이가 사료를 완전히 거부하는 건지, 아니면 양만 줄어서 먹는 건지 궁금해요. 혹시 간식처럼 좋아하는 음식은 여전히 잘 먹나요? 🐾
+
+
+---
+> [6] User
+
+
+간식처럼주는거는 그나마 먹는듯하고 양만좀 줄은거같아요
+
+
+---
+> [7] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_process_rate]: 40%
+
+[back_user_emotion]: 2
+
+간식은 그나마 먹고 양만 줄었다니 다행이네요. 혹시 솜이가 평소보다 무언가를 더 씹으려고 하거나, 아니면 반대로 씹는 행동 자체가 줄어들었나요? 혹시 빠진 유치를 발견한 적은 없으신가요? 🐾
+
+
+---
+> [8] User
+
+
+어금니쪽 유치가 많이빠졋는데 빠진만큼 이도 올라오고잇어
+
+
+---
+> [9] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_process_rate]: 60%
+
+[back_user_emotion]: 2
+
+어금니 유치가 빠지고 새 이가 올라오고 있다면, 잇몸이 아파서 식욕이 줄어들 수 있어요. 혹시 식욕 부진 외에 솜이가 평소보다 더 피곤해하거나, 설사를 하거나, 낑낑거리는 등 다른 행동 변화는 없었나요? 🐾
+
+
+---
+> [10] User
+
+
+잠을좀 많이자는거같아용 그치만 놀때는또 잘놀아요
+
+
+---
+> [11] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_process_rate]: 80%
+
+[back_user_emotion]: 2
+
+잠을 많이 자지만 놀 때는 잘 논다니, 솜이가 에너지를 조절하고 있는 것 같네요. 🐾
+
+혹시 솜이가 음식을 먹으려 할 때, 냄새를 맡고 그냥 돌아서는 건지, 아니면 먹으려고 시도하다가 멈추는 것처럼 보이는지 알려주시겠어요?
+
+
+---
+> [12] User
+
+
+두가지 행동다하는거같아요 냄새맡고 그냥 돌아서기도하고 아니면 한두입먹고 안먹기도해요
+
+
+---
+> [13] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind", '[phase3] Caregiving Solutions']
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_process_rate]: 100%
+
+[back_user_emotion]: 2
+
+냄새를 맡고 돌아서거나 한두 입 먹고 멈추는 건, 잇몸 통증 때문에 음식이 불편하게 느껴진다는 솜이의 신호일 수 있어요. 🐾
+
+“이건 맛있는 게 아니야!”가 아니라, “아파서 못 먹겠어요!”라고 말하는 것과 같죠. 
+
+이갈이 시기의 식욕 부진은 흔한 일이지만, 솜이의 건강을 위해 정확한 진단은 수의사에게 받는 것이 가장 중요해요. 
+
+이제 솜이가 좀 더 편안하게 식사할 수 있는 방법을 함께 찾아볼까요? ✨
+
+
+---
+> [14] User
+
+
+어떤방법이있나요?
+
+
+---
+> [15] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_process_rate]: 100%
+
+[back_user_emotion]: 2
+
+네, 솜이가 좀 더 편안하게 식사할 수 있도록 몇 가지 방법을 알려드릴게요. 🐾
+
+### 🐾 Step 1: 부드러운 식사 준비
+
+*   **사료 불리기**: 지금처럼 퍼피용 사료를 따뜻한 물이나 강아지용 육수에 10~15분 정도 불려 부드럽게 만들어 주세요. 
+*   **습식 사료 섞어주기**: 만약 솜이가 완전히 거부한다면, 퍼피용 습식 사료를 한두 스푼 섞어주면 식욕을 돋우는 데 도움이 될 수 있어요.
+
+### 🎯 목표
+
+*   잇몸 통증으로 인한 식사 불편함을 줄여 솜이가 사료에 대한 긍정적인 경험을 유지하도록 돕는 거예요.
+
+### 🔎 주의 사항
+
+*   **억지로 먹이지 않기**: 솜이가 먹지 않으려 한다면 억지로 먹이지 마세요. 음식에 대한 거부감을 키울 수 있어요.
+*   **수의사 상담**: 만약 식욕 부진이 24시간 이상 지속되거나, 구토, 설사, 무기력증 등 다른 증상이 동반된다면 반드시 수의사에게 진찰을 받아야 해요. 
+
+이 방법들이 솜이에게 도움이 될 것 같나요? ✨
+
+
+---
+> [16] User
+
+
+네! 그럼 그 강아지용 삼계탕을 불린사료랑 아주조금해서 주면 그나마먹는데 그렇게 줘도될까요?
+
+
+---
+> [17] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_process_rate]: 100%
+
+[back_user_emotion]: 3
+
+네, 강아지용 삼계탕을 불린 사료에 아주 조금 섞어주는 것은 좋은 방법이에요. 🐾
+
+삼계탕의 고소한 향이 솜이의 식욕을 돋우는 데 도움이 될 수 있답니다. 다만, 강아지용으로 나온 제품인지 꼭 확인하시고, 양은 아주 소량만 섞어주세요. 사람용 삼계탕은 염분이나 양념 때문에 솜이에게 좋지 않아요. 
+
+솜이가 잘 먹는다면, 다음 단계로 넘어가 볼까요? ✨
+
+
+---
+> [18] User
+
+
+네
+
+
+---
+> [19] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_process_rate]: 100%
+
+[back_user_emotion]: 3
+
+훌륭해요! 솜이가 강아지용 삼계탕을 섞어준 사료를 잘 먹고 있다니 정말 기뻐요. 🐾
+
+### 🐾 Step 2: 식사 환경 개선
+
+*   **조용하고 편안한 공간**: 솜이가 식사할 때 방해받지 않도록 조용하고 안정적인 공간을 마련해 주세요. 
+*   **식기 선택**: 이갈이 중에는 잇몸이 예민하니, 플라스틱보다는 스테인리스나 도자기처럼 위생적이고 안정적인 식기를 사용하는 것이 좋아요.
+
+### 🎯 목표
+
+*   솜이가 식사 시간을 긍정적이고 편안한 경험으로 인식하게 하여, 식욕 부진을 개선하는 데 도움을 주는 거예요.
+
+### 🔎 주의 사항
+
+*   **정해진 시간**: 일정한 시간에 식사를 제공하여 솜이에게 규칙적인 루틴을 만들어 주세요. 
+*   **식사 후 휴식**: 식사 후에는 바로 격렬한 활동보다는 편안하게 쉴 수 있도록 해주세요. 
+
+어떠신가요? 솜이의 식사 환경을 점검해 보실 준비 되셨나요? ✨
+
+
+---
+> [20] User
+
+
+강아지가ㅜ밥그릇에 잇는밥은 안먹고 숟가락으로 떠줘야 먹어요
+
+
+---
+> [21] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_process_rate]: 80%
+
+[back_user_emotion]: 2
+
+아하, 솜이가 밥그릇에 있는 밥은 안 먹고 숟가락으로 떠줘야 먹는군요. 🐾
+
+혹시 솜이가 밥그릇 자체에 대한 불편함이나 거부감을 보이는 것 같나요? 예를 들어, 밥그릇에 코를 대는 것을 꺼리거나, 밥그릇 근처에 가는 것을 주저하는 모습이 있나요?
+
+
+---
+> [22] User
+
+
+주저하는거같긴한데 바로옆에잇는 물그릇에잇는 물은 잘먹어요
+
+
+---
+> [23] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_process_rate]: 90%
+
+[back_user_emotion]: 2
+
+밥그릇은 주저하지만 물그릇은 잘 사용한다니, 흥미롭네요. 🐾
+
+혹시 솜이가 밥그릇에서 밥을 먹을 때, 잇몸이 밥그릇에 닿거나 불편해하는 모습이 있었나요? 아니면 밥그릇의 재질이나 깊이 때문에 불편함을 느끼는 것 같나요?
+
+
+---
+> [24] User
+
+
+원래 잘먹엇는데 이갈이하면서 잘안가는거같아요
+
+
+---
+> [25] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind", '[phase3] Caregiving Solutions']
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_process_rate]: 100%
+
+[back_user_emotion]: 2
+
+원래 잘 먹던 밥그릇을 이갈이 때문에 주저한다니, 솜이의 잇몸이 정말 예민해진 것 같아요. 🐾
+
+솜이에게 밥그릇은 마치 ‘아픈 이빨에 닿는 차가운 금속’처럼 느껴질 수 있답니다. 😥
+
+### 🐾 Step 3: 밥그릇 교체 또는 높이 조절
+
+*   **식기 재질 변경**: 현재 밥그릇이 스테인리스라면, 도자기나 유리 재질의 식기로 바꿔보는 것을 고려해 보세요. 
+*   **식기 높이 조절**: 밥그릇을 조금 높은 곳에 두어 솜이가 고개를 숙이지 않고 편안하게 먹을 수 있도록 해주세요. 
+*   **평평한 접시 사용**: 잠시 동안은 밥그릇 대신 평평한 접시에 사료를 주어 잇몸이 닿는 것을 최소화하는 것도 좋은 방법이에요.
+
+### 🎯 목표
+
+*   솜이가 밥그릇에 대한 불편함 없이 식사에 집중할 수 있도록 돕는 거예요.
+
+### 🔎 주의 사항
+
+*   **청결 유지**: 어떤 식기를 사용하든 항상 깨끗하게 관리하여 위생에 신경 써 주세요.
+*   **강요하지 않기**: 새로운 식기에 적응하는 데 시간이 필요할 수 있으니, 억지로 먹이려 하지 말고 솜이가 스스로 다가오도록 기다려 주세요.
+
+어떠신가요? 솜이의 식사 환경을 좀 더 편안하게 만들어 줄 수 있을까요? ✨
+
+
+---
+> [26] User
+
+
+급여환경은 어떻게해야 좋을까요
+
+
+---
+> [27] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_process_rate]: 100%
+
+[back_user_emotion]: 3
+
+급여 환경은 솜이에게 식사가 즐거운 시간이라는 것을 알려주는 중요한 요소예요. 🐾
+
+### 🐾 Step 4: 긍정적인 급여 환경 조성
+
+*   **조용하고 안정적인 공간**: 솜이가 식사할 때 방해받지 않도록 조용하고 안정적인 공간을 마련해 주세요. 가족 구성원이나 다른 반려동물이 식사 중에 솜이에게 다가가지 않도록 하는 것이 중요해요.
+*   **일정한 식사 시간**: 매일 비슷한 시간에 식사를 제공하여 솜이에게 규칙적인 루틴을 만들어 주세요. 예측 가능한 환경은 솜이의 불안감을 줄이고 식욕을 돋우는 데 도움이 된답니다.
+
+### 🎯 목표
+
+*   솜이가 식사 시간을 안전하고 즐거운 경험으로 인식하게 하여, 식욕 부진을 개선하고 음식에 대한 긍정적인 태도를 형성하는 거예요.
+
+### 🔎 주의 사항
+
+*   **식사 후 휴식**: 식사 후에는 바로 격렬한 활동보다는 편안하게 쉴 수 있도록 해주세요. 소화에 도움이 되고, 식사 시간이 더욱 긍정적으로 기억될 수 있어요.
+*   **잔여 사료 치우기**: 솜이가 15분 이내에 식사를 마치지 않으면, 남은 사료는 치워주세요. 이는 솜이가 식사 시간을 소중히 여기도록 돕는 방법이에요.
+
+어떠신가요? 솜이의 식사 환경을 좀 더 편안하고 예측 가능하게 만들어 줄 수 있을까요? ✨
+
+
+---
+> [28] User
+
+
+자꾸 배위를 뛰어넘어다녀요
+
+
+---
+> [29] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+솜이의 식사 문제에 대해 잘 이야기 나눴으니, 이제 다른 주제로 넘어가 볼까요? 🐾
+
+사전 질문지를 보니, 솜이가 보호자님 배 위를 뛰어넘는 행동 외에도 혼자 있는 시간이 길고, 산책도 부족하며, 보호자님이 외출 준비를 할 때 소변을 보거나 과도하게 몸을 핥는 등의 행동을 보인다고 하셨어요.
+
+이런 행동들은 솜이가 보호자님에게 '불안해요' 또는 '심심해요'라고 말하는 방식일 수 있답니다. 
+
+솜이의 이런 행동들에 대해 이야기해 볼까요?
+
+
+---
+> [30] User
+
+
+적정수면시간은 어떻게되나요?
+
+
+---
+> [31] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+강아지에게 적정 수면 시간은 나이와 활동량에 따라 달라져요. 🐾
+
+어린 강아지인 솜이의 경우, 하루에 18~20시간 정도 잠을 자는 것이 일반적이에요. 하지만 단순히 잠을 많이 자는 것과 불안해서 잠을 자는 것은 다르답니다.
+
+솜이가 배 위를 뛰어넘는 행동은 보호자님에게 관심을 요구하거나, 에너지를 발산하려는 시도일 수 있어요. 
+
+혹시 솜이가 배 위를 뛰어넘는 행동을 주로 언제, 어떤 상황에서 하는지 자세히 알려주시겠어요?
+
+
+---
+> [32] User
+
+
+먼가 장난감물면서 쉬고싶을때 내배위에서 쉬어요
+
+
+---
+> [33] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 10%
+
+[back_user_emotion]: 2
+
+장난감을 물고 쉬고 싶을 때 보호자님 배 위에서 쉰다니, 솜이가 보호자님을 정말 편안하고 안전한 존재로 여기는 것 같아요. 🐾
+
+하지만 동시에, 솜이가 스스로 안정감을 찾을 수 있는 '자기만의 공간'이 부족하다는 신호일 수도 있답니다.
+
+혹시 솜이가 혼자 쉬거나 잠을 자는 것을 선호하는 다른 장소는 없었나요?
+
+
+---
+> [34] User
+
+
+있습니다 저의 배위아니면 자기방석가서 그럴때가많아요
+
+
+---
+> [35] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind", '[phase3] Caregiving Solutions']
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 100%
+
+[back_user_emotion]: 2
+
+보호자님 배 위나 자기 방석에서 쉰다니, 솜이가 편안함을 느끼는 공간이 명확하네요. 🐾
+
+하지만 솜이가 보호자님 배 위에서 쉬는 행동은 때때로 '나만의 공간'이 부족하다는 신호일 수 있어요. 솜이에게는 편안하고 안전한 자신만의 '성역'이 필요하답니다. 
+
+### 🐾 Step 1: 솜이만의 안전한 공간 만들기
+
+*   **크레이트 또는 하우스 훈련**: 솜이가 편안하게 쉴 수 있는 크레이트나 하우스를 마련해 주세요. 이곳은 솜이에게 '안전하고 긍정적인 자기만의 공간'이 되어야 해요.
+*   **긍정적인 연관 만들기**: 크레이트나 하우스 안에 솜이가 좋아하는 장난감이나 담요, 간식을 넣어두어 긍정적인 경험을 쌓게 해주세요. 억지로 밀어 넣지 말고, 솜이가 스스로 들어가고 싶어 하도록 유도하는 것이 중요해요.
+
+### 🎯 목표
+
+*   솜이가 보호자님에게 과도하게 의존하지 않고도 스스로 안정감을 찾을 수 있는 자신만의 공간을 갖게 하는 거예요.
+
+### 🔎 주의 사항
+
+*   **강요하지 않기**: 크레이트나 하우스를 벌칙의 공간으로 사용하지 마세요. 솜이가 이곳을 싫어하게 될 수 있어요.
+*   **짧은 시간부터 시작**: 처음에는 문을 열어둔 채로 짧은 시간 동안만 머물게 하고, 점차 시간을 늘려나가세요.
+
+어떠신가요? 솜이에게 자신만의 아늑한 공간을 선물해 줄 준비 되셨나요? ✨
+
+
+---
+> [36] User
+
+
+주인이없을때 배변실수는 왜하는건가요
+
+
+---
+> [37] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+주인이 없을 때 배변 실수를 하는 것은 솜이가 혼자 있는 시간에 불안감을 느끼고 있다는 강력한 신호일 수 있어요. 🐾
+
+이런 행동은 단순히 '실수'라기보다는, 솜이가 '보호자님, 저 혼자 있으면 너무 불안해요!'라고 말하는 것과 같답니다.
+
+혹시 솜이가 보호자님이 외출 준비를 할 때, 어떤 행동을 보이는지 자세히 알려주시겠어요? 예를 들어, 낑낑거리거나, 따라다니거나, 안절부절못하는 모습이 있나요?
+
+
+---
+> [38] User
+
+
+따라다니다가 자기방석에 엎드려서 쉬어요
+
+
+---
+> [39] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 20%
+
+[back_user_emotion]: 2
+
+보호자님을 따라다니다가 자기 방석에 엎드려 쉰다니, 솜이가 외출 준비 과정에서 보호자님에게서 떨어지고 싶지 않은 마음과 동시에 스스로 안정을 찾으려는 노력을 하고 있는 것 같아요. 🐾
+
+이런 행동은 솜이가 보호자님이 떠날 것을 미리 알고 불안해하는 '분리불안'의 초기 징후일 수 있어요. 솜이에게는 보호자님의 움직임 하나하나가 마치 '이별 예고편'처럼 느껴질 수 있답니다. 
+
+혹시 보호자님이 외출 준비를 할 때, 솜이가 과도하게 몸을 핥거나, 특정 부위를 집중적으로 핥는 모습도 보이나요?
+
+
+---
+> [40] User
+
+
+그런건딱히없어요
+
+
+---
+> [41] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 30%
+
+[back_user_emotion]: 2
+
+다행히 과도하게 몸을 핥는 행동은 없군요. 🐾
+
+솜이가 보호자님 외출 준비에 불안감을 느끼는 것은, 솜이가 보호자님과의 유대감이 깊다는 증거이기도 해요. 하지만 이런 불안감이 쌓이면 솜이의 스트레스가 커질 수 있답니다.
+
+혹시 보호자님이 외출 준비를 시작하는 정확한 시점, 예를 들어 옷을 입거나 가방을 챙길 때, 솜이가 배변 실수를 하는 모습을 보셨나요?
+
+
+---
+> [42] User
+
+
+보지못했어요 나가고나서 한두시간뒤쯤 그런거같아요
+
+
+---
+> [43] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 40%
+
+[back_user_emotion]: 2
+
+보호자님이 나가고 한두 시간 뒤에 배변 실수를 한다면, 솜이가 혼자 있는 것에 대한 불안감을 느끼고 있을 가능성이 높아요. 🐾
+
+솜이에게는 보호자님이 없는 시간이 마치 '세상이 멈춘 듯한' 고독함으로 다가올 수 있답니다. 이런 불안감은 때때로 신체적인 반응, 즉 배변 실수로 나타나기도 해요.
+
+혹시 솜이가 혼자 있는 동안, 다른 불안 증상(예: 하울링, 물건 파괴, 현관문 긁기 등)을 보인 적은 없었나요?
+
+
+---
+> [44] User
+
+
+없어요
+
+
+---
+> [45] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind", '[phase3] Caregiving Solutions']
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 100%
+
+[back_user_emotion]: 2
+
+다른 불안 증상은 없다니 다행이에요. 🐾
+
+솜이가 보호자님 부재 시 배변 실수를 하는 것은, 혼자 있는 시간에 대한 불안감의 표현일 수 있어요. 솜이에게는 보호자님이 없는 시간이 마치 '세상이 멈춘 듯한' 고독함으로 다가올 수 있답니다. 
+
+이런 불안감을 줄여주기 위해, 솜이가 혼자 있는 시간을 긍정적으로 인식하도록 돕는 것이 중요해요. 
+
+### 🐾 Step 1: 외출 준비 신호 둔감화 훈련
+
+*   **외출 준비 행동 반복**: 외출할 때 하는 행동들(옷 입기, 가방 챙기기, 열쇠 흔들기 등)을 하루에도 여러 번 반복하되, 실제로 외출하지는 마세요. 솜이가 이런 행동들이 항상 외출로 이어지지 않는다는 것을 배우게 하는 거예요.
+*   **짧은 시간 외출 연습**: 현관문 밖으로 잠시 나갔다가 바로 들어오는 연습을 반복해 주세요. 처음에는 10초, 20초 등으로 짧게 시작하여 점차 시간을 늘려나가세요.
+
+### 🎯 목표
+
+*   솜이가 보호자님의 외출 준비 신호에 불안해하지 않고, 보호자님이 잠시 나갔다가도 다시 돌아온다는 것을 믿게 하는 거예요.
+
+### 🔎 주의 사항
+
+*   **칭찬과 보상**: 솜이가 외출 준비 행동에 침착하게 반응하거나 짧은 시간 혼자 잘 있을 때, 아낌없이 칭찬하고 간식으로 보상해 주세요.
+*   **무시하기**: 솜이가 불안해하며 낑낑거리거나 따라다닐 때는 무시하고, 침착해졌을 때만 반응해 주세요. 
+
+어떠신가요? 솜이와 함께 '외출 연습'을 시작해 볼 준비 되셨나요? ✨
+
+
+---
+> [46] User
+
+
+항상같은시간에가서 같은시간에 퇴근하고오는데도 그럴수잇나요?
+
+
+---
+> [47] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 50%
+
+[back_user_emotion]: 2
+
+네, 항상 같은 시간에 외출하고 퇴근하더라도 솜이가 불안감을 느낄 수 있어요. 🐾
+
+솜이에게는 보호자님이 외출하는 그 자체가 '이별'로 느껴질 수 있거든요. 마치 매일 같은 시간에 친구가 떠나더라도 아쉬운 마음이 드는 것과 비슷하답니다.
+
+혹시 솜이가 보호자님 외출 후에 혼자 있는 동안, 어떤 종류의 장난감이나 노즈워크 활동을 즐기나요?
+
+
+---
+> [48] User
+
+
+노즈워크를 즐기긴하는데 너무빨리끝내서 오래가지고놀지못해요
+
+
+---
+> [49] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 60%
+
+[back_user_emotion]: 2
+
+노즈워크를 즐기지만 너무 빨리 끝낸다니, 솜이가 똑똑하고 활동적이라는 증거이기도 해요. 🐾
+
+하지만 혼자 있는 시간이 길고 자극이 부족하면, 솜이는 에너지를 해소할 방법을 찾다가 불안 행동으로 이어질 수 있답니다.
+
+혹시 솜이가 혼자 있는 동안, 보호자님이 없는 공간에서 주로 무엇을 하며 시간을 보내는지 알고 계신가요?
+
+
+---
+> [50] User
+
+
+티비도 틀어놓고나온답니다
+
+
+---
+> [51] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 70%
+
+[back_user_emotion]: 2
+
+TV를 틀어놓고 나오시는군요. 🐾
+
+TV 소리가 솜이에게는 마치 '사람이 있는 것 같은' 착각을 주어 일시적인 안정감을 줄 수도 있지만, 근본적인 외로움이나 불안감을 해소해주지는 못할 수 있어요.
+
+혹시 솜이가 혼자 있을 때, 보호자님이 없는 공간에서 주로 어디에 머무르는지, 그리고 어떤 행동을 하는지 알고 계신가요?
+
+
+---
+> [52] User
+
+
+자기방석에서쉬어요
+
+
+---
+> [53] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind", '[phase3] Caregiving Solutions']
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 100%
+
+[back_user_emotion]: 2
+
+자기 방석에서 쉰다니, 솜이가 그곳을 편안하게 느끼는 것 같아 다행이에요. 🐾
+
+하지만 혼자 있는 시간이 길고, 그 시간을 오롯이 잠으로만 채우는 것은 솜이의 에너지를 충분히 해소해주지 못할 수 있어요. 솜이에게는 잠자는 시간 외에도 스스로 즐거움을 찾을 수 있는 '놀이 시간'이 필요하답니다.
+
+### 🐾 Step 2: 혼자 있는 시간 즐겁게 보내기
+
+*   **오래 가지고 놀 수 있는 장난감**: 솜이가 혼자 있을 때도 오랫동안 가지고 놀 수 있는 콩(Kong) 장난감이나 노즈워크 담요에 사료나 간식을 넣어주세요. 솜이가 스스로 탐색하고 문제를 해결하며 시간을 보낼 수 있게 해주는 거예요.
+*   **숨바꼭질 놀이**: 보호자님이 외출하기 전, 집안 곳곳에 간식을 숨겨두어 솜이가 찾아 먹게 해주세요. 이는 솜이의 후각을 자극하고, 보호자님이 없는 시간을 '보물찾기 시간'으로 인식하게 도울 수 있답니다.
+
+### 🎯 목표
+
+*   솜이가 혼자 있는 시간을 불안감 없이 긍정적이고 즐거운 경험으로 인식하게 하여, 분리불안 증상을 완화하는 거예요.
+
+### 🔎 주의 사항
+
+*   **안전한 장난감 선택**: 솜이가 삼킬 위험이 없는 안전한 장난감을 선택하고, 처음에는 보호자님이 지켜보는 앞에서 사용법을 알려주세요.
+*   **과도한 간식 피하기**: 간식의 양을 조절하여 솜이가 과체중이 되지 않도록 주의해 주세요.
+
+어떠신가요? 솜이의 혼자 있는 시간을 좀 더 즐겁게 만들어 줄 준비 되셨나요? ✨
+
+
+---
+> [54] User
+
+
+집에없을때 소변실수하는게아니고 .. 강아지랑 분리수면하는데 일어나서보니 쉬햇네여
+
+
+---
+> [55] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 80%
+
+[back_user_emotion]: 2
+
+아하, 보호자님이 집에 없을 때가 아니라, 분리 수면 중에 새벽에 소변 실수를 하는 것이었군요. 🐾
+
+이것은 솜이가 밤에 혼자 있는 것에 대한 불안감을 느끼거나, 아직 밤새 소변을 참는 훈련이 부족하다는 신호일 수 있어요.
+
+혹시 솜이가 잠들기 전에 충분히 배변 활동을 했는지, 그리고 잠자는 공간이 너무 넓거나 불안감을 느끼게 하는 요소는 없는지 알려주시겠어요?
+
+
+---
+> [56] User
+
+
+거실쇼파옆 방석이 솜이자는공간인디
+
+
+---
+> [57] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 90%
+
+[back_user_emotion]: 2
+
+거실 소파 옆 방석에서 잠을 자는군요. 🐾
+
+솜이가 잠자는 공간은 보호자님과 분리되어 있지만, 거실이라는 열린 공간이라 솜이가 밤새 불안감을 느낄 수도 있어요. 마치 혼자 넓은 방에 누워있는 듯한 기분이 들 수도 있답니다.
+
+혹시 솜이가 잠들기 전에 충분히 배변 활동을 했음에도 불구하고 실수를 하는 건가요, 아니면 밤사이 배변 욕구를 참기 어려워하는 것 같나요?
+
+
+---
+> [58] User
+
+
+배변활동하고 자요
+
+
+---
+> [59] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind", '[phase3] Caregiving Solutions']
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 100%
+
+[back_user_emotion]: 2
+
+잠들기 전에 충분히 배변 활동을 하고 잔다니, 솜이가 참 대견하네요. 🐾
+
+하지만 밤사이 소변 실수를 하는 것은 솜이가 잠자는 동안에도 불안감을 느끼거나, 아직 밤새 배변을 참는 근육이 충분히 발달하지 않았을 수 있다는 신호예요. 솜이에게는 밤이 마치 '보호자님과 멀리 떨어지는 시간'처럼 느껴질 수 있답니다.
+
+### 🐾 Step 3: 밤사이 안정감 주기 및 배변 훈련
+
+*   **잠자는 공간 조절**: 솜이가 잠자는 방석 주변에 아기 울타리(베이비 게이트)를 설치하여 솜이만의 아늑하고 제한된 공간을 만들어 주세요. 너무 넓은 공간은 어린 강아지에게 불안감을 줄 수 있어요.
+*   **잠들기 전 마지막 배변**: 잠자리에 들기 직전에 솜이를 데리고 나가 마지막 배변을 시도해 주세요. 성공하면 아낌없이 칭찬하고 보상하여 긍정적인 경험을 만들어 주세요.
+*   **밤중 배변 신호 확인**: 밤에 솜이가 낑낑거리거나 안절부절못하는 등 배변 신호를 보이면, 즉시 조용히 배변 패드나 지정된 장소로 데려가 배변을 유도해 주세요.
+
+### 🎯 목표
+
+*   솜이가 밤에도 안정감을 느끼고, 밤새 배변을 참는 능력을 점진적으로 키워 배변 실수를 줄이는 거예요.
+
+### 🔎 주의 사항
+
+*   **혼내지 않기**: 밤에 배변 실수를 하더라도 절대 혼내지 마세요. 혼내면 솜이는 불안감만 커지고, 보호자님 몰래 배변을 하거나 먹어버리는 행동으로 이어질 수 있어요.
+*   **청결 유지**: 실수를 한 곳은 깨끗하게 치워 냄새를 완전히 제거해야 솜이가 같은 곳에 다시 실수하지 않아요.
+
+어떠신가요? 솜이의 밤을 좀 더 편안하게 만들어 줄 준비 되셨나요? ✨
+
+
+---
+> [60] User
+
+
+소변실수를 안그러다가 그러는데
+
+
+---
+> [61] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 90%
+
+[back_user_emotion]: 2
+
+소변 실수를 안 하다가 갑자기 시작했다니, 솜이에게 어떤 변화가 있었는지 궁금하네요. 🐾
+
+혹시 최근에 솜이의 생활 환경에 변화가 있었나요? 예를 들어, 보호자님의 퇴근 시간이 바뀌었거나, 집에 새로운 물건이 들어왔거나, 낯선 사람이 방문하는 등의 변화가 있었을까요?
+
+
+---
+> [62] User
+
+
+신랑이 솜이데리고놀다가 높은곳에서 떨어트린다음날부터 실수하는거같은데ㅠㅜ
+
+
+---
+> [63] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 95%
+
+[back_user_emotion]: 0
+
+아이고, 신랑분께서 솜이를 높은 곳에서 떨어뜨린 다음 날부터 소변 실수를 시작했다니, 솜이가 많이 놀랐을 것 같아요. 🐾
+
+솜이에게는 그 사건이 마치 '예측할 수 없는 위험'으로 다가왔을 수 있답니다. 그 충격과 불안감이 밤사이 소변 실수로 나타나는 것일 수 있어요. 솜이는 지금 '내가 안전하지 않다'고 느끼고 있을지도 몰라요. 
+
+혹시 솜이가 그 사건 이후로 높은 곳이나 특정 장소에 대해 두려움을 보이거나, 신랑분에게 다가가는 것을 주저하는 모습이 있었나요?
+
+
+---
+> [64] User
+
+
+주저해요
+
+
+---
+> [65] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind", '[phase3] Caregiving Solutions']
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 100%
+
+[back_user_emotion]: 0
+
+신랑분에게 주저하는 모습을 보인다니, 솜이가 그 사건으로 인해 심리적인 충격을 받은 것 같아요. 🐾
+
+솜이에게는 그 순간이 마치 '세상이 무너지는 듯한' 두려움으로 다가왔을 수 있답니다. 이런 불안감과 두려움이 밤사이 소변 실수로 나타나는 것일 수 있어요. 솜이는 지금 '내가 안전하지 않다'고 느끼고 있을지도 몰라요. 
+
+이런 경우, 솜이의 불안감을 해소하고 신뢰를 회복하는 것이 중요해요. 
+
+### 🐾 Step 4: 신뢰 회복 및 긍정적 관계 형성
+
+*   **안전한 공간 제공**: 솜이가 가장 편안하게 느끼는 공간(방석이나 하우스)을 더욱 안전하고 아늑하게 만들어 주세요. 이곳에서 솜이가 위협받지 않는다는 것을 느끼게 하는 것이 중요해요.
+*   **긍정적인 상호작용**: 신랑분께서는 솜이에게 강요하지 않고, 솜이가 먼저 다가올 때까지 기다려주세요. 솜이가 다가오면 부드러운 목소리로 칭찬하고, 간식을 주거나 좋아하는 장난감으로 놀아주는 등 긍정적인 경험을 많이 만들어 주세요.
+*   **트라우마 둔감화**: 만약 솜이가 높은 곳이나 특정 장소에 대한 두려움을 보인다면, 그 장소에서 긍정적인 경험(간식 주기, 놀아주기)을 반복하여 두려움을 둔감화시키는 훈련을 시작해야 해요.
+
+### 🎯 목표
+
+*   솜이가 안전하다고 느끼고, 신랑분과의 신뢰 관계를 회복하여 불안감으로 인한 소변 실수를 줄이는 거예요.
+
+### 🔎 주의 사항
+
+*   **절대 혼내지 않기**: 솜이가 소변 실수를 하더라도 절대 혼내지 마세요. 혼내면 불안감만 커지고 문제는 더 심해질 수 있어요.
+*   **인내심**: 솜이의 트라우마는 시간이 필요해요. 꾸준하고 인내심을 가지고 긍정적인 상호작용을 해주세요.
+*   **전문가 상담**: 만약 솜이의 불안 증상이 심하거나 개선되지 않는다면, 동물 행동 전문가나 수의사와의 상담을 통해 정확한 진단과 전문적인 도움을 받는 것이 중요해요. 
+
+어떠신가요? 솜이의 마음의 상처를 보듬어 줄 준비 되셨나요? ✨
+
+
+---
+> [66] User
+
+
+솜이가 아침안먹고갓을때 주인이잠시 외출할경우 노즈워크간식넣어놓고가도될까요
+
+
+---
+> [67] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 100%
+
+[back_user_emotion]: 3
+
+네, 솜이가 아침을 먹지 않았더라도 잠시 외출할 경우 노즈워크 간식을 넣어두고 가는 것은 아주 좋은 방법이에요. 🐾
+
+솜이에게는 보호자님이 없는 시간이 '불안하고 심심한 시간'이 아니라, '맛있는 보물을 찾는 즐거운 시간'으로 인식될 수 있답니다. 이렇게 긍정적인 경험을 만들어주는 것이 분리불안 완화에 큰 도움이 돼요.
+
+### 🐾 Step 5: 외출 시 긍정적인 연상 만들기
+
+*   **노즈워크 간식 제공**: 보호자님이 외출하기 직전에 솜이가 가장 좋아하는 노즈워크 장난감이나 담요에 맛있는 간식을 숨겨주세요. 솜이가 간식을 찾는 데 집중하는 동안 보호자님이 자연스럽게 외출할 수 있어요.
+*   **오래 지속되는 간식**: 씹는 데 시간이 오래 걸리는 개껌이나 얼린 콩(Kong) 장난감을 제공하는 것도 좋아요. 솜이가 혼자 있는 시간을 지루하지 않게 보낼 수 있도록 돕는답니다.
+
+### 🎯 목표
+
+*   솜이가 보호자님의 외출을 '즐거운 간식 시간'과 연관 지어, 혼자 있는 것에 대한 불안감을 줄이고 긍정적인 감정을 느끼게 하는 거예요.
+
+### 🔎 주의 사항
+
+*   **안전 확인**: 솜이가 혼자 있을 때 안전하게 가지고 놀 수 있는 간식과 장난감을 선택하는 것이 중요해요. 혹시 모를 사고에 대비해 삼킬 위험이 있는 작은 조각들은 피해주세요.
+*   **양 조절**: 아침 식사를 거른 상태이므로, 노즈워크 간식의 양을 적절히 조절하여 솜이가 과식하지 않도록 주의해 주세요.
+
+어떠신가요? 솜이의 외출 시간을 좀 더 즐겁게 만들어 줄 준비 되셨나요? ✨
+
+[back_thinking_solution]: 1. **Solution needed:** The guardian is asking if it's okay to leave a nose work treat for Somi when she goes out, especially since Somi skipped breakfast. This indicates a need for practical advice on managing alone time and potentially addressing the skipped meal.
+2. **Constraints/Personalized methods:**
+    *   **Skipped breakfast:** Acknowledge this, but reinforce that nose work can still be beneficial. Emphasize portion control to avoid overfeeding.
+    *   **Separation anxiety context:** Frame the nose work as a positive association with departure, which directly addresses the underlying anxiety.
+    *   **Guardian's intent:** The guardian is actively seeking solutions, so provide clear, actionable steps.
+    *   **Safety:** Highlight the importance of safe, long-lasting treats/toys, especially since the dog will be unsupervised.
+3. **Alternatives:**
+    *   Instead of just nose work, suggest other long-lasting enrichment like a frozen Kong or chew toys.
+    *   Briefly mention the importance of physical exercise before departure, though the immediate question is about food.
+
+
+---
+> [68] User
+
+
+안먹은밥으로 노즈워크해줘도될까요?
+
+
+---
+> [69] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_process_rate]: 100%
+
+[back_user_emotion]: 3
+
+네, 솜이가 먹지 않은 사료를 노즈워크에 활용하는 것은 아주 좋은 생각이에요! 🐾
+
+버려지는 사료도 줄이고, 솜이의 식욕을 돋우는 데도 도움이 될 수 있답니다. 솜이에게는 '먹지 않은 밥'이 아니라 '찾아 먹는 재미있는 간식'으로 느껴질 거예요.
+
+### 🐾 Step 6: 사료 활용 노즈워크
+
+*   **사료 숨기기**: 솜이가 먹지 않은 사료를 노즈워크 담요나 장난감, 혹은 집안 곳곳에 숨겨두어 솜이가 스스로 찾아 먹게 해주세요. 사료를 불려서 사용하면 솜이가 먹기 더 편할 거예요.
+*   **긍정적인 연상**: 솜이가 사료를 찾아서 먹을 때마다 칭찬해 주고, 긍정적인 분위기를 만들어 주세요. 이는 솜이에게 식사 시간을 즐거운 놀이로 인식하게 할 수 있어요.
+
+### 🎯 목표
+
+*   솜이가 사료에 대한 흥미를 되찾고, 혼자 있는 시간을 긍정적으로 활용하여 불안감을 줄이는 거예요.
+
+### 🔎 주의 사항
+
+*   **위생 관리**: 노즈워크에 사용한 사료는 위생적으로 관리하고, 남은 사료는 바로 치워주세요.
+*   **양 조절**: 솜이가 하루에 필요한 총 사료량을 넘지 않도록 노즈워크에 사용하는 사료의 양을 조절해 주세요.
+
+어떠신가요? 솜이와 함께 '사료 보물찾기'를 시작해 볼 준비 되셨나요? ✨
+
+[back_thinking_solution]: 1. **Solution needed:** The guardian is asking if she can use the uneaten kibble for nose work. This is a practical question that combines the previous topics of appetite loss and enrichment for alone time.
+2. **Constraints/Personalized methods:**
+    *   **Appetite loss:** Reiterate that using the uneaten kibble for nose work can make it more appealing and engaging, turning a negative (refusal) into a positive (play).
+    *   **Enrichment for alone time:** Reinforce that this activity provides mental stimulation, which is crucial for Somi's high anxiety and long alone hours.
+    *   **Guardian's proactivity:** Acknowledge and encourage the guardian's initiative to find practical solutions.
+    *   **Safety/Hygiene:** Remind about hygiene (cleaning up) and portion control.
+3. **Alternatives:**
+    *   No direct alternatives needed here, as the guardian's idea is already excellent. The focus should be on reinforcing and guiding its implementation.
+
+
+---
+> [70] User
+
+
+강아지 밥양을 잘주고잇는지 궁금해ㅠ
+
+
+---
+> [71] Model
+
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_user_emotion]: 2
+
+[back_process_rate]: 0%
+
+솜이의 밥 양에 대해 궁금하시군요. 🐾
+
+강아지의 적절한 사료 양은 나이, 활동량, 품종, 그리고 사료의 종류에 따라 달라질 수 있어요. 솜이의 경우 이갈이 중이라 식욕이 줄었을 수도 있고요.
+
+지금 솜이에게 주고 계신 사료의 종류와 하루에 몇 그램 정도를 몇 번에 나눠서 주시는지 알려주시겠어요?
+
+
+---
+> [72] User
+
+
+닥터독 퍼피사료이고 하루에 밥숟가락 3숟가락씩 3번나눠주고잇어
+
+
+---
+> [73] Model
+
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_user_emotion]: 2
+
+[back_process_rate]: 20%
+
+닥터독 퍼피 사료를 하루 세 번, 밥숟가락으로 세 숟가락씩 주고 계시는군요. 🐾
+
+솜이의 나이와 체중을 고려했을 때, 이 양이 적절한지 판단하기 위해 솜이의 현재 체중이 어느 정도 되는지 알려주시겠어요?
+
+
+---
+> [74] User
+
+
+지금 4.8키로인거같아
+
+
+---
+> [75] Model
+
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_user_emotion]: 2
+
+[back_process_rate]: 40%
+
+솜이가 4.8kg이군요. 🐾
+
+강아지의 사료 급여량은 사료 제품마다 권장량이 조금씩 다를 수 있어요. 혹시 닥터독 퍼피 사료 봉투에 적힌 솜이의 체중(4.8kg)에 맞는 일일 권장 급여량이 어느 정도인지 확인해 주실 수 있을까요?
+
+
+---
+> [76] User
+
+
+4키로이상 5키로 이하 4~12개월 89g~102g이래
+
+
+---
+> [77] Model
+
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind", '[phase3] Caregiving Solutions']
+
+[back_user_emotion]: 2
+
+[back_process_rate]: 100%
+
+솜이가 4.8kg이고, 권장 급여량이 89g~102g이군요. 🐾
+
+밥숟가락 3숟가락씩 하루 세 번이라면, 솜이가 필요한 양보다 훨씬 적게 먹고 있을 가능성이 높아요. 솜이에게는 마치 '배고픈데 맛있는 냄새만 맡는' 것 같은 기분이 들 수 있답니다. 😥
+
+### 🐾 Step 7: 적정 사료량 급여 및 점진적 증량
+
+*   **정확한 급여량 측정**: 밥숟가락 대신 저울을 사용하여 사료의 정확한 무게(89g~102g 사이)를 측정해 주세요. 이 양을 하루 3~4회에 나누어 급여하는 것이 좋아요.
+*   **점진적 증량**: 솜이가 이갈이로 인해 식욕이 줄어든 상태이므로, 처음부터 권장량을 다 주기보다는 조금씩 양을 늘려가며 솜이의 반응을 살펴보는 것이 중요해요. 
+
+### 🎯 목표
+
+*   솜이가 필요한 영양분을 충분히 섭취하고, 건강하게 성장할 수 있도록 적절한 사료량을 급여하는 거예요.
+
+### 🔎 주의 사항
+
+*   **식욕 관찰**: 솜이가 사료를 잘 먹는지, 남기는지 등을 꾸준히 관찰하여 급여량을 조절해 주세요.
+*   **수의사 상담**: 만약 권장량을 급여해도 솜이의 체중이 늘지 않거나, 여전히 식욕 부진이 심하다면 수의사와 상담하여 영양 상태를 점검하는 것이 필요해요. 
+
+어떠신가요? 솜이의 밥 양을 정확하게 측정하여 급여해 줄 준비 되셨나요? ✨
+
+
+---
+> [78] User
+
+
+그럼 권장급여량이 89g~ 102g이말이 한번줄때 102씩줘야한다는거야?
+
+
+---
+> [79] Model
+
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_user_emotion]: 2
+
+[back_process_rate]: 50%
+
+아니요, 보호자님. 89g~102g은 솜이가 **하루 동안** 먹어야 할 총 사료량이에요. 🐾
+
+이 양을 하루에 몇 번 나눠서 줄지는 보호자님의 생활 방식과 솜이의 식사 습관에 따라 조절할 수 있답니다. 
+
+지금처럼 하루 세 번에 나눠서 주신다면, 89g~102g을 세 번으로 나누어 급여하는 것이 솜이에게 적절할 거예요. 예를 들어, 하루 총 90g을 준다면 한 번에 30g씩 주면 되겠죠? ✨
+
+
+---
+> [80] User
+
+
+고마워~ 그럼 우리솜이는 100÷3 하면되는거네?
+
+
+---
+> [81] Model
+
+
+[back_current_topic]: Loss of appetite since teething began
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_user_emotion]: 3
+
+[back_process_rate]: 100%
+
+네, 맞아요! 솜이가 하루에 100g 정도를 먹어야 한다면, 세 번에 나눠서 한 번에 약 33g씩 주면 된답니다. 🐾
+
+이렇게 정확한 양을 꾸준히 주는 것이 솜이의 건강한 성장에 아주 중요해요. 솜이가 밥을 잘 먹고 튼튼하게 자랄 수 있도록 보호자님이 잘 도와주실 거라 믿어요! ✨
+
+
+---
+> [82] User
+
+
+산책가는건 좋아하는데 산책을시작하면 집에돌라가려고만해
+
+
+---
+> [83] Model
+
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_user_emotion]: 2
+
+[back_process_rate]: 0%
+
+산책을 좋아하는데 막상 시작하면 집에 돌아가려고만 한다니, 솜이의 마음이 복잡한 것 같아요. 🐾
+
+산책은 솜이에게 새로운 세상을 탐험하는 즐거움이 되어야 하는데, 집에 가고 싶어 하는 것은 솜이가 산책 중에 어떤 불편함이나 불안감을 느끼고 있다는 신호일 수 있답니다.
+
+혹시 솜이가 산책 중에 어떤 소리나 물건, 혹은 다른 강아지나 사람 때문에 유독 불안해하거나 주저하는 모습을 보였나요?
+
+
+---
+> [84] User
+
+
+산책나가려고 딱 1층나서면 강아지들이 가끔짖는아이도잇엇덩거같아
+
+
+---
+> [85] Model
+
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_user_emotion]: 2
+
+[back_process_rate]: 10%
+
+1층에 나서면 다른 강아지들이 짖는 소리에 솜이가 놀랐을 수 있겠네요. 🐾
+
+솜이에게는 그 짖는 소리가 마치 '위험 신호'처럼 느껴져서, 산책이 즐겁기보다는 두려운 경험으로 남았을 수 있답니다. 그래서 집에 돌아가고 싶어 하는 마음이 드는 것일 수 있어요.
+
+혹시 솜이가 다른 강아지 소리 외에, 자동차 소리나 낯선 사람, 혹은 특정 물건에 대해서도 비슷한 반응을 보인 적이 있었나요?
+
+
+---
+> [86] User
+
+
+그런건없어 오토바이소리?정도
+
+
+---
+> [87] Model
+
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_user_emotion]: 2
+
+[back_process_rate]: 20%
+
+다른 강아지 소리 외에 오토바이 소리에도 예민하게 반응하는군요. 🐾
+
+솜이에게는 이런 큰 소리들이 마치 '갑자기 나타나는 위협'처럼 느껴질 수 있어요. 그래서 산책이 즐겁기보다는 '언제 위험한 소리가 날지 모르는 곳'으로 인식될 수 있답니다.
+
+혹시 솜이가 산책을 나갈 때, 목줄이나 하네스를 착용하는 것에 대해서는 어떤 반응을 보이나요? 혹시 착용할 때부터 불편해하거나 거부하는 모습은 없었나요?
+
+
+---
+> [88] User
+
+
+거부하진않아
+
+
+---
+> [89] Model
+
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind", '[phase3] Caregiving Solutions']
+
+[back_user_emotion]: 2
+
+[back_process_rate]: 100%
+
+목줄이나 하네스 착용은 거부하지 않는다니 다행이에요. 🐾
+
+솜이가 산책을 나가서 집에 돌아가려고 하는 것은, 낯선 소리나 환경에 대한 불안감 때문일 수 있어요. 솜이에게는 산책이 '즐거운 탐험'이 아니라 '두려운 미지의 공간'으로 느껴질 수 있답니다. 
+
+### 🐾 Step 1: 긍정적인 산책 경험 만들기
+
+*   **짧고 긍정적인 산책**: 처음에는 집 주변을 아주 짧게(5분 이내) 산책하며, 솜이가 좋아하는 간식이나 장난감을 이용해 긍정적인 경험을 만들어 주세요. 솜이가 편안해 보일 때마다 칭찬과 보상을 아끼지 마세요.
+*   **소리 둔감화 훈련**: 솜이가 무서워하는 소리(강아지 짖는 소리, 오토바이 소리)를 아주 작게 들려주면서 간식을 주는 훈련을 반복해 주세요. 점차 소리 크기를 키워나가며 솜이가 소리에 익숙해지도록 돕는 거예요.
+
+### 🎯 목표
+
+*   솜이가 산책을 두려워하지 않고, 외부 환경을 긍정적으로 인식하며 즐거움을 느끼게 하는 거예요.
+
+### 🔎 주의 사항
+
+*   **강요하지 않기**: 솜이가 산책을 거부하거나 불안해하면 억지로 끌고 가지 마세요. 이는 솜이의 불안감을 더욱 키울 수 있어요.
+*   **안전한 환경**: 솜이가 안전하다고 느낄 수 있는 조용하고 익숙한 장소에서부터 산책을 시작해 주세요.
+
+어떠신가요? 솜이와 함께 '즐거운 산책 탐험'을 시작해 볼 준비 되셨나요? ✨
+
+
+---
+> [90] User
+
+
+터그놀이하다가 머리를흔드는건 어떤의미아?
+
+
+---
+> [91] Model
+
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_current_phase]: ['[phase1] Information Gathering', "[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_user_emotion]: 2
+
+[back_process_rate]: 0%
+
+터그놀이를 하다가 머리를 흔드는 행동은 솜이가 놀이에 몰입해서 에너지를 발산하는 자연스러운 모습일 수 있어요. 🐾
+
+하지만 때로는 놀이의 강도가 너무 높거나, 솜이가 흥분해서 스스로 조절하기 어려울 때 나타나기도 한답니다.
+
+혹시 솜이가 터그놀이 중에 머리를 흔들면서 으르렁거리거나, 눈빛이 변하는 등 다른 행동도 함께 보이나요?
+
+
+---
+> [92] User
+
+
+으르렁거리면서 같이놀자라는 눈빛과함께 더 잡아달라고하는느낌이야
+
+
+---
+> [93] Model
+
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind", '[phase3] Caregiving Solutions']
+
+[back_user_emotion]: 3
+
+[back_process_rate]: 100%
+
+으르렁거리면서도 같이 놀자는 눈빛으로 더 잡아달라고 한다니, 솜이가 터그놀이를 정말 즐기고 있다는 뜻이에요! 🐾
+
+솜이에게는 그 으르렁거림이 '나 지금 너무 신나!'라고 말하는 것과 같답니다. 하지만 놀이가 과열되면 흥분도가 너무 높아져서 스스로 조절하기 어려울 수 있어요. 
+
+### 🐾 Step 2: 터그놀이 규칙 정하기
+
+*   **시작과 끝 신호**: 터그놀이를 시작할 때는 "시작!" 같은 신호를 주고, 끝낼 때는 "놔!" 또는 "끝!" 같은 명확한 신호를 주세요. 솜이가 장난감을 놓으면 바로 칭찬하고 간식으로 보상해 주세요.
+*   **놀이 시간 조절**: 솜이가 너무 흥분하기 전에 놀이를 멈추는 것이 중요해요. 짧게 여러 번 놀아주는 것이 한 번에 길게 놀아주는 것보다 좋답니다.
+
+### 🎯 목표
+
+*   솜이가 터그놀이를 통해 에너지를 발산하면서도, 놀이의 규칙을 배우고 스스로 흥분을 조절하는 능력을 키우는 거예요.
+
+### 🔎 주의 사항
+
+*   **장난감 관리**: 터그놀이 장난감은 놀이할 때만 꺼내주고, 놀이가 끝나면 바로 치워주세요. 이는 장난감의 가치를 높이고, 솜이가 규칙을 더 잘 따르도록 돕는답니다.
+*   **무리한 힘 조절**: 솜이의 이빨이나 잇몸에 무리가 가지 않도록 보호자님도 힘을 조절해서 놀아주세요.
+
+어떠신가요? 솜이와 함께 '신나는 터그놀이 규칙'을 만들어 볼 준비 되셨나요? ✨
+
+
+---
+> [94] User
+
+
+솜이가 터그놀이 할만큼하면 본인자리가서 쉬는데 그럼. 우리솜이는 터그놀이잘하고있는거야?
+
+
+---
+> [95] Model
+
+
+[back_current_topic]: Signs of Separation Anxiety and Insufficient Stimulation
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_user_emotion]: 3
+
+[back_process_rate]: 100%
+
+네, 솜이가 터그놀이를 충분히 하고 본인 자리로 가서 쉰다면, 놀이 에너지를 건강하게 발산하고 스스로 휴식을 취하는 아주 좋은 모습이에요! 🐾
+
+솜이가 놀이의 시작과 끝을 스스로 조절할 줄 안다는 것은, 솜이가 감정 조절 능력이 뛰어나다는 증거이기도 하답니다. 보호자님께서 솜이의 신호를 잘 읽어주고 계신 덕분일 거예요. ✨
+
+---
+#### **Token Usage**
+- 대화 비용: $0.2675339
+- 입력 토큰: 778313.0
+- 출력 토큰: 13616.0
+---
+
+
+
+
+
+# [5] Feedback Response
+None

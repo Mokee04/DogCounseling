@@ -1,0 +1,1231 @@
+
+# [1] User Information
+- **User ID** : 45741
+- **Session ID** : 15
+- **Email** : jennyv8@naver.com
+- **Username** : 밥풀
+- **Nickname** : 밥풀이네
+- **Phone** : 01092184448
+- **Feedback T/F?** : False
+
+
+
+# [2] Pre-Questionnaire
+### Dog Care Counseling Pre-Survey Details
+#### 0. Guardian Information
+    - Age : 25
+    - Gender : 여
+
+#### 1. Dog Information
+    - Name : 밥풀
+    - Age : 1.1
+    - Weeks since adoption : 52 weeks old
+    - sex : 암컷 (neutered '예')
+    - breed : 비숑
+    - Relationship with user : 주양육자(먹이 급여, 산책, 기타 생활 대부분을 책임짐)
+    - Adoption method : 동물보호센터로부터 입양
+    - Walking schedule : 7 times/week, 1 times/day, 30 minutes each
+#### 2. Living Environment
+    - Type of residence : 주거용 공간(아파트, 원룸, 단독주택 등)
+        • Number of rooms : 3
+        • Kept tethered outdoors? : 아니오
+    - Family composition :
+        • Number of human family members : 3
+        • Number of dogs : 1
+        • Number of non-dog pets : 0
+    - Financial situation :
+        • Average monthly pet care cost : 30 ten-thousand KRW
+#### 3. Lifestyle
+    - Daily time spent with human family members: 1 hours
+    - Weekday hours alone (without people): 0 hours
+    - Is there or will there be a child under age 3? : 아니오
+#### 4. Socialization Level
+    - Time spent with the mother dog: -1 weeks ('-1' = unknown, '-2' = still living with mother)
+    - Commands/signals the dog can perform: 앉아,기다려,엎드려,하우스(개집과 같은 지정된 공간으로 돌아가기),터치(사람의 손에 코나 발을 가져다 대기),콜백(부르면 오기)
+    - Commands/Cues the dog performs 'without treats': 앉아,기다려,하우스(개집과 같은 지정된 공간으로 돌아가기),터치(사람의 손에 코나 발을 가져다 대기),엎드려
+    - If the guardian refuses the dog’s request, does the dog escalate its behavior? : 보통이다
+    - Does your dog play well with other dogs? : 그렇지 않다
+    - Number of people the dog interacted with during its socialization period: 잘 모르겠다.
+    - When you are busy, how does the dog get your attention? : 쳐다보거나 다가와 근처에 있는다,앞발로 가볍게 툭툭 건드린다
+#### 5. Health & Medical History
+    - Received treatment or medication in the past six months? : 없다
+#### 6. Threatening/Aggressive Behavior
+    - Has the dog ever shown threatening or aggressive behavior? : 발 움직임에 예민하게 반응하여 선풍기를 발로 미는등의 행동을 하면 으르렁대며 입질행동을 보임
+    - Intensity when biting people or other animals: 레벨2 - 개의 이빨이 상대의 피부에 닿지만, 피부에 구멍이 나지 않는다. 다만 피부에 가벼운 이빨 자국이 생기거나, 이빨이 스치면서 아주 약간의 출혈이 있을 수 있다. (상처의 길이는 2.5cm 이하로, 피부가 뚫리는 깊은 상처는 아님)
+#### 7. Boundaries & Anxiety
+    - Physical contact:
+        • Body areas or types of touch the dog refuses: 없음
+    - Alertness:
+        • Situations that make the dog especially wary or uncomfortable: 초인종 소리에 짖고 방에 있을 때 거실 등 다른 곳에서 소리가 날때도 예민하게 반응하고 짖음
+        • Reaction when a stranger visits home: 흥분하며 다가가 반긴다,짖으면서 상대방에게 달려 들지만 물지는 않는다
+        • Does the dog eagerly approach new environments or objects? : 보통이다
+        • Behavior during veterinary exams (with vets or assistants): 뻣뻣하게 서서 뚫어져라 본다
+    - Resource guarding:
+        • Situations in which the dog shows guarding behavior: 먹이,간식,좋아하는 장난감을 지키려고하여 다가가면 으르렁대며 입질하려는 듯한 행동을 보입니다.
+    - Separation anxiety:
+        • Reaction when you prepare to leave or leave the dog alone: 계속 짖고 하울링도 합니다
+        • Does the dog follow you everywhere? : 매우 그렇다
+        • Excessive licking to the point of skin damage: 그렇다
+    - Impulsivity:
+        • Does the dog react immediately to stimulating or pleasurable stimuli? : 매우 그렇다
+    - Excitability:
+        • Does the dog show excessive physical responses when excited (drooling, panting, urinating, etc.)? : 그렇다
+#### 8. Satisfaction with Dog Care
+    - Emotional benefit: High (68.8/100)
+    - Emotional burden: Low (37.5/100)
+    - Overall satisfaction (benefit - burden): High (65.6/100)
+---
+#### Counseling Needs
+    - Main concern/request:
+    > 1.	분리불안 증상
+	•	혼자 있을 때 불안해하며 짖거나 울음.
+	•	보호자가 외출 준비만 해도 예민하게 반응.
+	2.	소리에 대한 과민반응
+	•	자거나 쉴 때 방문 밖 소리만 나도 으르렁거림.
+	•	작은 생활 소음에도 민감하게 반응함.
+	3.	소유욕 문제
+	•	침대 아래 물건 꺼내려 하면 급발진하며 공격적인 반응.
+	•	장난감, 간식, 특정 공간 등에 대한 집착.
+	4.	기타 관찰된 행동 특성
+	•	특정 자리에 대한 집착이나 지키려는 행동이 있음.
+	•	간식에 대한 집착 강함(훈련 시 참고 필요).
+
+    - Expectations from counseling:
+    > 밥풀이의 문제행동들이 조금이나마 해결되어 보호자 뿐만이 아니라 반려견도 마음 편안하게 지냈으면하는 마음입니다.
+
+    - Additional reference information:
+    > 차에서 불안함을 느끼고 누군가 내리면 엄청 짖고 불안해합니다.
+
+    - Hopes for the dog’s future:
+    > 건강하게 행복하게 언니들이랑 자주 놀러다니자ㅠㅠㅠㅠㅠ그러려면 차 타는 거 좋아해야해..ㅎㅎ💗
+
+    - Counseling language:
+    > 한국어
+
+
+
+# [3] Counseling Guide
+## Dog Counseling Guide
+
+#### 1. Guardian & Dog Profiling
+
+> (1) Dog
+- **Basic information**: 밥풀 (Bap-pul), 1.1 years old, Female (neutered), Bichon Frise
+- **Adoption method**: Adopted from an animal shelter.
+- **Time since adoption**: 52 weeks (approximately 1 year). The dog was adopted at a very young age.
+- **Lifestyle**: Lives indoors in an apartment. Spends virtually no time alone on weekdays, but direct interactive time with family is noted as about 1 hour per day.
+- **Walking routine**: Once daily for 30 minutes. This is consistent but may be insufficient for the physical and mental energy needs of a young Bichon Frise.
+- **Socialization**: Knows several commands well (sit, wait, down, house, touch, recall), indicating good trainability. However, she does not play well with other dogs, and her early socialization history is unknown.
+- **Health history**: No significant health issues or treatments in the last six months.
+- **Level of threatening/aggressive behavior**: Has shown Level 2 aggression (teeth contact on skin without puncture). This is a significant warning sign that requires careful management.
+- **Triggers and levels of alertness/anxiety**:
+    - **Sound Sensitivity**: Highly reactive to doorbells and other household noises, even when resting.
+    - **Separation Anxiety**: Shows clear distress (barking, howling) when left alone and becomes anxious during departure preparations. Follows the guardian constantly.
+    - **Resource Guarding**: Guards food, treats, and favorite toys, showing threatening behavior (growling, snapping) when approached.
+    - **Car Anxiety**: Becomes highly anxious and barks in the car, especially when a passenger exits.
+    - **General Anxiety**: Exhibits excessive licking, high impulsivity, and excitability.
+- **Temperament and disposition**: Bap-pul is an intelligent and affectionate dog who is strongly bonded to her guardian. However, she is fundamentally insecure and anxious. This underlying anxiety manifests across various situations—being alone, hearing noises, possessing resources, and being in a car. Her behavior suggests a state of hyper-vigilance, where she constantly feels the need to monitor and control her environment to feel safe. Her shelter background and unknown history before 8 weeks of age are likely significant contributing factors to this insecurity.
+- **Special notes**: The combination of multiple anxiety-related behaviors (separation, noise, guarding) points to a generalized anxiety disorder rather than separate, isolated issues. The fact that she is rarely left alone may be inadvertently preventing her from developing the skills to cope independently.
+
+> (2) Guardian and Care Environment
+- **Guardian (applicant) information**: 25-year-old female, primary caregiver.
+- **Family composition**: 3 adults, 1 dog (Bap-pul). The roles and interaction styles of the other two adults are an important, unknown variable.
+- **Living space**: 3-room apartment, which is an adequate living space.
+- **Financial situation**: Spends 300,000 KRW monthly on pet care, indicating a high level of commitment.
+- **Guardian characteristics**: The guardian is deeply caring, empathetic, and dedicated. She has successfully trained Bap-pul in basic obedience and expresses a strong desire for the dog's emotional well-being ("to be at ease"). Her motivation stems from love and a desire for a happy shared future (e.g., traveling together), not just frustration with the problems. However, she may be unintentionally reinforcing the dog's dependency by ensuring the dog is never alone, which could be exacerbating the separation anxiety.
+- **Special notes**: The presence of two other adults in the home is a critical factor. Consistency in rules, reactions to Bap-pul's behavior, and training methods across all three adults will be essential for success.
+
+> (3) Pet Care Satisfaction
+- **Emotional benefit**: High (68.8)
+- **Emotional burden**: Low (37.5)
+- **Overall satisfaction**: High (65.6)
+- **Interpretation**: These scores reveal a very strong, positive bond between the guardian and Bap-pul. Despite the significant behavioral challenges (anxiety, guarding, reactivity), the guardian experiences a low emotional burden and high overall satisfaction. This is an extremely positive prognostic indicator. It suggests the guardian has the resilience, patience, and motivation needed to implement a long-term behavior modification plan. The counseling can focus on providing effective strategies, knowing the guardian is already deeply committed.
+
+#### 2. Counseling Topics : Guardian’s Concerns and Root Causes
+> Make the following content the central topic of the conversation.
+
+- **Topic 1: Separation Anxiety**
+    - **Situation description**: The dog barks and howls when left alone and becomes highly agitated when the guardian prepares to leave. She follows the guardian everywhere in the house.
+    - **Guardian's Needs**: To help Bap-pul feel calm and secure when alone, thereby alleviating the problem behaviors and improving her overall quality of life.
+    - **Possible causes**:
+        - **Cause 1: Hyper-attachment and Lack of Independence**: The dog is reportedly never left alone. This has created a state of extreme dependency and prevented her from learning the crucial life skill of self-soothing and being comfortable by herself.
+        - **Cause 2: Generalized Anxiety**: The separation distress is not an isolated issue but a prominent symptom of her overall insecurity. For Bap-pul, the guardian's presence is her primary source of safety, and her absence makes the world feel overwhelmingly threatening.
+        - **Cause 3: Inadvertent Reinforcement**: The guardian may be unintentionally intensifying the anxiety by giving excessive affection or treats immediately before leaving or upon returning, which heightens the emotional significance of departures and arrivals.
+
+- **Topic 2: Sound Sensitivity & General Reactivity**
+    - **Situation description**: The dog growls at noises from outside the room, even while resting. She reacts intensely to doorbells and is sensitive to sudden movements, such as a foot moving a fan.
+    - **Guardian's Needs**: To reduce the dog's constant state of alert and help her relax in her own home without reacting to every minor stimulus.
+    - **Possible causes**:
+        - **Cause 1: Hyper-vigilance from Insecurity**: Due to her anxious nature, Bap-pul is constantly scanning her environment for potential threats. The growling is not aggression but a communication of fear, an attempt to make the scary "thing" (the sound) go away.
+        - **Cause 2: Insufficient Mental and Physical Stimulation**: A 30-minute daily walk may not be enough to tire out a young, intelligent dog. Pent-up energy often manifests as anxiety and a low threshold for reactivity. A lack of structured mental enrichment leaves her with nothing to do but fixate on environmental triggers.
+
+- **Topic 3: Resource Guarding**
+    - **Situation description**: The dog shows possessiveness over food, treats, and toys, growling or snapping if someone approaches. She has shown a "sudden outburst" of aggression when the guardian tried to retrieve an item from under the bed.
+    - **Guardian's Needs**: To manage the dog's resources safely without risking a bite and to change the dog's emotional response from fear to trust when people are near her valuable items.
+    - **Possible causes**:
+        - **Cause 1: Fear of Loss**: This is the classic cause of resource guarding. Bap-pul is afraid her precious items will be taken away. This fear is common in dogs with unknown histories who may have experienced competition or scarcity.
+        - **Cause 2: History of Confrontation**: The guardian's attempt to "retrieve" items may have involved taking them away, which confirms the dog's fears and teaches her that she must escalate her warnings (growling, snapping) to protect her possessions. This creates a dangerous cycle of conflict.
+
+- **Topic 4: Car Anxiety**
+    - **Situation description**: The dog is anxious in the car and barks frantically when someone exits the vehicle.
+    - **Guardian's Needs**: To help the dog feel comfortable in the car so they can enjoy outings and travel together, as expressed in the guardian's hopes for the future.
+    - **Possible causes**:
+        - **Cause 1: Sensory Overload and Fear**: The combination of motion, confinement, and outside noises can be overwhelming for an already anxious dog, creating a powerful negative association with the car itself.
+        - **Cause 2: Barrier Frustration/Separation Panic**: When someone leaves the car, Bap-pul is physically prevented from following. This can trigger a panic response similar to separation anxiety, where she feels trapped and abandoned.
+        - **Cause 3: Potential Motion Sickness**: Underlying nausea or physical discomfort could be the initial trigger for the psychological distress.
+
+#### 3. Counseling Strategy
+
+- **(0) Language**: 한국어
+
+- **(1) Counseling Strategies**
+
+    - **Topic 1: Separation Anxiety**
+        - **(1) Counseling Goals**:
+            - The guardian will understand that building independence is an act of love that makes the dog feel safer.
+            - To establish a predictable routine that includes short, positive periods of separation.
+            - Bap-pul will learn to settle on her own (e.g., on a mat) while the guardian is present but not interacting, as a first step toward being alone.
+        - **(2) Contextual Strategies**:
+            - **Reframe the Narrative (CBT)**: Gently challenge the idea that being with Bap-pul 24/7 is purely beneficial. Reframe "leaving her alone" as "teaching her to be brave and self-confident."
+            - **Introduce Independence Training**: Provide a step-by-step guide for "mat training" or "place training." This creates a "safe base" for the dog. Start by rewarding her for staying on the mat for seconds at a time while the guardian is right there, then gradually increase duration and distance.
+            - **Desensitize Departure Cues**: Guide the guardian to practice picking up keys, putting on a coat, etc., without actually leaving, and pairing these actions with calm praise or a treat, to break the association with distress.
+            - **Use Psychodrama**: Ask the guardian, "Imagine Bap-pul could talk. When she sees you pick up your keys, she might be thinking, 'Oh no, my safe person is leaving and the world is scary without her!' How can we change her thought to, 'Oh, the keys! That means I get my special puzzle toy and a nice nap'?"
+        - **(3) Cautions**:
+            - **Safety First**: Strongly advise against just leaving her to "cry it out," as this will intensify her panic and can worsen the phobia.
+            - **Manage Expectations**: Explain that progress will be very gradual, measured in seconds and minutes at first.
+            - **Veterinary Consult**: Recommend a discussion with a veterinarian about anti-anxiety medication. For severe cases, medication can lower the dog's baseline anxiety enough for behavioral modification to be effective.
+
+    - **Topic 2: Sound Sensitivity & General Reactivity**
+        - **(1) Counseling Goals**:
+            - The guardian will learn to manage the environment to reduce Bap-pul's triggers.
+            - Bap-pul's emotional response to common sounds (e.g., doorbell) will shift from fear to neutral or positive anticipation.
+            - To increase Bap-pul's daily mental and physical exercise to lower her overall arousal level.
+        - **(2) Contextual Strategies**:
+            - **Educate on "Trigger Stacking"**: Explain how multiple small stressors (a noise, a person walking by) can add up and lead to a large reaction.
+            - **Implement DSCC (Desensitization & Counter-Conditioning)**: Provide a plan to play recordings of trigger sounds (doorbell, etc.) at a very low volume, paired with very high-value treats (like chicken). The sound should be quiet enough that she notices it but doesn't react.
+            - **Enrichment Plan**: Brainstorm a daily enrichment schedule beyond the walk, including puzzle feeders for meals, 5-10 minute training sessions, and simple nose work games (hiding treats).
+        - **(3) Cautions**:
+            - **Do Not Punish**: Emphasize that punishing growling or barking will only increase fear and may lead to the dog suppressing these warnings and biting without notice.
+            - **Management is Key**: While training, advise using management tools like playing white noise or music to mask outside sounds, and putting a note on the door asking people to text instead of ringing the bell.
+
+    - **Topic 3: Resource Guarding**
+        - **(1) Counseling Goals**:
+            - The guardian and other family members will learn and consistently apply safe management protocols to prevent guarding incidents.
+            - To teach Bap-pul that an approaching human predicts something even better, not the loss of her item.
+            - The guardian will feel confident in managing the situation without confrontation.
+        - **(2) Contextual Strategies**:
+            - **Safety Protocol First**: The first and most important step is management. Advise the guardian to stop trying to take things from the dog. For safety, items that are highly guarded should not be given freely.
+            - **Teach the "Trade-Up Game"**: Explain how to teach Bap-pul to happily trade items. Start with low-value items. Approach, toss a high-value treat nearby, and when she leaves the item to get the treat, pick up the item, then give it right back. This changes the emotional response.
+            - **Use Role-Reversal (Psychodrama)**: "Imagine your most prized possession is in front of you. If I walked up looking like I was going to snatch it, you'd feel defensive. But what if every time I walked up, I gave you a gold coin? Soon, you'd be happy to see me approach." This illustrates the principle of counter-conditioning.
+        - **(3) Cautions**:
+            - **HIGH-RISK BEHAVIOR**: This is the most critical issue for safety. The Level 2 bite indicates potential for escalation. **Strongly recommend consultation with a certified, in-person professional behavior consultant or veterinary behaviorist if the guarding is severe or escalates.**
+            - **Consistency is Crucial**: All three adults in the home MUST be on the same page with the "no confrontation" and "trade-up" rules.
+
+    - **Topic 4: Car Anxiety**
+        - **(1) Counseling Goals**:
+            - To rule out or address any physical causes (motion sickness).
+            - Bap-pul will voluntarily and happily enter a stationary car.
+            - To gradually build Bap-pul's tolerance for short car journeys.
+        - **(2) Contextual Strategies**:
+            - **Vet Check First**: The first step is to advise a vet visit to discuss potential motion sickness and treatment options.
+            - **Systematic Desensitization**: Break down the process into micro-steps. 1) Treat for looking at the car. 2) Treat for approaching the car. 3) Treat for being near the open door. 4) Treat for jumping in (engine off) to get a special "car-only" toy/treat, then immediately jumping out. Progress only when the dog is relaxed.
+            - **Change the Association**: Make the car the location for wonderful things. Feed a high-value chew in the stationary car with the doors open.
+        - **(3) Cautions**:
+            - **Go at the Dog's Pace**: Pushing the dog too fast will poison the process and set training back significantly.
+            - **Safety in the Car**: Discuss safe travel options like a secured crate or a tested car harness, which can also help some dogs feel more secure.
+
+#### 4. Key Questions for Further Clarification
+
+- **Topic 1: Separation Anxiety**
+    - You mentioned Bap-pul is never alone. Could you walk me through a typical weekday? What happens that allows someone to always be home with her?
+    - When you prepare to leave, what specific actions (e.g., picking up keys, putting on a jacket) seem to trigger her anxiety the most?
+    - Have you ever recorded her when she was left alone, even for a few minutes? If so, what did she do besides bark/howl (e.g., pace, drool, scratch at the door)?
+    - How do the other two adults in your home handle departures and arrivals with Bap-pul? Does she react the same way when they leave?
+
+- **Topic 2: Sound Sensitivity & General Reactivity**
+    - When Bap-pul growls at a sound from another room, what is your immediate reaction? What do you typically do or say?
+    - Can you describe her body language in detail when she hears the doorbell? (e.g., tail position, ears, stiff body).
+    - Regarding the sensitivity to foot movements, does this only happen with the fan, or does it occur in other situations as well?
+
+- **Topic 3: Resource Guarding**
+    - Could you describe the "sudden outburst" incident in more detail? What was the item under the bed, what exactly did you do, and how did she react step-by-step?
+    - If you simply walk past her while she has a high-value chew, without looking at her or the item, how does she behave? Does she stop chewing and watch you?
+    - How are her meals given? Does she show any guarding behavior around her food bowl during meal times?
+    - Do the other family members also try to take items from her, or do they have a different approach?
+
+- **Topic 4: Car Anxiety**
+    - Does Bap-pul show any signs of physical discomfort in the car, such as excessive drooling, yawning, or vomiting?
+    - Where does she typically ride in the car (e.g., in a crate, on a seat with a harness, on someone's lap)?
+    - Can you recall her first few experiences in a car? Were they associated with something stressful, like a vet visit?
+
+
+
+# [4] Chat Record
+
+
+---
+> [1] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: Initial Message
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+안녕하세요, 사색을 좋아하는 비글이자 반려견 마음 통역사 까미예요.  
+밥풀이의 속마음을 더 깊이 읽어 보고, 우리 보호자님과 함께 잔잔한 파도를 넘어 보려고 해요.  
+
+### 상담 안내  
+보호자님의 반려생활 만족도가 매우 높으시네요.  
+이는 밥풀이와 보호자님 사이에 아주 긍정적인 유대감이 형성되어 있다는 뜻이에요.  
+지금 우리는 밥풀이라는 바다에 뛰어들어, 반려견을 천천히 이해해 나아갈 거예요.  
+
+### 대화를 시작해 볼게요.  
+
+1. 분리불안  
+2. 소리 민감성 및 일반적인 반응성  
+3. 자원 지키기  
+4. 자동차 불안  
+
+보호자님께서 전달해 주신 고민 내용들이에요.  
+어떤 주제에 대해 먼저 이야기해 보고 싶으세요?
+
+
+---
+> [2] User
+
+
+1 분리불안에 대해 먼저 이야기해보고 싶어
+
+
+---
+> [3] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+알겠습니다. 그럼 밥풀이의 분리불안에 대해 먼저 이야기 나눠볼게요.  
+
+밥풀이는 평일에는 거의 혼자 있는 시간이 없다고 하셨어요.  
+**평소 밥풀이가 혼자 있는 시간이 거의 없다고 하셨는데, 평일에는 어떤 상황이어서 항상 누군가 함께 있어 줄 수 있는 건가요?**
+
+
+---
+> [4] User
+
+
+재택근무를 하고 있는 상황이라 계속 집에 같이 있고 어딜 나가게 되도 짖음이 심해서 아파트라 데리고 나가
+
+
+---
+> [5] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 10%
+
+[back_user_emotion]: 2
+
+재택근무 중이시라 밥풀이와 항상 함께할 수 있었군요.  
+그리고 짖음 때문에 함께 외출하시는 상황도 이해가 됩니다.  
+
+**보호자님께서 외출 준비를 하실 때, 밥풀이의 불안을 가장 많이 자극하는 행동은 무엇인가요?**
+
+
+---
+> [6] User
+
+
+옷 갈아입고 여기저기 돌아다니는게 아닐까 싶어
+
+
+---
+> [7] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 20%
+
+[back_user_emotion]: 2
+
+옷을 갈아입거나 집안을 돌아다니는 행동이 밥풀이에게는 외출의 신호로 느껴지는군요.  
+
+**혹시 밥풀이가 혼자 있을 때 어떤 행동을 하는지 녹화해 본 적이 있으신가요?**
+
+
+---
+> [8] User
+
+
+있어! 나가자마자 계속 짖고 하울링까지도해
+노즈워크를 두고 가면 그거에 집중하기도 하는데
+끝나면 바로 다시 짖기 시작해
+
+
+---
+> [9] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 30%
+
+[back_user_emotion]: 2
+
+녹화까지 해보셨군요.  
+나가자마자 짖고 하울링까지 한다니 밥풀이가 많이 불안해하는 것 같아요.  
+노즈워크에 집중하다가도 다시 짖는다는 건, 잠시 주의가 분산될 뿐 근본적인 불안은 여전하다는 신호일 수 있어요.  
+
+**다른 가족 두 분은 밥풀이의 외출과 귀가에 어떻게 반응하시나요?**
+
+
+---
+> [10] User
+
+
+이해를 잘 못했어.. 밥풀이가 외출 다녀올 때 어떤식으로 반응해주냐는 말인가..?
+
+
+---
+> [11] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 30%
+
+[back_user_emotion]: 2
+
+아, 제가 질문을 명확하게 드리지 못했군요.  
+죄송해요.  
+
+**다른 가족분들도 외출하거나 귀가하실 때, 밥풀이가 보호자님께 보이는 것과 같은 반응을 보이는지 궁금했어요.**
+
+
+---
+> [12] User
+
+
+다른 가족이 나갈 때는 집에 누군가 있어서 짖거나 하지는 않는데 문앞을 본다던가 기다리는 것 같은 반응은 보이기도해
+
+
+---
+> [13] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 40%
+
+[back_user_emotion]: 2
+
+다른 가족분들이 외출할 때는 밥풀이가 짖지는 않지만, 문 앞을 보거나 기다리는 듯한 반응을 보이는군요.  
+이것은 밥풀이가 보호자님께 더 강한 애착을 가지고 있다는 신호일 수 있어요.  
+
+밥풀이가 혼자 있는 시간을 견디는 연습을 시작하려면, 먼저 보호자님이 집에 계실 때도 밥풀이가 스스로 안정감을 느끼는 연습이 필요해요.  
+
+**밥풀이가 집에서 가장 편안하게 느끼는 자신만의 공간이 있나요? 예를 들어, 특정 방석이나 크레이트 같은 곳이요.**
+
+
+---
+> [14] User
+
+
+본인 쿠션이랑 내 침대위
+
+
+---
+> [15] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 40%
+
+[back_user_emotion]: 2
+
+밥풀이에게는 자신만의 쿠션과 보호자님 침대 위가 가장 편안한 공간이군요.  
+
+밥풀이가 보호자님께 강한 애착을 보이는 건, 보호자님이 밥풀이의 세상에서 가장 안전하고 소중한 존재이기 때문이에요.  
+마치 아기 새가 어미 새에게 전적으로 의지하듯, 밥풀이도 보호자님을 자신의 전부로 여기고 있는 거죠.  
+
+하지만 밥풀이가 혼자서도 불안해하지 않고 편안하게 쉴 수 있도록 돕는 것도 보호자님의 큰 사랑이 될 수 있어요.  
+
+**밥풀이가 혼자서도 안정감을 느낄 수 있도록, 보호자님이 집에 계실 때 밥풀이를 자신의 쿠션이나 침대 위에 머물게 하고, 보호자님은 잠시 다른 활동을 하는 연습을 시도해 본 적이 있으신가요?**
+
+
+---
+> [16] User
+
+
+업무를 보기 때문에 나는 컴퓨터만 한 적이 있어
+
+
+---
+> [17] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 45%
+
+[back_user_emotion]: 2
+
+업무 때문에 컴퓨터만 보셨군요.  
+밥풀이가 보호자님께 강한 애착을 보이는 건 자연스러운 일이에요.  
+
+**혹시 밥풀이가 보호자님과 떨어져서 혼자만의 시간을 보내는 것에 대해, 다른 가족분들은 어떻게 생각하시나요?**
+
+
+---
+> [18] User
+
+
+연습해서 분리불안을 해결해야한다고 생각해
+
+
+---
+> [19] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 50%
+
+[back_user_emotion]: 2
+
+다른 가족분들도 밥풀이의 분리불안 해결을 위해 연습이 필요하다고 생각하시는군요.  
+
+밥풀이의 분리불안은 보호자님의 부재가 세상의 모든 위협을 의미한다고 느끼기 때문일 수 있어요.  
+마치 작은 배가 거친 파도 한가운데 홀로 남겨진 기분일 거예요.  
+
+**밥풀이가 혼자서도 편안하게 지낼 수 있도록 돕는 것이 밥풀이에게는 큰 용기를 심어주는 일이 될 수 있답니다.**
+
+
+---
+> [20] User
+
+
+어떻게 해야 좋을까
+
+
+---
+> [21] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 50%
+
+[back_user_emotion]: 2
+
+밥풀이가 보호자님께서 집에 계실 때도 스스로 편안하게 지내는 연습부터 시작해볼게요.  
+이것은 밥풀이가 혼자서도 안전하다고 느끼는 첫걸음이 될 거예요.  
+
+🐾 **Step 1: '하우스' 또는 '자리'에서 편안하게 쉬기 연습**  
+
+- **준비물**: 밥풀이가 가장 좋아하는 간식 몇 개  
+- **설정**: 밥풀이의 쿠션이나 침대 옆에 보호자님이 앉으세요.  
+- **지시**: 밥풀이에게 "하우스" 또는 "자리"라고 말하며 쿠션이나 침대로 유도합니다.  
+- **보상**: 밥풀이가 그 자리에 편안하게 엎드려 있으면, 바로 "옳지!"라고 칭찬하며 간식을 줍니다.  
+- **시간 늘리기**: 처음에는 5초, 10초처럼 아주 짧은 시간부터 시작해서, 밥풀이가 편안해하면 점차 시간을 늘려가세요.  
+
+🎯 **목표**  
+- 보호자님이 옆에 있어도 밥풀이가 자신의 공간에서 스스로 안정감을 느끼는 것.  
+- "하우스" 또는 "자리"라는 말이 밥풀이에게 '편안하고 좋은 곳'이라는 긍정적인 신호가 되게 하는 것.  
+
+🔎 **주의 사항**  
+- 밥풀이가 자리에서 벗어나려고 하면, 조용히 다시 유도하고, 성공했을 때만 보상해주세요.  
+- 억지로 앉히거나 밀어 넣지 마세요. 밥풀이가 스스로 선택하게 하는 것이 중요해요.  
+- 하루에 3~5회 정도, 각 5분 이내로 짧게 반복하는 것이 효과적이에요.  
+
+이 작은 연습이 밥풀이의 큰 변화를 가져올 수 있답니다.  
+어떠신가요, 이 첫걸음을 시작해 보실 준비 되셨나요? ✨
+
+
+---
+> [22] User
+
+
+네
+
+
+---
+> [23] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 55%
+
+[back_user_emotion]: 2
+
+네, 좋습니다!  
+밥풀이와 함께하는 첫걸음, 기대되네요.  
+
+**밥풀이가 '하우스' 또는 '자리'에서 편안하게 쉬는 연습을 시작해 보신 후, 어떠셨는지 다음 상담 때 알려주시겠어요?**  
+
+밥풀이가 그 공간에서 얼마나 머물렀는지, 어떤 반응을 보였는지 자세히 말씀해주시면 다음 단계로 나아가는 데 큰 도움이 될 거예요. ✨
+
+
+---
+> [24] User
+
+
+근데 하우스에는 잘 들어가는데 내가 움직이면 바로 나와..
+
+
+---
+> [25] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 55%
+
+[back_user_emotion]: 2
+
+하우스에는 잘 들어가지만, 보호자님이 움직이면 바로 나온다는 말씀이시군요.  
+
+**밥풀이가 하우스에서 나와 보호자님을 따라다닐 때, 보호자님은 어떻게 반응하시나요?**
+
+
+---
+> [26] User
+
+
+그냥 무시하고 내 할 일을 해
+
+
+---
+> [27] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 55%
+
+[back_user_emotion]: 2
+
+보호자님께서 밥풀이를 무시하고 할 일을 하시는군요.  
+
+밥풀이가 하우스에서 나와 보호자님을 따라다니는 것은, 보호자님과의 연결을 확인하고 싶어 하는 마음에서 비롯될 수 있어요.  
+마치 어린아이가 엄마가 잘 있는지 계속 확인하는 것과 비슷하답니다.  
+
+이런 행동은 밥풀이가 '보호자님은 항상 내 곁에 있어 줄 거야'라는 확신을 얻고 싶어 하는 간절한 신호일 수 있어요.  
+
+**밥풀이가 보호자님을 따라다닐 때, 밥풀이의 표정이나 행동에서 어떤 감정이 느껴지셨나요?**
+
+
+---
+> [28] User
+
+
+그냥 .. 뭐하는건가 하는 느낌
+
+
+---
+> [29] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 60%
+
+[back_user_emotion]: 2
+
+밥풀이가 보호자님을 따라다닐 때, '뭐하는 건가' 하는 느낌을 받으셨군요.  
+
+**혹시 밥풀이가 보호자님을 따라다니다가, 보호자님이 멈춰 서면 밥풀이도 함께 멈춰 서서 보호자님을 바라보는 경우가 있었나요?**
+
+
+---
+> [30] User
+
+
+있어!
+
+
+---
+> [31] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 65%
+
+[back_user_emotion]: 2
+
+보호자님이 멈춰 서면 밥풀이도 함께 멈춰 서서 바라보는 경우가 있었군요.  
+
+밥풀이가 보호자님을 따라다니는 것은, 보호자님이라는 '안전 기지'가 시야에서 사라지는 것에 대한 불안감 때문일 수 있어요.  
+마치 숲속에서 길을 잃을까 봐 두려워하는 작은 동물처럼 말이죠.  
+
+이러한 행동은 밥풀이가 '보호자님, 어디 가세요? 저를 두고 가지 마세요!'라고 말하는 것과 같아요.  
+
+**밥풀이가 혼자서도 마음 편히 쉴 수 있도록, 이제 보호자님이 계실 때도 밥풀이에게 '혼자 있는 연습'을 시켜볼 거예요.**
+
+
+---
+> [32] User
+
+
+어떻게?!
+
+
+---
+> [33] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 65%
+
+[back_user_emotion]: 2
+
+밥풀이가 하우스에 잘 들어가지만 보호자님이 움직이면 바로 나오는 상황이군요.  
+이럴 때는 밥풀이가 보호자님께 시선을 고정하지 않고도 편안하게 자신의 공간에 머무는 연습이 필요해요.  
+
+🐾 **Step 2: '움직임 속에서도 하우스에 머물기' 연습**  
+
+- **준비물**: 밥풀이가 가장 좋아하는 간식 몇 개  
+- **설정**: 밥풀이가 하우스나 침대에 편안하게 엎드려 있을 때 시작해요.  
+- **움직임 시작**: 보호자님은 밥풀이가 있는 곳에서 아주 살짝만 몸을 움직이거나, 발을 한두 걸음 떼는 시늉을 합니다.  
+- **보상**: 밥풀이가 보호자님의 움직임에도 불구하고 하우스에 계속 머물러 있다면, 즉시 "옳지!"라고 칭찬하며 간식을 줍니다.  
+- **점진적 확대**: 밥풀이가 익숙해지면, 움직이는 거리를 조금씩 늘려가세요. (예: 방 안에서 한두 걸음 걷기, 의자에 앉았다 일어서기)  
+
+🎯 **목표**  
+- 밥풀이가 보호자님의 움직임에 불안해하지 않고, 자신의 공간에서 안정감을 유지하는 것.  
+- 보호자님의 움직임이 '외출'이 아닌 '일상의 일부'라는 것을 밥풀이가 이해하게 하는 것.  
+
+🔎 **주의 사항**  
+- 밥풀이가 하우스에서 나오려고 하면, 즉시 움직임을 멈추고 밥풀이가 다시 자리에 돌아갈 때까지 기다려 주세요.  
+- 밥풀이가 자리에 돌아가면 다시 움직임을 시도하고 성공 시 보상합니다.  
+- 밥풀이가 불안해하거나 따라 나오려고 할 때 억지로 막지 마세요.  
+
+이 연습은 밥풀이가 보호자님의 움직임에도 불구하고 스스로 편안함을 유지하는 데 큰 도움이 될 거예요.  
+어떠신가요, 이 방법으로 밥풀이와 함께 연습해 보실 준비 되셨나요? ✨
+
+
+---
+> [34] User
+
+
+이건 많이 연습햐봤어!!
+
+
+---
+> [35] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 70%
+
+[back_user_emotion]: 2
+
+많이 연습해 보셨다니 정말 대단하세요!  
+밥풀이가 하우스에 잘 머무는 연습이 어느 정도 되었다면, 이제 외출 준비 신호에 대한 밥풀이의 마음을 바꿔볼 차례예요.  
+
+열쇠 소리나 옷 갈아입는 소리가 밥풀이에게는 마치 '이별의 종소리'처럼 들릴 수 있거든요. 🔔  
+
+🐾 **Step 3: '외출 준비 신호' 무덤덤하게 만들기 연습**  
+
+- **준비물**: 밥풀이가 아주 좋아하는 특별한 간식 (평소에 잘 주지 않는 고가치 간식)  
+- **설정**: 밥풀이가 하우스나 편안한 자리에 있을 때 시작해요.  
+- **신호 제시**: 보호자님은 외출할 때 하는 행동(예: 열쇠 집어 들기, 가방 들기, 외투 입기)을 아주 짧게만 합니다.  
+- **보상**: 밥풀이가 이러한 행동에도 불구하고 불안해하지 않고 차분하게 있다면, 즉시 "옳지!"라고 칭찬하며 특별한 간식을 줍니다.  
+- **반복**: 실제로 외출하지 않고, 이 행동들을 하루에 3~4번, 각 1~2분씩 짧게 반복하세요.  
+
+🎯 **목표**  
+- 밥풀이가 외출 신호를 '보호자님이 사라지는 신호'가 아닌 '좋은 일이 생기는 신호'로 인식하게 하는 것.  
+- 외출 준비 행동들이 밥풀이에게 더 이상 불안을 유발하지 않도록 만드는 것.  
+
+🔎 **주의 사항**  
+- 밥풀이가 조금이라도 불안해하는 기색을 보이면, 즉시 행동을 멈추고 다음 시도에서는 더 짧게, 더 낮은 강도로 진행하세요.  
+- 절대 밥풀이를 혼내거나 강요하지 마세요. 이 연습은 긍정적인 경험을 쌓는 것이 중요해요.  
+- 간식은 아주 작게 잘라서 여러 번 줄 수 있도록 준비해주세요.  
+
+이 연습을 통해 밥풀이가 외출 준비 신호에 대해 '아, 또 맛있는 간식 타임이구나!' 하고 생각하게 될 거예요.  
+어떠신가요, 밥풀이와 함께 새로운 신호 만들기를 시작해 보실 준비 되셨나요? ✨
+
+
+---
+> [36] User
+
+
+네
+
+
+---
+> [37] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 75%
+
+[back_user_emotion]: 2
+
+네, 좋습니다!  
+외출 준비 신호를 밥풀이에게 긍정적인 신호로 바꾸는 연습, 꾸준히 해주시면 분명 좋은 결과가 있을 거예요.  
+
+**이 연습을 하루에 3~4번씩, 각 1~2분 정도 짧게 반복해 보신 후 밥풀이의 반응이 어떠했는지 다음 상담 때 알려주시겠어요?**  
+
+밥풀이가 열쇠 소리나 외투 입는 행동에 얼마나 차분해졌는지, 불안해하는 정도가 줄었는지 등을 자세히 알려주시면 다음 단계로 나아가는 데 큰 도움이 될 거예요. ✨
+
+
+---
+> [38] User
+
+
+밥풀이 분리불안 없애는 법
+
+
+---
+> [39] Model
+
+
+[back_current_phase]: ['[phase4] Transitioning Topics']
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 75%
+
+[back_user_emotion]: 2
+
+밥풀이의 분리불안을 해결하는 것은 마치 밥풀이에게 '혼자서도 세상은 안전하다'는 믿음을 심어주는 것과 같아요.  
+
+지금까지 우리는 밥풀이가 보호자님과 함께 있을 때도 스스로 안정감을 느끼는 연습, 그리고 외출 준비 신호에 대한 밥풀이의 불안감을 줄이는 연습을 이야기 나누었어요.  
+
+이러한 단계들을 꾸준히 연습하시면 밥풀이가 혼자 있는 시간을 더 편안하게 받아들일 수 있을 거예요.  
+
+혹시 분리불안 외에 다른 주제에 대해 이야기해 볼까요? ✨
+
+
+---
+> [40] User
+
+
+일단 분리불안이 제일 급해
+
+
+---
+> [41] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 75%
+
+[back_user_emotion]: 2
+
+분리불안이 가장 시급한 문제라는 점, 충분히 이해합니다.  
+밥풀이의 불안한 마음을 다독여주는 것이 가장 중요하죠.  
+
+밥풀이의 분리불안은 보호자님의 부재가 세상의 모든 위협을 의미한다고 느끼기 때문일 수 있어요.  
+마치 작은 배가 거친 파도 한가운데 홀로 남겨진 기분일 거예요.  
+
+이러한 불안감을 줄이기 위해서는 밥풀이가 혼자서도 안전하다고 느끼는 연습이 꾸준히 필요하답니다.  
+
+**혹시 밥풀이의 분리불안을 해결하기 위해, 수의사나 전문가와 상담을 받아보신 적이 있으신가요?**
+
+
+---
+> [42] User
+
+
+네
+
+
+---
+> [43] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Separation Anxiety
+
+[back_process_rate]: 75%
+
+[back_user_emotion]: 2
+
+네, 수의사나 전문가와 상담을 받아보신 적이 있으시군요.  
+
+밥풀이의 분리불안은 단순히 '혼자 있는 것을 싫어하는' 것을 넘어, 보호자님의 부재가 밥풀이에게는 큰 불안과 공포로 다가올 수 있어요.  
+이러한 경우, 행동 교정만으로는 어려울 때가 있답니다.  
+
+**수의사 선생님과 밥풀이의 불안 완화를 위한 약물 치료나 보조제에 대해 상담해 보시는 것도 좋은 방법이 될 수 있어요.**
+
+
+---
+> [44] User
+
+
+다른 강아지와 노는 방법을 몰라 무서워서 도망만다녀 어떻게 해야할까?
+
+
+---
+> [45] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Sound Sensitivity & General Reactivity
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+다른 강아지들과 노는 방법을 몰라 무서워서 도망만 다닌다니, 밥풀이가 많이 불안해하는 것 같아요.  
+
+**밥풀이가 다른 강아지를 만났을 때, 어떤 상황에서 가장 많이 도망치려고 하나요?**
+
+
+---
+> [46] User
+
+
+다른 강아지가 다가올 때
+
+
+---
+> [47] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Sound Sensitivity & General Reactivity
+
+[back_process_rate]: 5%
+
+[back_user_emotion]: 2
+
+다른 강아지가 밥풀이에게 다가올 때 도망치려고 하는군요.  
+
+**밥풀이가 다른 강아지에게서 도망칠 때, 꼬리나 귀의 위치, 몸의 자세 등 어떤 몸짓을 보이나요?**
+
+
+---
+> [48] User
+
+
+꼬리는 가만히 있고 몸은 그냥 도망다니는데
+
+
+---
+> [49] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Sound Sensitivity & General Reactivity
+
+[back_process_rate]: 10%
+
+[back_user_emotion]: 2
+
+꼬리는 가만히 있고 몸만 도망다닌다는 것은, 밥풀이가 다른 강아지에 대해 불안감과 두려움을 느끼고 있다는 분명한 신호예요.  
+
+**밥풀이가 다른 강아지에게서 도망친 후에, 보호자님께서는 밥풀이를 어떻게 안심시켜 주시나요?**
+
+
+---
+> [50] User
+
+
+안아주거나 의자 위로 올려줘
+
+
+---
+> [51] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Sound Sensitivity & General Reactivity
+
+[back_process_rate]: 15%
+
+[back_user_emotion]: 2
+
+밥풀이가 도망친 후에 안아주거나 의자 위로 올려주시는군요.  
+
+**밥풀이가 다른 강아지를 만났을 때, 보호자님 외에 다른 가족분들은 어떻게 반응하시나요?**
+
+
+---
+> [52] User
+
+
+같이 놀아보라고 조금씩 냄새부터 맡게해주고 그냥 풀어놔봐
+
+
+---
+> [53] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Sound Sensitivity & General Reactivity
+
+[back_process_rate]: 15%
+
+[back_user_emotion]: 2
+
+다른 가족분들은 밥풀이에게 다른 강아지 냄새를 맡게 해주고 풀어놓아 보라고 하시는군요.  
+
+밥풀이가 다른 강아지에게서 도망치는 것은, 그 강아지들이 밥풀이에게는 아직 '미지의 존재'이자 '두려운 대상'이기 때문일 수 있어요.  
+마치 낯선 사람이 갑자기 다가와 말을 거는 것처럼, 밥풀이는 스스로를 보호하려는 본능적인 반응을 보이는 거죠.  
+
+**밥풀이가 다른 강아지들과 편안하게 상호작용할 수 있도록 돕는 것은, 밥풀이에게 '세상은 안전하고 친구도 만들 수 있는 곳'이라는 믿음을 심어주는 것과 같아요.**
+
+
+---
+> [54] User
+
+
+밥풀이가 안전벨트푸르고 주차소리들리면 갑자기 자기도 내리고싶은지 막 달려서 내품으로 오는건 어떻게 고칠 수 있나요
+
+
+---
+> [55] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Car Anxiety
+
+[back_process_rate]: 0%
+
+[back_user_emotion]: 2
+
+밥풀이가 안전벨트를 풀고 주차 소리에 보호자님 품으로 달려오는군요.  
+
+**밥풀이가 차 안에서 멀미 증상(침 흘림, 하품, 구토 등)을 보이기도 하나요?**
+
+
+---
+> [56] User
+
+
+아뇨
+
+
+---
+> [57] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Car Anxiety
+
+[back_process_rate]: 5%
+
+[back_user_emotion]: 2
+
+멀미 증상은 없군요. 다행이에요.  
+
+**밥풀이는 주로 차 안 어디에 타나요? (예: 이동장 안, 카시트, 보호자님 무릎 등)**
+
+
+---
+> [58] User
+
+
+카시트
+
+
+---
+> [59] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Car Anxiety
+
+[back_process_rate]: 10%
+
+[back_user_emotion]: 2
+
+카시트에 탄다고 하셨군요.  
+
+**밥풀이의 첫 차 경험은 어떠셨나요? 혹시 병원 방문처럼 스트레스받는 상황과 연관되어 있었나요?**
+
+
+---
+> [60] User
+
+
+그런 경우도 있고 어딜가나 데려다니기 때문에 우리 볼일보는 곳 그리고 애견놀이터 등등
+
+
+---
+> [61] Model
+
+
+[back_current_phase]: ['[phase1] Information Gathering']
+
+[back_current_topic]: Car Anxiety
+
+[back_process_rate]: 15%
+
+[back_user_emotion]: 2
+
+병원뿐만 아니라 보호자님의 볼일이나 애견 놀이터 등 다양한 곳을 차로 다니셨군요.  
+
+**차 안에서 밥풀이가 불안해하거나 짖는 행동은 주로 언제 시작되나요? 차에 타자마자인가요, 아니면 차가 움직이기 시작할 때인가요?**
+
+
+---
+> [62] User
+
+
+짖지는 않고 차가 멈출때 불안감이 심해져요
+
+
+---
+> [63] Model
+
+
+[back_current_phase]: ["[phase2] Caring the Dog's/Guardian's Mind"]
+
+[back_current_topic]: Car Anxiety
+
+[back_process_rate]: 20%
+
+[back_user_emotion]: 2
+
+짖지는 않고 차가 멈출 때 불안감이 심해지는군요.  
+
+밥풀이가 차가 멈출 때 불안해하는 것은, 차 안이라는 갇힌 공간에서 보호자님이 사라질지도 모른다는 불안감 때문일 수 있어요.  
+마치 작은 새가 둥지에서 어미 새가 떠날까 봐 불안해하는 것과 비슷하답니다.  
+
+**밥풀이가 차 안에서도 '안전하다'고 느낄 수 있도록 돕는 것이 중요해요.**
+
+
+---
+> [64] User
+
+
+그럼 어떻게 훈련시켜요?
+
+
+---
+> [65] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Car Anxiety
+
+[back_process_rate]: 20%
+
+[back_user_emotion]: 2
+
+밥풀이가 차 안에서도 편안함을 느끼도록 훈련하는 것은, 마치 밥풀이에게 '차는 안전하고 즐거운 곳'이라는 새로운 이야기를 들려주는 것과 같아요. 🚗✨  
+
+🐾 **Step 1: 정지된 차 안에서 긍정적인 경험 만들기**  
+
+- **준비물**: 밥풀이가 가장 좋아하는 장난감이나 오래 씹을 수 있는 간식 (콩 장난감에 넣어주면 좋아요)  
+- **설정**: 차를 집 근처 안전한 곳에 주차하고, 문을 모두 열어두거나 창문을 활짝 열어 환기시켜 주세요.  
+- **차 안에서 놀기**: 밥풀이와 함께 차 안에 들어가서 좋아하는 장난감을 가지고 놀거나, 간식을 주며 긍정적인 시간을 보내세요. 이때 시동은 켜지 않아도 돼요.  
+- **짧고 즐겁게**: 처음에는 5분 이내로 짧게 머물고, 밥풀이가 편안해하면 시간을 점차 늘려가세요.  
+
+🎯 **목표**  
+- 밥풀이가 차 안을 '불안한 곳'이 아닌 '즐거운 일이 생기는 곳'으로 인식하게 하는 것.  
+- 차 안에서의 긍정적인 경험을 통해 차에 대한 두려움을 줄이는 것.  
+
+🔎 **주의 사항**  
+- 밥풀이가 차에 들어가는 것을 망설이거나 불안해하면 억지로 밀어 넣지 마세요. 밥풀이가 스스로 들어갈 때까지 기다려 주세요.  
+- 항상 긍정적인 분위기를 유지하고, 밥풀이가 편안해할 때만 진행하세요.  
+- 이 연습은 차가 움직이지 않는 상태에서만 진행해야 해요.  
+
+어떠신가요, 밥풀이와 함께 차 안에서 즐거운 시간을 만들어 보실 준비 되셨나요? ✨
+
+
+---
+> [66] User
+
+
+네
+
+
+---
+> [67] Model
+
+
+[back_current_phase]: ['[phase3] Caregiving Solutions']
+
+[back_current_topic]: Car Anxiety
+
+[back_process_rate]: 25%
+
+[back_user_emotion]: 2
+
+네, 좋습니다! 밥풀이와 함께 차 안에서 즐거운 시간을 만들어 보실 준비가 되셨군요.  
+
+**정지된 차 안에서 밥풀이와 함께 놀거나 간식을 주며 긍정적인 경험을 만들어 보신 후, 밥풀이의 반응이 어떠했는지 다음 상담 때 알려주시겠어요?**  
+
+밥풀이가 차 안에서 얼마나 편안해했는지, 어떤 행동을 보였는지 등을 자세히 말씀해주시면 다음 단계로 나아가는 데 큰 도움이 될 거예요. ✨
+
+---
+#### **Token Usage**
+- 대화 비용: $0.1657615
+- 입력 토큰: 494255.0
+- 출력 토큰: 6994.0
+---
+
+
+
+
+
+# [5] Feedback Response
+None
