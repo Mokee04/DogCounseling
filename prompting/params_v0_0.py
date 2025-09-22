@@ -10,9 +10,9 @@ class EvalOutput(BaseModel):
     
 class SetParams:
     def __init__(self, 
-                 cami_post_prompt,
-                 cami_pre_prompt,
-                 tester_persona):
+            cami_post_prompt,
+            cami_pre_prompt,
+            tester_persona):
         self.cami_post_prompt = cami_post_prompt
         self.cami_pre_prompt = cami_pre_prompt
         self.tester_persona = tester_persona
@@ -67,7 +67,6 @@ class SetParams:
     
     def judges(self):
         system_instruction = """
-
 """
         param = {
             'system_instruction': system_instruction,
@@ -76,12 +75,12 @@ class SetParams:
         }
         return {
             1: {
-            **param,
-            'model': 'gemini-2.5-pro'
+                **param,
+                'model': 'gemini-2.5-pro'
         },
-        2: {
-            **param,
-            'model': 'gpt-5',
-            'reasoning_effort': 'high'
-        }
+            2: {
+                **param,
+                'model': 'gpt-5',
+                'reasoning_effort': 'high'
+            }
         }
