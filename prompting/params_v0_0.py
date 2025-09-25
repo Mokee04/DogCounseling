@@ -1,21 +1,47 @@
-from langchain_core.pydantic_v1 import BaseModel, Field
+from typing import Literal
+from pydantic import BaseModel, ConfigDict, Field
+
+class CounselorOutput(BaseModel):
+    front_message: str = Field(description="Only output the message to be delivered to the conversation partner.")
+    back_thinking: str = Field(description="Briefly summarize the Chain-of-Thought process.")
 
 # --- Judge 모델의 Structured Output : Pydantic 모델 정의 ---
+class ScoringItem(BaseModel):
+    model_config = ConfigDict(extra='forbid')
+    score: int = Field(ge=0, le=10, description="0~10 척도 점수")
+    reason: str = Field(description="해당 점수 선택 이유")
+
 class EvalOutput(BaseModel):
-    winner: str = Field(description="post와 pre 챗봇 중 누가 더 양질의 상담을 진행하였는지 판단하세요.")
-    good_point: str = Field(description="post가 pre 대비 개선된 점을 설명하세요.")
-    revision_point: str = Field(description="post를 개선하기 위해 수정해야 할 점을 설명하세요.")
-    suggestion: str = Field(description="post를 개선하기 위해 제안하는 방법을 설명하세요.(개선의 범위는 프롬프트에 한정됩니다.)")
-    score: int = Field(description="점수 평정")
+    model_config = ConfigDict(extra='forbid')
+    winner: Literal["pre", "post"]
+
+    scoring1: ScoringItem = Field(description="item 1: 요구 파악")
+    scoring2: ScoringItem = Field(description="item 2: 정확한 정보")
+    scoring3: ScoringItem = Field(description="item 3: 정보 수집(충분성)")
+    scoring4: ScoringItem = Field(description="item 4: 정보 수집(질문 품질)")
+    scoring5: ScoringItem = Field(description="item 5: 원인 추론")
+    scoring6: ScoringItem = Field(description="item 6: 개인화")
+    scoring7: ScoringItem = Field(description="item 7: 적절성")
+    scoring8: ScoringItem = Field(description="item 8: 구체성")
+    scoring9: ScoringItem = Field(description="item 9: 설득")
+    scoring10: ScoringItem = Field(description="item 10: 어조/말투")
+    scoring11: ScoringItem = Field(description="item 11: 장황성/반복")
+
+    good_point: str = Field(description="[post]가 [pre] 대비 잘한 점")
+    bad_point: str = Field(description="[post]가 [pre] 대비 못한 점")
     
 class SetParams:
     def __init__(self, 
             cami_post_prompt,
             cami_pre_prompt,
-            tester_persona):
+            counseling_guide,
+            tester_persona,
+            eval_score_table):
         self.cami_post_prompt = cami_post_prompt
         self.cami_pre_prompt = cami_pre_prompt
+        self.counseling_guide = counseling_guide
         self.tester_persona = tester_persona
+        self.eval_score_table = eval_score_table
         self.params = {
             'counselor': self.counselor(),
             'tester': self.tester(),
@@ -25,9 +51,11 @@ class SetParams:
         
     def counselor(self):
         return {
-            "system_instruction": self.cami_post_prompt,
+            "system_instruction": self.cami_post_prompt + '\n\n --- \n\n' + self.counseling_guide,
             "model": "gemini-2.5-flash",    
-            "temperature": 0.6
+            "temperature": 0.6,
+            "structured_output": CounselorOutput,
+            "max_output_tokens": 65536
         }
         
     def tester(self):
@@ -61,13 +89,54 @@ class SetParams:
 """
         return {
             "system_instruction": system_instruction,
-            "model": "gemini-2.5-flash",
-            "temperature": 0.5
+            "model": "gpt-4o",
+            "temperature": 0.3
         }
     
     def judges(self):
         system_instruction = """
-"""
+### 역할
+당신은 반려견 행동학 전문 수의사입니다.
+반려견 양육상담 챗봇 까미의 상담 능력을 평가하고 있어요.
+[pre]와 [post]는 까미의 프롬프트 버전에 따른 구분이며, pre는 기존 버전이고 post는 새로운 버전입니다.
+[pre]와 [post] 버전의 채팅 기록을 보고 까미의 상담 능력을 비교 평가해 주세요.
+또한 **채점 기준**을 제공할테니, 해당 기준에 따라 **[post] 버전의 점수**를 채점하세요.
+**각 항목별 점수 기준은 상담이 지향하는 바를 나타냅니다. 점수 평가와 개선 제안을 반드시 이에 기반하여 제시해 주세요.**
+
+### 출력
+- winner: 더 양질의 상담을 진행한 버전을 선택하세요. [pre|post]
+- scoring1..scoring11: 아래 [채점 기준]에 따라 **[post]** 버전의 점수를 평정하세요.
+    - 각 항목은 {"score": 0~10, "reason": string} 객체입니다.
+    - 채점할만한 대화 내용이 없으면 항목별로 'when_missing_score' 컬럼의 점수값을 score로 기입하고, reason은 "대상 내용 없음"으로 기입하세요.
+- good_point: [post]가 [pre] 대비 잘한 점을 설명하세요.
+- bad_point: [post]가 [pre] 대비 못한 점을 설명하세요.
+- json 형식으로 출력. "```json"는 출력에 절대 포함하지 마세요.
+
+#### 출력 예시
+'{
+    "winner": "post",
+    "scoring1": {"score": 5, "reason": "요구 파악 양호..."},
+    "scoring2": {"score": 5, "reason": "정보 정확..."},
+    "scoring3": {"score": 5, "reason": "정보 수집 충분..."},
+    "scoring4": {"score": 7, "reason": "질문 품질 우수..."},
+    "scoring5": {"score": 5, "reason": "원인 추론 정확..."},
+    "scoring6": {"score": 2, "reason": "개인화 미흡..."},
+    "scoring7": {"score": 7, "reason": "적절성 높음..."},
+    "scoring8": {"score": 1, "reason": "구체성 부족..."},
+    "scoring9": {"score": 0, "reason": "대상 내용 없음..."},
+    "scoring10": {"score": 5, "reason": "어조/말투 문제 없음..."},
+    "scoring11": {"score": 5, "reason": "장황/반복 적음..."},
+    "good_point": "...",
+    "bad_point": "..."
+}'
+
+### 채점 기준: 아래 내용을 고려해 채점하고, 장단점을 분석하세요. 
+- 항목별 점수 기준은 다음을 염두에 두고 작성되었습니다. 
+    - 0~5점: 제기능을 충분히 수행하는가?
+    - 5~10점: 제기능을 넘어 내담자에게 와우 포인트를 제공하는가?
+- scoring_criteria[score:10] 컬럼은 10점으로 채점하는 기준을 나타냅니다.
+""" + self.eval_score_table.to_markdown()
+
         param = {
             'system_instruction': system_instruction,
             'temperature': 0.2,
