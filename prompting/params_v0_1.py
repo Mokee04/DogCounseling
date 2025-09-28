@@ -142,7 +142,7 @@ class SetParams:
             2: {
                 **param,
                 'model': 'gpt-5',
-                'reasoning_effort': 'low'
+                'reasoning_effort': 'high'
             }
         }
 
@@ -167,7 +167,7 @@ class SetParams:
         return {
             "system_instruction": system_instruction,
             "model": "gpt-5",
-            "reasoning_effort": "low",
+            "reasoning_effort": "high",
             "temperature": 0.3
         }
 

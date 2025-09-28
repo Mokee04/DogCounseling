@@ -105,7 +105,7 @@ class GraphExecutor:
         self.params_dict = params_dict
 
         self.logging = Logging(
-            save_dir=f"{self.preconfig.wdir}/exp_record/exp_log{exp_iteration}.csv",
+            save_dir=f"{self.preconfig.wdir}/exp_record/exp_log_{input_prompt_ver}_{exp_iteration}.csv",
             exp_iteration=exp_iteration
         )
 
@@ -155,6 +155,7 @@ class GraphExecutor:
         )
 
         if current_role == 'counselor':
+            message = message.replace('```json', '').replace('```', '')
             role_message_json = json.loads(message)
             front_message = role_message_json['front_message']
         elif current_role == 'tester':
@@ -292,6 +293,8 @@ class GraphExecutor:
                 self.logging.save_logging(log_row)
         except Exception as e:
             logging.warning(f"eval_single_completed logging failed: {e}")
+        
+        response = response.replace('```json', '').replace('```', '')
         return json.loads(response)
 
     def eval_process(self, state: State) -> State:        
