@@ -1,0 +1,67 @@
+{
+  "animal_type": "Dog",
+  "pet_name": "랑이",
+  "pet_birth_date": "2022-05-07",
+  "pet_adopted_at": "2022-07-02",
+  "pet_gender": "F",
+  "pet_is_neutered": true,
+  "pet_breed": "진도믹스",
+  "env1": "반려동물과 함께 거주하지 않음",
+  "env2": "가정 분양",
+  "env3": "주거용 공간(아파트, 원룸, 단독주택 등)",
+  "env4": 4,
+  "env5": "아니오",
+  "env6": 20,
+  "env7": 3,
+  "env8": "없음",
+  "env9": 1,
+  "life_walk_day": 2,
+  "life_walk_hour": 45,
+  "life_walk_week": 12,
+  "life_play": "가끔씩 터그 놀이 비스무리하게 놀아요. 하루에 한 번 정도 15분",
+  "life_human": 18,
+  "life_alone": 6,
+  "life_space": [
+    "문이 있는 플라스틱 크레이트(바리, 행복 켄넬 등)",
+    "방석이나 매트",
+    "몇 군데 본인이 좋아하는 자리"
+  ],
+  "pref_rewards": "아빠 보호자(주보호자)의 손길",
+  "med_disease": "알레르기성 피부염",
+  "med_allergy": "식품에 알레르기가 있는데, 어떤 성분 때문인지는 잘 모름",
+  "social_interactions": "5~10명",
+  "social_trains": [
+    "손",
+    "앉아",
+    "기다려",
+    "엎드려",
+    "돌아"
+  ],
+  "fear_triggers": "바깥에서 갑작스러운 바람소리 같은 자극",
+  "fear_touch": [
+    "전반적으로 몸 전체",
+    "발",
+    "안아서 들기",
+    "뽀뽀하기"
+  ],
+  "fear_stranger": "별다른 반응을 보이지 않는다.",
+  "fear_clinic": [
+    "낮게 으르렁거린다"
+  ],
+  "fear_dog": "약간 그렇지 않다",
+  "fear_separation": "약간 그렇다",
+  "behavior_guarding": "본인이 당장 관심을 가지고 있는 모든 것. 보호자, 장난감, 간식 등 전반",
+  "behavior_separation": "주보호자가 외출하려고 하면 흥분해서 달려들려고 함",
+  "behavior_demand": [
+    "보호자의 옷, 악세서리, 신체 일부를 물어서 잡아당긴다"
+  ],
+  "behavior_impulsive": "약간 그렇지 않다",
+  "behavior_overarousal": "전혀 그렇지 않다",
+  "behavior_licking": "매우 그렇다",
+  "behavior_denial": "약간 그렇지 않다",
+  "behavior_aggression": "으르렁거리는데도 자꾸 만지려고 할 때, 혼자만 두고 가족들이 모두 나가려 할 때",
+  "behavior_bite": "레벨2 - 개의 이빨이 상대의 피부에 닿지만, 피부에 구멍이 나지 않는다. 다만 피부에 가벼운 이빨 자국이 생기거나, 이빨이 스치면서 아주 약간의 출혈이 있을 수 있다. (상처의 길이는 2.5cm 이하로, 피부가 뚫리는 깊은 상처는 아님)",
+  "counseling_needs": "외출 신호에도 차분하게 있기, 주보호자인 아빠 보호자하고만 살갑고, 다른 가족들에게는 거리를 두려고 함",
+  "dcsi_label": "눈치빠른 탐험가",
+  "dcsi_code": "PICA"
+}
