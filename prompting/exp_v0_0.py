@@ -147,19 +147,28 @@ class GraphExecutor:
         current_query = last_message[counter_role]
         chat_history = self.llm_api_generators[current_role][case_index].message_history
 
-        message = self.llm_api_generators[current_role][case_index].generate_message(
-            query=current_query,
-            params=param_set[current_role],
-            tagname=current_role,
-            message_history=chat_history
-        )
+        retry_cnt = 0
+        while retry_cnt < 3:
+            try:
+                message = self.llm_api_generators[current_role][case_index].generate_message(
+                    query=current_query,
+                    params=param_set[current_role],
+                    tagname=current_role,
+                    message_history=chat_history
+                )
 
-        if current_role == 'counselor':
-            message = message.replace('```json', '').replace('```', '')
-            role_message_json = json.loads(message)
-            front_message = role_message_json['front_message']
-        elif current_role == 'tester':
-            front_message = message
+                if current_role == 'counselor':
+                    message = message.replace('```json', '').replace('```', '')
+                    role_message_json = json.loads(message)
+                    front_message = role_message_json['front_message']
+                elif current_role == 'tester':
+                    front_message = message
+                break
+            except Exception as e:
+                logging.warning(f"chat_generated... failed: {e}")
+                retry_cnt += 1
+                time.sleep(2)
+                continue
 
         self.llm_api_generators[current_role][case_index].update_message_history(
             query=current_query,

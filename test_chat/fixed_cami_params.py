@@ -9,7 +9,7 @@ class FixedCamiParams:
     def __init__(self):
         wdir = '/dog_counseling/test_chat'
         self.guide_prompt = open(f'{wdir}/guide_prompt.md', 'r').read()
-        self.counselor_prompt = open(f'{wdir}/counselor_prompt.md', 'r').read()
+        self.counselor_prompt = open(f'{wdir}/counselor_prompt_rev.md', 'r').read()
         self.initial_message = open(f'{wdir}/initial_message.md', 'r').read()
         
         self.params = {
@@ -29,5 +29,6 @@ class FixedCamiParams:
             'system_instruction': self.counselor_prompt,
             'model': 'gemini-2.5-flash',
             'temperature': 0.6,
+            'max_output_tokens': 8192,
             'structured_output': CounselorOutput,
         }

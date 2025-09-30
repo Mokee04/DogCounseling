@@ -53,7 +53,7 @@ class SetParams:
             "model": "gemini-2.5-flash",    
             "temperature": 0.6,
             "structured_output": CounselorOutput,
-            "max_output_tokens": 65536
+            "max_output_tokens": 8192
         }
         
     def tester(self):
@@ -132,7 +132,8 @@ class SetParams:
         param = {
             'system_instruction': system_instruction,
             'temperature': 0.2,
-            'structured_output': EvalOutput
+            'structured_output': EvalOutput,
+            "max_output_tokens": 8192
         }
         return {
             1: {
@@ -168,7 +169,8 @@ class SetParams:
             "system_instruction": system_instruction,
             "model": "gpt-5",
             "reasoning_effort": "high",
-            "temperature": 0.3
+            "temperature": 0.3,
+            "max_output_tokens": 8192
         }
 
     def prompt_improver(self):
@@ -202,4 +204,5 @@ class SetParams:
                         "topic": "general"
                     }
                 },
+            "max_output_tokens": 8192
         }
