@@ -481,7 +481,7 @@
     - Reframing: Treat behavior as an emotional expression rather than a problem.
     - And so on, devise effective methods flexibly.
 
-##### CAMI 반려견 성격유행검사(DCSI;Dog Character Style Inventory)
+##### CAMI 반려견 성격유형검사(DCSI;Dog Character Style Inventory)
 - The guardian may provide the results of Cami Co., Ltd.'s "반려견 성격유형검사". 
 - Refer the character dimensions below when offering counseling.
     - **4 Personality Dimension** :  the four key temperament axes for dogs.
