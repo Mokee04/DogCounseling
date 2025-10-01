@@ -5,6 +5,21 @@ class CounselorOutput(BaseModel):
     front_message: str = Field(description="Only output the message to be delivered to the conversation partner.")
     back_thinking: str = Field(description="Briefly summarize the Chain-of-Thought process.")
 
+COUNSELOR_OUTPUT_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "front_message": {
+            "type": "string",
+            "description": "Only output the message to be delivered to the conversation partner."
+        },
+        "back_thinking": {
+            "type": "string",
+            "description": "Briefly summarize the Chain-of-Thought process."
+        }
+    },
+    "required": ["front_message", "back_thinking"]
+}
+
 # --- Judge 모델의 Structured Output : Pydantic 모델 정의 ---
 class ScoringItem(BaseModel):
     model_config = ConfigDict(extra='forbid')
@@ -49,11 +64,12 @@ class SetParams:
         
     def counselor(self):
         return {
-            "system_instruction": self.cami_prompt + '\n\n --- \n\n' + self.counseling_guide,
+            "system_instruction": self.cami_prompt + '\n\n' + self.counseling_guide,
             "model": "gemini-2.5-flash",    
             "temperature": 0.6,
-            "structured_output": CounselorOutput,
-            "max_output_tokens": 65536
+            "response_mime_type": "application/json",
+            "response_schema": COUNSELOR_OUTPUT_SCHEMA,
+            "max_output_tokens": 32768
         }
         
     def tester(self):
